@@ -1,0 +1,28 @@
+diff --git a/node_modules/magpie-base/src/components/screens/DebugResultsScreen.vue b/node_modules/magpie-base/src/components/screens/DebugResultsScreen.vue
+index d3f48e0..f67cf8c 100644
+--- a/node_modules/magpie-base/src/components/screens/DebugResultsScreen.vue
++++ b/node_modules/magpie-base/src/components/screens/DebugResultsScreen.vue
+@@ -50,7 +50,8 @@ export default {
+   },
+   methods: {
+     downloadCsv() {
+-      let blob = new Blob([this.csv], {
++      // Adaugă BOM pentru UTF-8 ca să recunoască Excel diacriticele românești
++      let blob = new Blob(["\uFEFF" + this.csv], {
+         type: 'text/plain',
+         endings: 'native'
+       });
+diff --git a/node_modules/magpie-base/src/components/screens/SubmitResultsScreen.vue b/node_modules/magpie-base/src/components/screens/SubmitResultsScreen.vue
+index 89432b9..7d77322 100644
+--- a/node_modules/magpie-base/src/components/screens/SubmitResultsScreen.vue
++++ b/node_modules/magpie-base/src/components/screens/SubmitResultsScreen.vue
+@@ -81,7 +81,8 @@ export default {
+       }
+     },
+     downloadCsv() {
+-      const blob = new Blob([this.csv], {
++      // Adaugă BOM pentru UTF-8 ca să recunoască Excel diacriticele românești
++      const blob = new Blob(["\uFEFF" + this.csv], {
+         type: 'text/plain',
+         endings: 'native'
+       });

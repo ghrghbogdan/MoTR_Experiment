@@ -1,0 +1,7 @@
+timestamp	trial_number	stimulus_number	page_number	screen_onset_timestamp	keypress_timestamp	key_pressed	question	answer_correct	message
+34256.63781166077	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** DATE:2025-09-18
+34262.35580444336	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** EXP_START_TIMESTAMP:1758195194
+34267.70997047424	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** SESSION_ID:1
+34273.778676986694	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** PARTICIPANT_ID:001
+34279.25181388855	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** DATASET_TYPE:test_sessions
+34284.39140319824	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** SESSION_MODE:test

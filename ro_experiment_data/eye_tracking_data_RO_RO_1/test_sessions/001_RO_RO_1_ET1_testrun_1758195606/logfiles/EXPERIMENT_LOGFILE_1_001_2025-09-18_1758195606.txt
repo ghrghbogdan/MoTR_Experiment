@@ -1,0 +1,11 @@
+timestamp	trial_number	stimulus_number	page_number	screen_onset_timestamp	keypress_timestamp	key_pressed	question	answer_correct	message
+37416.76139831543	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** DATE:2025-09-18
+37423.30241203308	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** EXP_START_TIMESTAMP:1758195606
+37428.78198623657	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** SESSION_ID:1
+37434.709787368774	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** PARTICIPANT_ID:001
+37439.84341621399	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** DATASET_TYPE:test_sessions
+37444.89288330078	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** SESSION_MODE:test
+42103.379011154175	<NA>	<NA>	instruction_screen_1	41689.178466796875	42103.36446762085	space	False	<NA>	stop showing: instruction_screen_1
+42413.18678855896	<NA>	<NA>	instruction_screen_2	42122.35736846924	42413.17558288574	space	False	<NA>	stop showing: instruction_screen_2
+42607.96928405762	<NA>	<NA>	instruction_screen_3	42433.6371421814	42607.948541641235	space	False	<NA>	stop showing: instruction_screen_3
+43813.23742866516	<NA>	<NA>	practice_start_screen	43812.74676322937	space	43813.21620941162	False	<NA>	stop showing: practice_start_screen

@@ -1,53 +1,70 @@
+# === OS ===
 .DS_Store
-node_modules
+Thumbs.db
+
+# === Node.js / NPM ===
+node_modules/
+.npm/
 package-lock.json
-/dist
-__pycache__
+yarn.lock
+*.log
 
-# local env files
-.env.local
-.env.*.local
+# === Build ===
+dist/
+build/
 
-# Log files
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# === IDE ===
+.idea/
+.vscode/
+*.swp
+*.swo
 
-*.RData
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
 
-# Editor directories and files
-.idea
-.vscode
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+# === R ===
+.RData
+.Rhistory
+*.Rproj
+.Rproj.user/
 
-# models
-bayesian_models_cor/
-bayesian_models_lc/
-bayesian_models_surp/
+# === GitHub Actions ===
+.github/
+
+# === EXCLUDE: Experiments care NU sunt Provo ===
+experiments/attachment/
+MoTR/run_motr_in_magpie/attachment/
+MoTR/run_motr_in_magpie/demo/
+MoTR/run_motr_in_magpie/demo-Clara/
+
+# === EXCLUDE: Date procesate (regenerabile) ===
+experiments/provo/data/provo_f160/
+*/divided/
+*/corrected_divided/
+*/associations/
+*/reading_measures/
+*/processed_trial/
+*/preprocessed_trialData/
+
+# === EXCLUDE: Fișiere mari ===
+experiments/provo/data/provo_eyetracking.csv
+*.nb.html
+
+# === EXCLUDE: Alte foldere inutile ===
+bayesian_models*/
 provo_temp/
-reading_measures/
 Workflow/
-divided/
-preprocessed_trialData/
 metadata/
-processed_trial/
-preprocessed_trialData/
 fixations/
-reading_measures/
 raw_data/
-associations/
-corrected_divided/
 temp/
 review_response/
 provo_cleaned_raw_fixation_not_merged/
 BSPR_f150/
 provo_divided_by_reader_all/
-provo_f160/
-bayesian_models/
 provo_rawdata/
 archives/
-

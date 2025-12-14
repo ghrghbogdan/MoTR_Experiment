@@ -1,0 +1,1520 @@
+﻿expr_id,cond_id,para_nr,word,word_nr,response_true,response_chosen,correctness,first_duration,total_duration,gaze_duration,right_bounded_rt,go_past_time,FPFix,FPReg,RegIn_excl,RegIn_incl
+2,1,1,Proiectul,0,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,397.0,1096.0,397.0,397.0,397.0,1.0,0.0,1,1
+2,1,1,MultiplEYE,1,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,554.0,802.0,554.0,554.0,554.0,1.0,0.0,1,1
+2,1,1,Numele,2,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,395.0,395.0,395.0,395.0,395.0,1.0,0.0,0,0
+2,1,1,„MultiplEYE”,3,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,800.0,800.0,800.0,800.0,800.0,1.0,0.0,0,0
+2,1,1,este,4,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,un,5,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,joc,6,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,7,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cuvinte,8,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,248.0,248.0,248.0,248.0,248.0,1.0,0.0,0,0
+2,1,1,care,9,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,combină,10,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,1400.0,1400.0,1400.0,1400.0,1400.0,1.0,0.0,0,0
+2,1,1,„multilingvism”,11,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,1000.0,2052.0,1000.0,1000.0,1000.0,1.0,0.0,1,1
+2,1,1,sau,12,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,248.0,248.0,248.0,248.0,248.0,1.0,0.0,0,0
+2,1,1,„limbi,13,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,455.0,806.0,455.0,806.0,2805.0,1.0,1.0,0,0
+2,1,1,multiple”,14,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,400.0,400.0,400.0,400.0,400.0,1.0,0.0,0,0
+2,1,1,cu,15,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,„eye”,16,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,249.0,249.0,249.0,249.0,249.0,1.0,0.0,0,0
+2,1,1,(ochi),17,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,400.0,400.0,400.0,400.0,400.0,1.0,0.0,0,0
+2,1,1,din,18,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,„eye-tracking”,19,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,498.0,498.0,498.0,498.0,498.0,1.0,0.0,0,0
+2,1,1,(urmărire,20,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,1650.0,1650.0,1650.0,1650.0,1650.0,1.0,0.0,0,0
+2,1,1,oculară).,21,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,603.0,603.0,603.0,603.0,603.0,1.0,0.0,0,0
+2,1,1,MultiplEYE,22,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,800.0,800.0,800.0,800.0,800.0,1.0,0.0,0,0
+2,1,1,este,23,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,552.0,552.0,552.0,552.0,552.0,1.0,0.0,0,0
+2,1,1,o,24,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Acțiune,25,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,702.0,702.0,702.0,702.0,702.0,1.0,0.0,0,0
+2,1,1,COST,26,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,449.0,449.0,449.0,449.0,449.0,1.0,0.0,0,0
+2,1,1,finanțată,27,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,1400.0,1400.0,1400.0,1400.0,1400.0,1.0,0.0,0,0
+2,1,1,de,28,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,450.0,450.0,450.0,450.0,450.0,1.0,0.0,0,0
+2,1,1,Uniunea,29,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,1004.0,1004.0,1004.0,1004.0,1004.0,1.0,0.0,0,0
+2,1,1,Europeană.,30,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Acțiunile,31,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,848.0,848.0,848.0,848.0,848.0,1.0,0.0,0,0
+2,1,1,COST,32,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,401.0,401.0,401.0,401.0,401.0,1.0,0.0,0,0
+2,1,1,sunt,33,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,599.0,599.0,599.0,599.0,599.0,1.0,0.0,0,0
+2,1,1,rețele,34,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,601.0,601.0,601.0,601.0,601.0,1.0,0.0,0,0
+2,1,1,de,35,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,302.0,302.0,302.0,302.0,302.0,1.0,0.0,0,0
+2,1,1,cercetare,36,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,448.0,448.0,448.0,448.0,448.0,1.0,0.0,0,0
+2,1,1,sprijinite,37,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,1504.0,1504.0,1504.0,1504.0,1504.0,1.0,0.0,0,0
+2,1,1,de,38,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Cooperarea,39,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,1898.0,1898.0,1898.0,1898.0,1898.0,1.0,0.0,0,0
+2,1,1,Europeană,40,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,849.0,849.0,849.0,849.0,849.0,1.0,0.0,0,0
+2,1,1,în,41,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,1703.0,1703.0,1703.0,1703.0,1703.0,1.0,0.0,0,0
+2,1,1,Știință,42,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,997.0,997.0,997.0,997.0,997.0,1.0,0.0,0,0
+2,1,1,și,43,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,249.0,249.0,249.0,249.0,249.0,1.0,0.0,0,0
+2,1,1,"Tehnologie,",44,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,705.0,705.0,705.0,705.0,705.0,1.0,0.0,0,0
+2,1,1,pe,45,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,scurt,46,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,346.0,346.0,346.0,346.0,346.0,1.0,0.0,0,0
+2,1,1,COST.,47,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,399.0,399.0,399.0,399.0,399.0,1.0,0.0,0,0
+2,1,1,Ca,48,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,251.0,251.0,251.0,251.0,251.0,1.0,0.0,0,0
+2,1,1,organizație,49,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,802.0,802.0,802.0,802.0,802.0,1.0,0.0,0,0
+2,1,1,de,50,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"finanțare,",51,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,598.0,598.0,598.0,598.0,598.0,1.0,0.0,0,0
+2,1,1,COST,52,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,302.0,302.0,302.0,302.0,302.0,1.0,0.0,0,0
+2,1,1,susține,53,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,2352.0,2352.0,2352.0,2352.0,2352.0,1.0,0.0,0,0
+2,1,1,rețeaua,54,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,848.0,848.0,848.0,848.0,848.0,1.0,0.0,0,0
+2,1,1,noastră,55,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,503.0,503.0,503.0,503.0,503.0,1.0,0.0,0,0
+2,1,1,în,56,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,297.0,297.0,297.0,297.0,297.0,1.0,0.0,0,0
+2,1,1,creștere,57,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,500.0,500.0,500.0,500.0,500.0,1.0,0.0,0,0
+2,1,1,de,58,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,202.0,202.0,202.0,202.0,202.0,1.0,0.0,0,0
+2,1,1,cercetători,59,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,947.0,947.0,947.0,947.0,947.0,1.0,0.0,0,0
+2,1,1,din,60,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,250.0,250.0,250.0,250.0,250.0,1.0,0.0,0,0
+2,1,1,Europa,61,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,453.0,453.0,453.0,453.0,453.0,1.0,0.0,0,0
+2,1,1,și,62,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,din,63,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,246.0,246.0,246.0,246.0,246.0,1.0,0.0,0,0
+2,1,1,afara,64,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,400.0,400.0,400.0,400.0,400.0,1.0,0.0,0,0
+2,1,1,"ei,",65,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,305.0,305.0,305.0,305.0,305.0,1.0,0.0,0,0
+2,1,1,oferind,66,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,1795.0,1795.0,1795.0,1795.0,1795.0,1.0,0.0,0,0
+2,1,1,sprijin,67,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,654.0,654.0,654.0,654.0,654.0,1.0,0.0,0,0
+2,1,1,financiar,68,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,648.0,648.0,648.0,648.0,648.0,1.0,0.0,0,0
+2,1,1,pentru,69,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,449.0,449.0,449.0,449.0,449.0,1.0,0.0,0,0
+2,1,1,desfășurarea,70,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,654.0,654.0,654.0,654.0,654.0,1.0,0.0,0,0
+2,1,1,diverselor,71,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,645.0,645.0,645.0,645.0,645.0,1.0,0.0,0,0
+2,1,1,activități,72,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,901.0,901.0,901.0,901.0,901.0,1.0,0.0,0,0
+2,1,1,de,73,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,300.0,300.0,300.0,300.0,300.0,1.0,0.0,0,0
+2,1,1,networking.,74,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Aceste,75,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,activități,76,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,includ,77,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,întâlniri,78,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ale,79,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,grupurilor,80,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,81,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"lucru,",82,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,școli,83,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,84,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,formare,85,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,86,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,87,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,împărtăși,88,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,abilități,89,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cu,90,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cercetătorii,91,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mai,92,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,tineri,93,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,94,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,vizite,95,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,științifice,96,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,97,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cercetare.,98,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Titlul,99,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,proiectului,100,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Acțiunii,101,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,COST,102,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,MultiplEYE,103,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,este:,104,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Facilitarea,105,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,colectării,106,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,datelor,107,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,108,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,urmărire,109,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oculară,110,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,111,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mai,112,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,multe,113,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,limbi,114,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,115,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cercetarea,116,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,procesării,117,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,limbajului,118,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,119,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,către,120,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,om,121,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,122,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,123,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,procesării,124,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,automate.,125,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Acest,126,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,lucru,127,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,înseamnă,128,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,că,129,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Acțiunea,130,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,COST,131,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,MultiplEYE,132,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,urmărește,133,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,să,134,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,încurajeze,135,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,o,136,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,rețea,137,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,interdisciplinară,138,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,139,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,grupuri,140,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,141,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cercetare,142,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,143,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,lucrează,144,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,la,145,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,colectarea,146,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,datelor,147,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,148,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,urmărire,149,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oculară,150,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,151,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,timpul,152,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,citirii,153,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,154,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mai,155,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,multe,156,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,limbi.,157,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Obiectivul,158,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,este,159,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,160,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,161,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sprijini,162,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,dezvoltarea,163,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,unui,164,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,corpus,165,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,multilingv,166,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,extins,167,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,168,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,urmărire,169,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oculară,170,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,171,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,172,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,173,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,permite,174,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cercetătorilor,175,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,să,176,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,colecteze,177,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,date,178,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,prin,179,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,împărtășirea,180,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cunoștințelor,181,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,între,182,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,diverse,183,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"domenii,",184,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,inclusiv,185,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"lingvistică,",186,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"psihologie,",187,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,logopedie,188,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,189,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,informatică.,190,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Aceste,191,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,date,192,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pot,193,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,fi,194,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,apoi,195,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,utilizate,196,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,197,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,198,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,studia,199,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,procesarea,200,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,limbajului,201,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,uman,202,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,dintr-o,203,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,perspectivă,204,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"psiholingvistică,",205,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,precum,206,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,207,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,208,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,209,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,îmbunătăți,210,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,211,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,evalua,212,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,procesarea,213,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,computațională,214,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,215,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,limbajului,216,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,dintr-o,217,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,perspectivă,218,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,219,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,învățare,220,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,automată.,221,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Ce,222,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,este,223,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,urmărirea,224,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oculară?,225,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Urmărirea,226,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oculară,227,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,este,228,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,procesul,229,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,230,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,măsurare,231,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,232,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,punctului,233,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,234,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,privire,235,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,–,236,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,locul,237,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,unde,238,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,te,239,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,uiți,240,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,–,241,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,242,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,243,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mișcărilor,244,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ochilor,245,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,între,246,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,punctele,247,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,fixe,248,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,249,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,privire.,250,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Dispozitivul,251,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,utilizat,252,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,253,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,254,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,măsura,255,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pozițiile,256,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,257,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mișcările,258,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ochilor,259,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,se,260,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,numește,261,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,eye-tracker.,262,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Acesta,263,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,constă,264,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,într-o,265,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cameră,266,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cu,267,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"infraroșu,",268,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,folosind,269,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,o,270,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,frecvență,271,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,272,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,lumină,273,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,274,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,nu,275,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,deranjează,276,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sau,277,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,rănește,278,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ochiul,279,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,uman.,280,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Cu,281,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ajutorul,282,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,algoritmilor,283,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,284,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,recunoaștere,285,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,286,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"imaginii,",287,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,eye-tracker-ul,288,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,poate,289,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,estima,290,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,punctele,291,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,292,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,privire,293,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cu,294,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mare,295,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"precizie,",296,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cunoscând,297,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,poziția,298,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,capului,299,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,300,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,301,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"ochilor,",302,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,distanța,303,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,față,304,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,305,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ecranul,306,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,la,307,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,308,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,se,309,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,uită,310,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,participantul,311,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,312,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,poziția,313,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,dispozitivului.,314,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Urmărirea,315,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oculară,316,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,este,317,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,o,318,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,tehnologie,319,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,utilă,320,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,321,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,multe,322,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,aplicații.,323,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,De,324,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"exemplu,",325,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,poate,326,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ajuta,327,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,la,328,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,detectarea,329,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oboselii,330,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,331,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,timpul,332,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,condusului,333,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sau,334,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,poate,335,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sprijini,336,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,aplicațiile,337,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,338,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,screening,339,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,340,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,instruire,341,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,342,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,domeniul,343,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,medical.,344,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Urmărirea,345,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oculară,346,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,este,347,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"folosită,",348,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,349,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"asemenea,",350,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,351,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"gaming,",352,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,marketing,353,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,354,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,interacțiunea,355,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,om-calculator.,356,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,De,357,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ce,358,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,urmărirea,359,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oculară,360,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,361,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,timpul,362,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,citirii,363,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,prezintă,364,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,interes,365,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,366,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,proiectul,367,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,nostru?,368,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,În,369,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,timp,370,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ce,371,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,citești,372,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,aceste,373,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"cuvinte,",374,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,eye-tracker-ul,375,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,urmărește,376,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mișcările,377,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ochilor,378,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,tăi,379,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pe,380,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,text.,381,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Acest,382,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,lucru,383,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oferă,384,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,informații,385,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,despre,386,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cât,387,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,timp,388,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,petreci,389,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,uitându-te,390,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,la,391,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,un,392,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,text,393,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"sau,",394,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mai,395,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"specific,",396,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cât,397,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,timp,398,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ai,399,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,petrecut,400,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pe,401,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,fiecare,402,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"cuvânt,",403,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ce,404,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cuvinte,405,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ai,406,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"sărit,",407,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,asupra,408,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,căror,409,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cuvinte,410,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,te-ai,411,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oprit,412,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,413,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,dacă,414,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,415,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,trebuit,416,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,să,417,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,revii,418,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,419,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,să,420,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,recitești,421,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,părți,422,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ale,423,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,textului,424,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,425,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a-l,426,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,înțelege,427,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mai,428,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,bine.,429,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Pe,430,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,măsură,431,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ce,432,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,creierul,433,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,tău,434,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,procesează,435,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,conținutul,436,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"textului,",437,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mișcările,438,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ochilor,439,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,reflectă,440,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,multe,441,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,dintre,442,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,procesele,443,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,lingvistice,444,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,445,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cognitive,446,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,447,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,au,448,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,loc,449,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,aproape,450,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,451,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,timp,452,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,real.,453,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"Astfel,",454,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,datele,455,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,înregistrate,456,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sunt,457,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,o,458,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,adevărată,459,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,comoară,460,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,461,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,informații,462,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,despre,463,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cum,464,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,construim,465,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sensul,466,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,467,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,structurile,468,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,gramaticale,469,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ale,470,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,unui,471,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,text.,472,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Ele,473,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,arată,474,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cu,475,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,476,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,părți,477,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ale,478,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,textului,479,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,întâmpinăm,480,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,dificultăți,481,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,482,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,483,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sunt,484,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ușor,485,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,486,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,citit.,487,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Este,488,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,responsabilitatea,489,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cercetătorilor,490,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,să,491,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,explice,492,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ulterior,493,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ce,494,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,factori,495,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,lingvistici,496,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,au,497,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cauzat,498,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,diferitele,499,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,tipuri,500,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,501,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mișcări,502,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ale,503,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ochilor.,504,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Motivația,505,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,din,506,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,spatele,507,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,MultiplEYE,508,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,este,509,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,că,510,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,datele,511,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,512,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,urmărire,513,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oculară,514,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sunt,515,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,încă,516,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"puține,",517,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mai,518,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ales,519,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,520,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,limbile,521,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cu,522,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,un,523,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,număr,524,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mai,525,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mic,526,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,527,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,vorbitori.,528,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,O,529,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,astfel,530,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,531,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,colectare,532,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,extinsă,533,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,534,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,datelor,535,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,reprezintă,536,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,o,537,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,provocare,538,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,539,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ceea,540,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ce,541,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,privește,542,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,dezvoltarea,543,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,544,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,convenirea,545,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,asupra,546,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,designului,547,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"experimental,",548,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,complexității,549,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,550,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,tipurilor,551,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,552,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,texte,553,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,554,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,urmează,555,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,să,556,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,fie,557,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,citite,558,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,559,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,către,560,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,participanți.,561,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Alte,562,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,decizii,563,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,564,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,par,565,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mai,566,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,puțin,567,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"relevante,",568,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,dar,569,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sunt,570,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,571,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,fapt,572,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,foarte,573,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"importante,",574,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,includ,575,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,tipul,576,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,577,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,dimensiunea,578,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,fontului,579,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,580,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,581,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,este,582,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,prezentat,583,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"textul,",584,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ordinea,585,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"textelor,",586,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,procedura,587,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,experimentului,588,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,589,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,modul,590,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,591,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,592,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,vor,593,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,fi,594,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,procesate,595,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,datele.,596,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"Dar,",597,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,odată,598,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"finalizat,",599,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,acest,600,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,set,601,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,602,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,date,603,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ne,604,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,va,605,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,permite,606,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,să,607,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,investigăm,608,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,multe,609,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,subiecte,610,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,legate,611,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,612,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,psiholingvistică,613,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,614,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,lingvistică,615,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,computațională.,616,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,De,617,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"exemplu,",618,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,putem,619,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,compara,620,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,comportamentul,621,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,622,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,citire,623,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,între,624,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,diferite,625,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,limbi.,626,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Influențează,627,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oare,628,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,tipul,629,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,630,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"scriere,",631,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,632,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"exemplu,",633,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,alfabetul,634,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,latin,635,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,față,636,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,637,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,scrierea,638,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,chirilică,639,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sau,640,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"arabă,",641,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,timpii,642,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,643,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,citire?,644,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Un,645,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,exemplu,646,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,legat,647,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,648,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,procesarea,649,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,computațională,650,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,651,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,textului,652,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ar,653,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,putea,654,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,implica,655,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,utilizarea,656,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,datelor,657,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,658,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,urmărire,659,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oculară,660,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,661,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,662,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,îmbunătăți,663,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,aplicațiile,664,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,665,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,inteligență,666,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,artificială,667,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,668,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,imită,669,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,procesul,670,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,671,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,citire,672,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,uman.,673,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Acest,674,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,lucru,675,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ar,676,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,putea,677,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,fi,678,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,folosit,679,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,680,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,681,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,construi,682,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sisteme,683,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mai,684,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,bune,685,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,686,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,traducere,687,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,automată,688,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sau,689,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,690,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,691,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,îmbunătăți,692,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,extragerea,693,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,automată,694,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,a,695,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cuvintelor,696,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cheie,697,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,din,698,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,text.,699,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Primirea,700,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,datelor,701,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,702,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,urmărire,703,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oculară,704,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,705,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,la,706,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mulți,707,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"participanți,",708,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,inclusiv,709,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,710,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,la,711,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"tine,",712,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,prin,713,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,citirea,714,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,textelor,715,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,716,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,multe,717,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,limbi,718,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"diferite,",719,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,va,720,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,constitui,721,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,o,722,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,bază,723,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,excelentă,724,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,725,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cercetarea,726,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,noastră.,727,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Aceasta,728,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,va,729,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,fi,730,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,factorul,731,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,principal,732,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,733,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,va,734,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,transforma,735,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,rețeaua,736,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,noastră,737,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,738,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cercetare,739,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,într-un,740,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,demers,741,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,742,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,succes.,743,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Sperăm,744,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,să,745,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,deschidem,746,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,calea,747,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,748,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,avansarea,749,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cercetării,750,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,751,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,diverse,752,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,subdomenii,753,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ale,754,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,lingvisticii,755,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,prin,756,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sprijinirea,757,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,758,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,conectarea,759,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,unui,760,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,grup,761,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mare,762,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,763,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,cercetători.,764,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Principalele,765,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,rezultate,766,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ale,767,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Acțiunii,768,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,MultiplEYE,769,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,vor,770,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,fi,771,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,un,772,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,set,773,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mare,774,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,775,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,date,776,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,777,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,conține,778,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,date,779,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,780,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,urmărire,781,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,oculară,782,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,783,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,multe,784,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,limbi,785,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,786,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,o,787,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,platformă,788,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pentru,789,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,noi,790,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,colaborări,791,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,care,792,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,se,793,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,bazează,794,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,pe,795,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,acest,796,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,tip,797,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,de,798,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,date.,799,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Dacă,800,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,citești,801,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,acest,802,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"text,",803,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,deja,804,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ne,805,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,sprijini,806,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,"cauza,",807,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,permițându-ne,808,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,să,809,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,colectăm,810,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,811,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,să,812,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,analizăm,813,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mișcările,814,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ochilor,815,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,tăi,816,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,în,817,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,timp,818,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,ce,819,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,citești,820,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,și,821,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,înțelegi,822,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,limbajul.,823,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,Îți,824,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,1,mulțumim!,825,Este o rețea de cercetători finanțată de Uniunea Europeană.,"1,0,0,0,0,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Rapa,0,Acum nouă luni.,"0,0,0,1,1,0",0.0,203.0,203.0,203.0,203.0,203.0,1.0,0.0,0,0
+2,1,11,Nui,1,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,-,2,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Introducere,3,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Imaginează-ți,4,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"că,",5,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,săptămâna,6,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"viitoare,",7,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,se,8,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,organizează,9,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,o,10,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,conferință,11,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,12,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,biblioteca,13,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,locală.,14,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,La,15,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,acest,16,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,eveniment,17,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,participă,18,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,o,19,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,profesoară,20,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,21,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,22,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,universitatea,23,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,din,24,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,apropiere.,25,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Ea,26,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,își,27,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,va,28,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,prezenta,29,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,munca,30,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,31,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,teren,32,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,din,33,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Rapa,34,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"Nui,",35,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,o,36,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,insulă,37,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,din,38,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Oceanul,39,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"Pacific,",40,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,41,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,peste,42,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,3200,43,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,km,44,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,vest,45,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,46,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Chile.,47,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Vrei,48,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,să,49,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,studiezi,50,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,istoria,51,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,insulei,52,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Rapa,53,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"Nui,",54,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,astfel,55,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,încât,56,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,să,57,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ai,58,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,o,59,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,idee,60,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,despre,61,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,subiect,62,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,înainte,63,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,64,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,a,65,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,participa,66,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,67,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,conferință.,68,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Prima,69,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,sursă,70,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,71,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,care,72,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,o,73,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,vei,74,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,citi,75,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,este,76,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,o,77,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,postare,78,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,79,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,blog,80,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,scrisă,81,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,82,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,profesoară,83,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,84,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,când,85,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,era,86,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,87,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,insulă.,88,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,www.blogulprofesoarei.ro/munca-de-teren/RapaNui,89,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Blogul,90,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,profesoarei,91,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Postat,92,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,93,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,23,94,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"mai,",95,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,11:22,96,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Mă,97,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,uit,98,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,99,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,fereastră,100,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,101,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,dimineață,102,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,103,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,văd,104,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,peisajul,105,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,106,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,care,107,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,m-am,108,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,deprins,109,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,să-l,110,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,îndrăgesc,111,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"aici,",112,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,113,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Rapa,114,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"Nui,",115,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,care,116,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,se,117,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mai,118,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,numește,119,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,120,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Insula,121,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Paștelui.,122,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Ierburile,123,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,124,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,arbuștii,125,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,sunt,126,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"verzi,",127,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cerul,128,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,e,129,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"albastru,",130,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,iar,131,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,bătrânii,132,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"vulcani,",133,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,acum,134,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"stinși,",135,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,se,136,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,zăresc,137,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,138,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,depărtare.,139,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Sunt,140,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,un,141,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pic,142,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,tristă,143,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,știind,144,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,că,145,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,e,146,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ultima,147,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mea,148,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,săptămână,149,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,150,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,insulă.,151,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Mi-am,152,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,încheiat,153,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,activitatea,154,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,155,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,teren,156,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,157,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mă,158,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,voi,159,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,întoarce,160,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,acasă.,161,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"Astăzi,",162,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,voi,163,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,face,164,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,o,165,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,plimbare,166,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,printre,167,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,dealuri,168,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,169,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,îmi,170,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,voi,171,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,lua,172,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,rămas,173,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,bun,174,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,175,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,176,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,statuile,177,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,uriașe,178,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,(„moai”),179,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,180,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,care,181,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,le-am,182,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,studiat,183,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,184,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ultimele,185,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,nouă,186,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,luni.,187,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Iată,188,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,o,189,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,imagine,190,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cu,191,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,aceste,192,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,statui,193,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,masive.,194,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Dacă,195,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ai,196,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,urmărit,197,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,blogul,198,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,meu,199,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,anul,200,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"acesta,",201,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,atunci,202,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ai,203,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,aflat,204,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,că,205,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,populația,206,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,207,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,208,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Rapa,209,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Nui,210,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,a,211,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,sculptat,212,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,aceste,213,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,moai,214,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cu,215,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,sute,216,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,217,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ani,218,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,219,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,urmă.,220,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Aceste,221,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,statui,222,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,impresionante,223,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,au,224,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,fost,225,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,tăiate,226,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,într-o,227,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,singură,228,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"carieră,",229,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,230,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,partea,231,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,estică,232,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,a,233,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,insulei.,234,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Unele,235,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,dintre,236,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ele,237,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cântăresc,238,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mii,239,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,240,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,kilograme,241,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,242,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,totuși,243,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,locuitorii,244,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,din,245,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Rapa,246,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Nui,247,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,au,248,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,reușit,249,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,să,250,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,le,251,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,deplaseze,252,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,253,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,locuri,254,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,aflate,255,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,256,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mare,257,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,distanță,258,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,259,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"carieră,",260,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,fără,261,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,macarale,262,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,sau,263,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,alte,264,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,utilaje,265,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,grele.,266,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Timp,267,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,268,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mulți,269,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"ani,",270,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,arheologii,271,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,nu,272,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,au,273,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,găsit,274,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,o,275,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,explicație,276,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,despre,277,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cum,278,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,au,279,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,putut,280,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,fi,281,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,deplasate,282,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,statuile.,283,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,A,284,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,fost,285,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,un,286,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mister,287,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,până,288,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,289,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,anii,290,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"1990,",291,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,când,292,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,o,293,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,echipă,294,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,295,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,arheologi,296,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,297,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,localnici,298,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,din,299,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Rapa,300,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Nui,301,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,au,302,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,demonstrat,303,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,că,304,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,moai-i,305,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pot,306,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,fi,307,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,transportați,308,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,309,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ridicați,310,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cu,311,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,funii,312,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,făcute,313,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,din,314,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"plante,",315,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cu,316,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ajutorul,317,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,unor,318,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,role,319,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,320,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,șenile,321,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,322,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,lemn,323,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,construite,324,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,din,325,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,copacii,326,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,masivi,327,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,care,328,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,329,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,trecut,330,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,creșteau,331,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,332,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mare,333,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,număr,334,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,335,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,insulă.,336,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Misterul,337,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,statuilor,338,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,fusese,339,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,dezlegat.,340,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Dar,341,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,a,342,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,rămas,343,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,un,344,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,alt,345,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mister.,346,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Ce,347,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,s-a,348,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,întâmplat,349,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cu,350,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,plantele,351,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,352,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cu,353,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,acei,354,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,copaci,355,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,uriași,356,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,care,357,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,au,358,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ajutat,359,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,360,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,deplasarea,361,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,moai-lor?,362,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,După,363,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cum,364,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"spuneam,",365,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mă,366,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,uit,367,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,368,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,fereastră,369,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,370,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,zăresc,371,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"ierburi,",372,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,arbuști,373,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,374,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,unu-doi,375,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"copăcei,",376,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,nimic,377,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,altceva,378,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,care,379,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ar,380,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,fi,381,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,putut,382,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ajuta,383,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,384,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,deplasarea,385,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,statuilor,386,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,imense.,387,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,E,388,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ca,389,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,un,390,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,joc,391,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,392,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,puzzle,393,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"fascinant,",394,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,unul,395,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,396,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,care,397,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,îl,398,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,voi,399,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,explora,400,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,401,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,următoarele,402,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,postări,403,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,404,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,conferințe.,405,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Până,406,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"atunci,",407,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,poate,408,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,dorești,409,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,să,410,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,investighezi,411,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,misterul,412,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,413,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cont,414,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,propriu.,415,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Sugerez,416,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,să,417,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,începi,418,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cu,419,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,lectura,420,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,unei,421,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cărți,422,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,423,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,nume,424,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Colaps,425,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,426,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Jared,427,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Diamond.,428,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Această,429,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,recenzie,430,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pentru,431,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Colaps,432,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,este,433,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,un,434,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,punct,435,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,436,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,plecare,437,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,valoros.,438,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,www.recenziiacademice.ro/Colaps,439,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Recenzia,440,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,volumului,441,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Colaps,442,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"Colaps,",443,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,noua,444,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,carte,445,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,a,446,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,lui,447,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Jared,448,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"Diamond,",449,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,reprezintă,450,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,un,451,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,avertisment,452,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,clar,453,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cu,454,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,privire,455,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,456,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,consecințele,457,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,degradării,458,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mediului,459,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,înconjurător.,460,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Autorul,461,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,descrie,462,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,463,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,carte,464,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mai,465,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,multe,466,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,civilizații,467,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,care,468,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,au,469,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ajuns,470,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,471,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"colaps,",472,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,din,473,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cauza,474,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,alegerilor,475,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,476,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,care,477,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,le-au,478,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,făcut,479,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,480,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,al,481,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,impactului,482,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,acestora,483,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,asupra,484,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mediului.,485,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Rapa,486,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Nui,487,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,este,488,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,unul,489,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,dintre,490,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,exemplele,491,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cele,492,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mai,493,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,tulburătoare,494,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,din,495,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,volum.,496,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Potrivit,497,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"autorului,",498,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Rapa,499,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Nui,500,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,a,501,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,început,502,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,să,503,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,fie,504,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,locuită,505,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,506,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,polinezieni,507,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,508,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,509,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,700,510,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,e.n.,511,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,S-a,512,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,dezvoltat,513,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,astfel,514,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,o,515,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,civilizație,516,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,înfloritoare,517,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,518,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,aproape,519,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,15000,520,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,521,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,locuitori.,522,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Au,523,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,sculptat,524,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,statuile,525,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"faimoase,",526,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"moai-i,",527,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,apoi,528,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,au,529,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,folosit,530,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,resursele,531,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,naturale,532,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,533,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,îndemână,534,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pentru,535,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,a,536,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,le,537,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,deplasa,538,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,539,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,diferite,540,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,locuri,541,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,542,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,543,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,insulă.,544,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Când,545,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,au,546,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,debarcat,547,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,primii,548,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,europeni,549,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,550,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,insulă,551,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,552,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"1722,",553,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,statuile,554,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,erau,555,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,încă,556,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"acolo,",557,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,dar,558,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,arborii,559,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,dispăruseră.,560,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Insula,561,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mai,562,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,avea,563,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,atunci,564,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,doar,565,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,câteva,566,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mii,567,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,568,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"locuitori,",569,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,care,570,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,se,571,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,luptau,572,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,să,573,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,supraviețuiască.,574,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Diamond,575,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,scrie,576,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,că,577,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,oamenii,578,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,579,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,580,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Rapa,581,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Nui,582,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,au,583,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,defrișat,584,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"terenul,",585,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pentru,586,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,a,587,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,practica,588,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,agricultură,589,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,590,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,591,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,alte,592,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,scopuri;,593,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"totodată,",594,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ei,595,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,au,596,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,exagerat,597,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cu,598,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,vânarea,599,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,speciilor,600,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,601,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,păsări,602,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,marine,603,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,604,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,605,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"uscat,",606,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,care,607,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,au,608,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,populat,609,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,cândva,610,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,insula.,611,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Autorul,612,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,speculează,613,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,că,614,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,împuținarea,615,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,resurselor,616,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,naturale,617,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,a,618,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,condus,619,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,620,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,războaie,621,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,civile,622,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,623,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,624,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,colapsul,625,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,societății,626,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,627,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,628,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Rapa,629,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Nui.,630,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Lecția,631,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,pe,632,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,care,633,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ne-o,634,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,dă,635,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,această,636,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,carte,637,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"minunată,",638,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,dar,639,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"înfricoșătoare,",640,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,este,641,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,aceea,642,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"că,",643,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,în,644,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"trecut,",645,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,populațiile,646,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,au,647,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,ales,648,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,să-și,649,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,distrugă,650,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"mediul,",651,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,prin,652,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,doborârea,653,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,copacilor,654,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,655,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"vânătoare,",656,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,până,657,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,la,658,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,extincția,659,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,unor,660,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,specii.,661,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,În,662,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mod,663,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,"optimist,",664,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,autorul,665,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,arată,666,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,că,667,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,noi,668,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,putem,669,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,să,670,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,nu,671,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,facem,672,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,aceleași,673,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,greșeli,674,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,astăzi.,675,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,Cartea,676,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,este,677,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,bine,678,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,scrisă,679,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,și,680,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,merită,681,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,să,682,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,fie,683,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,citită,684,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,685,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,oricine,686,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,este,687,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,preocupat,688,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,689,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,problemele,690,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,de,691,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+2,1,11,mediu.,692,Acum nouă luni.,"0,0,0,1,1,0",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0

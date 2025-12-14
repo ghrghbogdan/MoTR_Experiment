@@ -1,0 +1,799 @@
+export default [
+  {
+    "Experiment": "2",
+    "Condition": "1",
+    "ItemId": "1",
+    "Item": "PopSci_MultiplEYE",
+    "Pages": [
+      "Proiectul MultiplEYE\n\nNumele „MultiplEYE” este un joc de cuvinte care combină „multilingvism” sau „limbi multiple” cu „eye” (ochi) din „eye-tracking” (urmărire oculară). MultiplEYE este o Acțiune COST finanțată de Uniunea Europeană. Acțiunile COST sunt rețele de cercetare sprijinite de Cooperarea Europeană în Știință și Tehnologie, pe scurt COST. Ca organizație de finanțare, COST susține rețeaua noastră în creștere de cercetători din Europa și din afara ei, oferind sprijin financiar pentru desfășurarea diverselor activități de networking.",
+      "Aceste activități includ întâlniri ale grupurilor de lucru, școli de formare pentru a împărtăși abilități cu cercetătorii mai tineri și vizite științifice de cercetare. Titlul proiectului Acțiunii COST MultiplEYE este: Facilitarea colectării datelor de urmărire oculară în mai multe limbi pentru cercetarea procesării limbajului de către om și a procesării automate. Acest lucru înseamnă că Acțiunea COST MultiplEYE urmărește să încurajeze o rețea interdisciplinară de grupuri de cercetare care lucrează la colectarea datelor de urmărire oculară în timpul citirii în mai multe limbi.",
+      "Obiectivul este de a sprijini dezvoltarea unui corpus multilingv extins de urmărire oculară și de a permite cercetătorilor să colecteze date prin împărtășirea cunoștințelor între diverse domenii, inclusiv lingvistică, psihologie, logopedie și informatică. Aceste date pot fi apoi utilizate pentru a studia procesarea limbajului uman dintr-o perspectivă psiholingvistică, precum și pentru a îmbunătăți și evalua procesarea computațională a limbajului dintr-o perspectivă de învățare automată.",
+      "Ce este urmărirea oculară?\nUrmărirea oculară este procesul de măsurare a punctului de privire – locul unde te uiți – și a mișcărilor ochilor între punctele fixe de privire. Dispozitivul utilizat pentru a măsura pozițiile și mișcările ochilor se numește eye-tracker. Acesta constă într-o cameră cu infraroșu, folosind o frecvență de lumină care nu deranjează sau rănește ochiul uman.",
+      "Cu ajutorul algoritmilor de recunoaștere a imaginii, eye-tracker-ul poate estima punctele de privire cu mare precizie, cunoscând poziția capului și a ochilor, distanța față de ecranul la care se uită participantul și poziția dispozitivului. Urmărirea oculară este o tehnologie utilă pentru multe aplicații. De exemplu, poate ajuta la detectarea oboselii în timpul condusului sau poate sprijini aplicațiile pentru screening și instruire în domeniul medical. Urmărirea oculară este folosită, de asemenea, în gaming, marketing și interacțiunea om-calculator.",
+      "De ce urmărirea oculară în timpul citirii prezintă interes pentru proiectul nostru?\nÎn timp ce citești aceste cuvinte, eye-tracker-ul urmărește mișcările ochilor tăi pe text. Acest lucru oferă informații despre cât timp petreci uitându-te la un text sau, mai specific, cât timp ai petrecut pe fiecare cuvânt, ce cuvinte ai sărit, asupra căror cuvinte te-ai oprit și dacă a trebuit să revii și să recitești părți ale textului pentru a-l înțelege mai bine.",
+      "Pe măsură ce creierul tău procesează conținutul textului, mișcările ochilor reflectă multe dintre procesele lingvistice și cognitive care au loc aproape în timp real. Astfel, datele înregistrate sunt o adevărată comoară de informații despre cum construim sensul și structurile gramaticale ale unui text. Ele arată cu care părți ale textului întâmpinăm dificultăți și care sunt ușor de citit. Este responsabilitatea cercetătorilor să explice ulterior ce factori lingvistici au cauzat diferitele tipuri de mișcări ale ochilor.",
+      "Motivația din spatele MultiplEYE este că datele de urmărire oculară sunt încă puține, mai ales pentru limbile cu un număr mai mic de vorbitori. O astfel de colectare extinsă a datelor reprezintă o provocare în ceea ce privește dezvoltarea și convenirea asupra designului experimental, complexității și tipurilor de texte care urmează să fie citite de către participanți. Alte decizii care par mai puțin relevante, dar sunt de fapt foarte importante, includ tipul și dimensiunea fontului în care este prezentat textul, ordinea textelor, procedura experimentului și modul în care vor fi procesate datele.",
+      "Dar, odată finalizat, acest set de date ne va permite să investigăm multe subiecte legate de psiholingvistică și lingvistică computațională. De exemplu, putem compara comportamentul de citire între diferite limbi. Influențează oare tipul de scriere, de exemplu, alfabetul latin față de scrierea chirilică sau arabă, timpii de citire? Un exemplu legat de procesarea computațională a textului ar putea implica utilizarea datelor de urmărire oculară pentru a îmbunătăți aplicațiile de inteligență artificială care imită procesul de citire uman. Acest lucru ar putea fi folosit pentru a construi sisteme mai bune de traducere automată sau pentru a îmbunătăți extragerea automată a cuvintelor cheie din text.",
+      "Primirea datelor de urmărire oculară de la mulți participanți, inclusiv de la tine, prin citirea textelor în multe limbi diferite, va constitui o bază excelentă pentru cercetarea noastră. Aceasta va fi factorul principal care va transforma rețeaua noastră de cercetare într-un demers de succes. Sperăm să deschidem calea pentru avansarea cercetării în diverse subdomenii ale lingvisticii prin sprijinirea și conectarea unui grup mare de cercetători.",
+      "Principalele rezultate ale Acțiunii MultiplEYE vor fi un set mare de date care conține date de urmărire oculară în multe limbi și o platformă pentru noi colaborări care se bazează pe acest tip de date. Dacă citești acest text, deja ne sprijini cauza, permițându-ne să colectăm și să analizăm mișcările ochilor tăi în timp ce citești și înțelegi limbajul. Îți mulțumim!"
+    ],
+    "Questions": [
+      {
+        "question": "Ce este o acțiune COST?",
+        "correct_answer": "Este o rețea de cercetători finanțată de Uniunea Europeană.",
+        "options": [
+          "Este o rețea de cercetători finanțată de Uniunea Europeană.",
+          "Este o rețea europeană de cercetare pentru inovații tehnologice.",
+          "Este o rețea de cercetare pentru eye-tracking în mai multe limbi.",
+          "Este o rețea europeană pentru cercetarea cititului în mai multe limbi."
+        ]
+      },
+      {
+        "question": "Pentru ce folosesc membrii proiectului MultiplEYE un eye-tracker?",
+        "correct_answer": "Pentru a măsura punctul de fixare a privirii și mișcările oculare.",
+        "options": [
+          "Pentru a măsura punctul de fixare a privirii și mișcările oculare.",
+          "Pentru a măsura direcția și mișcarea capului în timpul citirii.",
+          "Pentru a măsura semnificația unui text și a structurilor sale gramaticale.",
+          "Pentru a măsura citirea fără atenție a unui text și efectul acesteia asupra înțelegerii."
+        ]
+      },
+      {
+        "question": "De ce este utilă urmărirea oculară pentru studiul limbajului în cadrul proiectului?",
+        "correct_answer": "Urmărirea oculară va fi utilizată pentru a deduce modul în care oamenii înțeleg un text în timp ce citesc.",
+        "options": [
+          "Urmărirea oculară va fi utilizată pentru a deduce modul în care oamenii înțeleg un text în timp ce citesc.",
+          "Urmărirea oculară va fi utilizată pentru a identifica erorile gramaticale din text.",
+          "Urmărirea oculară va fi utilizată pentru citirea textelor cu mai multe alfabete.",
+          "Urmărirea oculară va fi utilizată pentru a înțelege ce înseamnă limbajul pentru oameni."
+        ]
+      },
+      {
+        "question": "Care este obiectivul general al cercetătorilor din cadrul proiectului MultiplEYE?",
+        "correct_answer": "Colectarea datelor de urmărire oculară pentru facilitarea cercetării interdisciplinare asupra cititului.",
+        "options": [
+          "Colectarea datelor de urmărire oculară pentru facilitarea cercetării interdisciplinare asupra cititului.",
+          "Colectarea de texte pentru a facilita cercetarea în numeroase domenii ale lingvisticii.",
+          "Colectarea unui corpus de mișcări ale ochilor pentru a compara texte cu diferite tipuri și mărimi de fonturi.",
+          "Colectarea datelor de urmărire oculară pentru a înțelege cum învață oamenii limbi noi."
+        ]
+      },
+      {
+        "question": "Care este una dintre provocările majore ale proiectului MultiplEYE?",
+        "correct_answer": "Asigurarea faptului că participanții citesc traduceri de calitate ale textelor în limba lor specifică.",
+        "options": [
+          "Asigurarea faptului că participanții citesc traduceri de calitate ale textelor în limba lor specifică.",
+          "Obținerea de fonduri pentru activități de networking și vizite de cercetare.",
+          "Extragerea punctelor de privire de la dispozitivul de urmărire oculară și distanța acestuia față de participant.",
+          "Abordarea aspectelor etice legate de confidențialitatea datelor."
+        ]
+      },
+      {
+        "question": "Ce informații transmite textul?",
+        "correct_answer": "Obiectivul principal al proiectului și infrastructura de colaborare.",
+        "options": [
+          "Obiectivul principal al proiectului și infrastructura de colaborare.",
+          "Mecanica mișcărilor oculare umane.",
+          "Metode de extragere a informațiilor din text.",
+          "Normele pentru proiectele din cadrul cooperării europene în domeniul științei și tehnologiei."
+        ]
+      }
+    ]
+  },
+  {
+    "Experiment": "2",
+    "Condition": "1",
+    "ItemId": "2",
+    "Item": "Ins_HumanRights",
+    "Pages": [
+      "Declarația universală a drepturilor omului - Preambul \n\nConsiderând că recunoașterea demnității inerente tuturor membrilor familiei umane și a drepturilor lor egale și inalienabile constituie fundamentul libertății, dreptății și păcii în lume,",
+      "Considerând că ignorarea și disprețuirea drepturilor omului au dus la acte de barbarie care revoltă conștiința omenirii și că făurirea unei lumi în care ființele umane se vor bucura de libertatea cuvântului și a convingerilor și vor fi eliberate de teamă și mizerie a fost proclamată drept cea mai înaltă aspirație a oamenilor,",
+      "Considerând că este esențial ca drepturile omului să fie ocrotite de autoritatea legii pentru ca omul să nu fie silit să recurgă, ca soluție extremă, la revoltă împotriva tiraniei și asupririi,",
+      "Considerând că este esențial a se încuraja dezvoltarea relațiilor prietenești între națiuni,",
+      "Considerând că în Cartă popoarele Organizației Națiunilor Unite au proclamat din nou credința lor în drepturile fundamentale ale omului, în demnitatea și în valoarea persoanei umane, drepturi egale pentru bărbați și femei și că au hotărât să favorizeze progresul social și îmbunătățirea condițiilor de viață în cadrul unei libertăți mai mari,",
+      "Considerând că statele membre s-au angajat să promoveze în colaborare cu Organizația Națiunilor Unite respectul universal și efectiv față de drepturile omului și libertățile fundamentale, precum și respectarea lor universală și efectivă,",
+      "Considerând că o concepție comună despre aceste drepturi și libertăți este de cea mai mare importanță pentru realizarea deplină a acestui angajament,",
+      "Adunarea Generală proclamă prezenta Declarație Universală a Drepturilor Omului, ca ideal comun spre care trebuie să tindă toate popoarele și toate națiunile, pentru ca toate persoanele și toate organele societății să se străduiască, având această  Declarație permanent în minte, ca prin învățătură și educație să dezvolte respectul pentru aceste drepturi și libertăți și să asigure prin măsuri progresive, de ordin național și internațional, recunoașterea și aplicarea lor universală și efectivă, atât în sânul popoarelor statelor membre, cât și al celor din teritoriile aflate sub jurisdicția lor."
+    ],
+    "Questions": [
+      {
+        "question": "Care aspecte sunt considerate drept fundamentul libertății, dreptății și păcii în lume?",
+        "correct_answer": "Recunoașterea demnității și a drepturilor egale ale fiecărei persoane.",
+        "options": [
+          "Recunoașterea demnității și a drepturilor egale ale fiecărei persoane.",
+          "Recunoașterea egalității tuturor oamenilor.",
+          "Recunoașterea necesității de a preda drepturi egale fiecărei persoane.",
+          "Recunoașterea faptului că fiecare persoană are același drept la viață."
+        ]
+      },
+      {
+        "question": "Ce este considerată a fi cea mai înaltă aspirație a omenirii?",
+        "correct_answer": "Trăirea unei vieți cu libertatea cuvântului și a convingerilor, lipsită de teamă și lipsuri.",
+        "options": [
+          "Trăirea unei vieți cu libertatea cuvântului și a convingerilor, lipsită de teamă și lipsuri.",
+          "Trăirea într-o lume a libertății și a bucuriei pentru întreaga omenire.",
+          "Trăirea într-o lume a egalității între toate genurile.",
+          "Trăirea unei vieți de pace, precum și o viață lipsită de criză."
+        ]
+      },
+      {
+        "question": "Care este scopul Declarației universale a drepturilor omului?",
+        "correct_answer": "Stabilirea standardelor pentru libertate, justiție și pace.",
+        "options": [
+          "Stabilirea standardelor pentru libertate, justiție și pace.",
+          "Accentul pe standardizarea universală a educației.",
+          "Promovarea progresului social pentru creșterea nivelului de trai.",
+          "Stabilirea de oportunități economice egale pentru asigurarea justiției și a păcii."
+        ]
+      },
+      {
+        "question": "Care este legătura dintre Carta Organizației Națiunilor Unite și Declarația drepturilor omului?",
+        "correct_answer": "Carta afirmă credința comună în drepturile omului în rândul statelor membre.",
+        "options": [
+          "Carta afirmă credința comună în drepturile omului în rândul statelor membre.",
+          "Carta stabilește standardul pentru promovarea drepturilor omului.",
+          "Carta ghidează educația privind drepturile omului în cadrul programelor școlare.",
+          "Carta servește drept precursor istoric pentru Declarația Drepturilor Omului."
+        ]
+      },
+      {
+        "question": "Care este ideea principală comunicată în Declarația universală a drepturilor omului?",
+        "correct_answer": "Recunoașterea demnității inerente și a drepturilor egale ale tuturor oamenilor.",
+        "options": [
+          "Recunoașterea demnității inerente și a drepturilor egale ale tuturor oamenilor.",
+          "Recunoașterea importanței educației și a protecției tuturor indivizilor.",
+          "Promovarea unei guvernări echitabile prin asigurarea tratamentului egal al tuturor cetățenilor.",
+          "Promovarea diversității culturale și a egalității prin educație pentru toate ființele umane."
+        ]
+      },
+      {
+        "question": "De ce este util acest text ca introducere a Declarației drepturilor omului?",
+        "correct_answer": "Acesta clarifică scopul și domeniul de aplicare al documentului.",
+        "options": [
+          "Acesta clarifică scopul și domeniul de aplicare al documentului.",
+          "Este o introducere în contextul istoric al Declarației.",
+          "Este o reflecție filosofică asupra naturii umanității.",
+          "Aceasta justifică impunerea anumitor valori culturale asupra diverselor societăți."
+        ]
+      }
+    ]
+  },
+  {
+    "Experiment": "2",
+    "Condition": "1",
+    "ItemId": "3",
+    "Item": "Ins_LearningMobility",
+    "Pages": [
+      "RAPORT AL COMISIEI CĂTRE CONSILIU: Raport privind progresele înregistrate cu privire la indicatorul de referință pentru mobilitatea în scop educațional\n\n1. INTRODUCERE\nRecenta Comunicare a Comisiei intitulată „Investiția în tinerii Europei” pune în evidență impactul pozitiv al mobilității în scop educațional asupra capacității de inserție profesională și asupra cetățeniei active. Învățarea, studiile și formarea într-o altă țară reprezintă o experiență unică, ce poate deschide noi orizonturi.",
+      "Aptitudinile dobândite în cursul unei astfel de experiențe, cum ar fi capacitatea de a găsi soluții, adaptabilitatea, toleranța și încrederea în sine, sunt prețuite de angajatori și esențiale pentru societatea de astăzi. Prin politicile și programele sale, Comisia încurajează mobilitatea în scop educațional a tinerilor, inclusiv printr-un criteriu de referință dedicat pentru mobilitatea în scop educațional și prin susținerea programului Erasmus+.",
+      "Concluziile Consiliului din 2011 privind un criteriu de referință pentru mobilitatea în scop educațional (2011/C372/08) invită Comisia: „să prezinte un raport Consiliului, până la sfârșitul anului 2015, în vederea reexaminării și, după caz, a revizuirii criteriului de referință privind mobilitatea în scop educațional.” Concluziile Consiliului le solicită Comisiei și statelor membre să efectueze alte acțiuni, mai ales legat de indicatorii privind mobilitatea studenților, a tineretului și a profesorilor. Totuși, nu există nicio obligație de a prezenta Consiliului rapoarte cu privire la acțiunile respective. Acestea sunt descrise mai în detaliu în documente separate disponibile ale Comisiei.",
+      "Contextul concluziilor Consiliului din 2011 este reprezentat de Cadrul strategic pentru cooperarea europeană în domeniul educației și formării profesionale (ET 2020), prin care Comisia este invitată „să înainteze o propunere privind un criteriu de referință în acest domeniu până la sfârșitul anului 2010, axându-se inițial pe mobilitatea fizică între țări în domeniul educației superioare...” . Concluziile Consiliului au fost precedate de documentul de lucru al serviciilor Comisiei din 24 mai 2011 privind elaborarea unor criterii de referință referitoare la educația pentru capacitatea de inserție profesională și la mobilitatea în scop educațional (doc. 10697/11).",
+      "Prezentul raport răspunde obligației de a raporta Consiliului cu privire la progresele realizate în ceea ce privește criteriul de referință pentru mobilitate, în vederea continuării acțiunilor până în 2020.",
+      "Criteriul de referință privind mobilitatea în scop educațional cuprinde doi indicatori și este definit în anexa la concluziile din 2011, după cum urmează:\n- „Până în 2020, o medie la nivelul UE de cel puțin 20% din absolvenții de învățământ superior ar trebui să fi beneficiat de o perioadă de studiu sau de formare (inclusiv stagii într-un mediu profesional) în străinătate legată de învățământul superior, reprezentând cel puțin 15 credite ECTS sau având o durată de cel puțin trei luni.”",
+      "- „Până în 2020, o medie la nivelul UE de cel puțin 6% din grupa de vârstă 18-34 de ani având o calificare de învățământ profesional și tehnic inițial ar trebui să fi beneficiat de o perioadă de studiu sau de formare legată de învățământul profesional și tehnic inițial (inclusiv stagii într-un mediu profesional) în străinătate cu o durată de cel puțin două săptămâni sau mai puțin dacă este confirmată de un document Europass.”",
+      "Criteriul de referință se concentrează asupra mobilității spre exterior: cu alte cuvinte, a măsurii în care persoanele individuale merg în străinătate pentru a acumula experiențe de învățare și calificări. În interiorul UE, acest obiectiv este legat de principiile de bază ale UE reprezentate de libera circulație a persoanelor și de libertatea de a munci oriunde în cadrul pieței interne.",
+      "Criteriul de referință al UE măsoară numărul de absolvenți care au fost mobili pe durata studiilor și care și-au încheiat cu succes studiile și au dobândit calificări. El nu este legat în mod specific de o arie geografică, însă concluziile din 2011 subliniază că: „mobilitatea în scop educațional este definită ca mobilitate fizică și ține seama de mobilitatea în întreaga lume.” Măsurarea indicatorului de referință pentru mobilitate IVET este limitată, în practică, de instrumentul menționat în concluzii (o anchetă în gospodării vizând o anumită grupă extinsă de vârstă), în vreme ce sursa indicatorului de referință privind mobilitatea în învățământul superior nu este specificată."
+    ],
+    "Questions": [
+      {
+        "question": "Care a fost obiectivul inițial al Cadrului strategic pentru cooperarea europeană în educație și formare profesională 2020?",
+        "correct_answer": "Mobilitatea fizică între țări în domeniul educației superioare.",
+        "options": [
+          "Mobilitatea fizică între țări în domeniul educației superioare.",
+          "Un criteriu de referință în educație și formare profesională.",
+          "Ca tinerii să dobândească experiențe de învățare în străinătate.",
+          "Un criteriu de referință pentru capacitatea de angajare."
+        ]
+      },
+      {
+        "question": "Ce măsoară criteriul de referință al UE?",
+        "correct_answer": "Numărul de absolvenți care au fost mobili, și-au încheiat studiile și au dobândit calificări.",
+        "options": [
+          "Numărul de absolvenți care au fost mobili, și-au încheiat studiile și au dobândit calificări.",
+          "Numărul de tineri care au absolvit în străinătate.",
+          "Numărul de cetățeni UE care au absolvit în afara UE.",
+          "Numărul de absolviri finalizate în cadrul programului ERASMUS+."
+        ]
+      },
+      {
+        "question": "Care sunt obiectivele diferite ale celor doi indicatori de referință privind mobilitatea în scop educațional?",
+        "correct_answer": "Unul se concentrează pe persoanele cu calificări profesionale, iar celălalt pe absolvenții de învățământ superior.",
+        "options": [
+          "Unul se concentrează pe persoanele cu calificări profesionale, iar celălalt pe absolvenții de învățământ superior.",
+          "Unul se referă la studiile în străinătate, iar celălalt la munca în străinătate.",
+          "Unul se concentrează pe capacitatea de angajare, iar celălalt pe cetățenia activă.",
+          "Unul se referă la învățământul primar, în timp ce celălalt se referă la învățământul secundar."
+        ]
+      },
+      {
+        "question": "Care este grupul țintă al criteriului de referință privind mobilitatea în scop educațional?",
+        "correct_answer": "Tinerii care urmează studii superioare sau care au o calificare inițială de învățământ profesional și tehnic.",
+        "options": [
+          "Tinerii care urmează studii superioare sau care au o calificare inițială de învățământ profesional și tehnic.",
+          "Oameni de 18-34 de ani care nu urmează studii superioare și nu dețin calificări profesionale.",
+          "Profesori în vârstă de 18-34 de ani din UE.",
+          "Tinerii care fac voluntariat în străinătate."
+        ]
+      },
+      {
+        "question": "Care este scopul Comunicării Comisiei intitulată „Investiția în tinerii Europei”?",
+        "correct_answer": "Promovarea mobilității studenților în educație.",
+        "options": [
+          "Promovarea mobilității studenților în educație.",
+          "Promovarea mobilității cadrelor didactice în educație.",
+          "Promovarea mobilității globale.",
+          "Creșterea capacității de angajare a tinerilor educatori."
+        ]
+      },
+      {
+        "question": "De la ce tip de organizație provine acest text?",
+        "correct_answer": "Instituție guvernamentală.",
+        "options": [
+          "Instituție guvernamentală.",
+          "Organizație studențească internațională.",
+          "Instituție academică.",
+          "Entitate comercială."
+        ]
+      }
+    ]
+  },
+  {
+    "Experiment": "2",
+    "Condition": "1",
+    "ItemId": "4",
+    "Item": "Lit_Alchemist",
+    "Pages": [
+      "Alchimistul - Partea întâi\n\nBăiatul se numea Santiago. Se întuneca tocmai când ajunse cu turma lui în fața unei vechi biserici părăsite. Acoperișul se prăbușise de mult, și în locul unde pe vremuri se afla sacristia creștea acum un sicomor uriaș. Hotărî să petreacă noaptea aici. Își mână toate oile prin ruinele porții și apoi puse niște scânduri pentru ca acestea să nu fugă în timpul nopții.",
+      "Nu erau lupi pe acolo, dar odată îi scăpase una în timpul nopții și a trebuit să-și piardă toată ziua următoare pentru a găsi oaia rătăcită. Își întinse haina pe jos și se așeză, folosind cartea pe care o terminase de citit drept pernă. Își spuse, înainte de a adormi, că ar trebui să înceapă să citească niște cărți mai groase - durau mai mult până se sfârșeau și erau perne mai confortabile în timpul nopții.",
+      "Era încă întuneric când se trezi. Privi în sus și văzu stelele care străluceau prin acoperișul aproape năruit. „Voiam să mai dorm puțin”, se gândi el. Avusese același vis ca și săptămâna trecută, și iarăși se trezise înainte de sfârșit. Se ridică și luă o înghițitură de vin. Apoi își luă toiagul și începu să-și trezească oile care încă mai dormeau. Observase că imediat ce se trezea el, cea mai mare parte a animalelor se deșteptau și ele. Ca și cum ar fi existat o energie misterioasă care îi unea viața de aceea a oilor cu care străbătuse pământul de doi ani încoace în căutare de hrană și apă.",
+      "„S-au obișnuit atâta cu mine că-mi cunosc obiceiurile”, își spuse în șoaptă. Dar stătu o clipă și se gândi că ar fi putut să fie și invers: s-o fi obișnuit el cu orarul oilor. Dar erau și unele oi care întârziau să se scoale. Băiatul le trezi pe rând cu toiagul, strigând-o pe fiecare pe nume. Totdeauna crezuse că oile sunt în stare să înțeleagă ce vorbește el. De aceea obișnuia uneori să le citească părți din cărțile care îl impresionaseră, sau să vorbească despre singurătatea și bucuria unui cioban pe câmp.",
+      "Alteori comenta ultimele noutăți pe care le vedea prin orașele pe unde se întâmpla să treacă. Însă în ultimele două zile avusese o singură grijă: fata negustorului care locuia în orașul unde avea să ajungă peste patru zile. Nu fusese decât o singură dată acolo, anul trecut. Negustorul avea o prăvălie de stofe și țesături și îi plăcea totdeauna să vadă cu ochii lui cum sunt oile tunse, ca să se ferească de hoții. Îi spusese un prieten despre prăvălie, așa că ciobanul își dusese oile acolo."
+    ],
+    "Questions": [
+      {
+        "question": "De ce a vrut băiatul să citească cărți mai groase?",
+        "correct_answer": "Pentru că erau perne mai confortabile.",
+        "options": [
+          "Pentru că erau perne mai confortabile.",
+          "Pentru că le putea folosi pentru a mătura podeaua.",
+          "Pentru a o impresiona pe fiica negustorului.",
+          "Pentru a afla mai multe despre animale."
+        ]
+      },
+      {
+        "question": "Ce a văzut băiatul când s-a trezit?",
+        "correct_answer": "Stelele.",
+        "options": [
+          "Stelele.",
+          "Acoperișul.",
+          "Arborele de sicomor.",
+          "O pasăre într-un copac."
+        ]
+      },
+      {
+        "question": "De ce a blocat băiatul intrarea?",
+        "correct_answer": "Voia să țină oile înăuntru.",
+        "options": [
+          "Voia să țină oile înăuntru.",
+          "Pentru ca lupii să nu atace oile.",
+          "Pentru ca negustorul să nu prindă și să tundă oile.",
+          "Nu voia ca oile să fie furate de hoți."
+        ]
+      },
+      {
+        "question": "Unde a dormit băiatul?",
+        "correct_answer": "Într-o biserică.",
+        "options": [
+          "Într-o biserică.",
+          "Într-o magazie.",
+          "Pe un câmp.",
+          "Într-un cort."
+        ]
+      },
+      {
+        "question": "Cum era relația turmei cu băiatul?",
+        "correct_answer": "Oile erau companioanele băiatului și vice-versa.",
+        "options": [
+          "Oile erau companioanele băiatului și vice-versa.",
+          "Oile îl epuizau pe băiat.",
+          "Oile îl vedeau pe băiat ca pe stăpânul lor.",
+          "Oile se temeau de băiat."
+        ]
+      },
+      {
+        "question": "Ce obiectiv personal își propunea băiatul în continuare?",
+        "correct_answer": "Voia să meargă în sat să o vadă pe fiica negustorului.",
+        "options": [
+          "Voia să meargă în sat să o vadă pe fiica negustorului.",
+          "Voia să meargă în sat să tundă oile.",
+          "Voia să trezească oile pentru a le vorbi.",
+          "Voia să trezească oile pentru a căuta hrană și apă."
+        ]
+      }
+    ]
+  },
+  {
+    "Experiment": "2",
+    "Condition": "1",
+    "ItemId": "6",
+    "Item": "Lit_MagicMountain",
+    "Pages": [
+      "Muntele vrăjit - Expunere premergătoare\n\nPovestea lui Hans Castorp, pe care avem intenția s-o istorisim, nu de dragul lui (căci lectorul va învăța a-l cunoaște ca pe un tânăr modest și deopotrivă de simpatic), ci de acela al întâmplării înseși care ni se pare demnă în cel mai înalt grad de a fi relatată (și în legătură cu aceasta este totuși potrivit să reamintim că e povestea sa și că un eveniment oarecare nu se întâmplă oricui): așadar, povestea aceasta s-a petrecut cu multă vreme în urmă, și este, ca să spunem așa, acoperită de patina istorică, astfel că e absolut necesar să fie prezentată sub înfățișarea trecutului celui mai îndepărtat.",
+      "S-ar putea ca, pentru o poveste, faptul acesta să nu fie un neajuns, ci, mai curând, un avantaj; se cuvine doar ca povestirile să aparțină trecutului, întrucât, se poate spune, cu cât s-au petrecut într-o vreme mai îndepărtată, cu atât răspund mai precis exigențelor povestirii, și acest fapt este cu atât mai favorabil pentru povestitor, adică pentru evocatorul în șoaptă al timpului trecut.",
+      "Dar se întâmplă cu ea ca și cu oamenii de astăzi și la urma urmelor și cu povestitorii: e cu mult mai bătrână decât vârsta lor, vechimea-i nu se poate măsura în zile, iar timpul care o apasă nu se măsoară cu revoluții în jurul soarelui; pe scurt, treapta sa de vechime nu timpului și-o datorează și, prin această observație, înțelegem să facem aluzie la dubla esență, îndoielnică și ciudată, a acestui tainic element.",
+      "Dar ca să nu întunecăm cu meșteșugire o stare limpede a faptelor, iată despre ce este vorba: nemărginita vechime a povestirii noastre izvorăște din aceea că se desfășoară înaintea unei anumite răsturnări și a unui anumit hotar care a tulburat adânc Viața și Conștiința... Ea se desfășoară sau - pentru a evita cu bună știință orice urmă de prezent - se desfășura, adică s-a desfășurat odinioară, cândva, în acele apuse zile ale lumii dinaintea Marelui Război, cu al cărui început atâtea întâmplări au început, și care de atunci fără îndoială abia au încetat să înceapă. Prin urmare, povestea aceasta s-a desfășurat mai înainte, dacă nu cumva cu foarte mult înainte.",
+      "Dar caracterul trecut al unei povestiri nu este cu atât mai profund, mai împlinit și mai legendar cu cât se desfășoară mai apropiat de „odinioară”?\nPe deasupra s-ar putea ca această povestire a noastră să aparțină în alte privințe, și chiar prin natura ei intimă, mai mult sau mai puțin legendei. Vom relata-o în amănunțime, cu îngrijire și cu cea mai mare băgare de seamă, dar oare, în adevăr, plăcerea sau plictiseala ce ne-o provoacă au atârnat vreodată de spațiul și de timpul pe care le-au cerut cu stăruință? Fără a ne teme că ne expunem învinuirii de-a fi exagerat de meticuloși, înclinăm dimpotrivă să credem că plăcut cu adevărat este numai ceea ce-i lucrat cu îngrijire.",
+      "Prin urmare, povestitorul nu va sfârși cât ai bate din palme istoria lui Hans. Nu-i vor fi suficiente nici cele șapte zile ale săptămânii, și nici șapte luni. Cel mai potrivit este să nu se întrebe dinainte cât timp se va scurge pe pământ, în vreme ce povestirea aceasta îl va ține în mrejele sale. Și, Doamne Dumnezeule, nu vor fi chiar șapte ani!"
+    ],
+    "Questions": [
+      {
+        "question": "Cum era Hans Castorp?",
+        "correct_answer": "Tânăr modest și deopotrivă de simpatic.",
+        "options": [
+          "Tânăr modest și deopotrivă de simpatic.",
+          "Tânăr îngust la minte și dezagreabil.",
+          "Tânăr, meticulos și obscur.",
+          "Tânăr, relaxat și deschis la minte."
+        ]
+      },
+      {
+        "question": "De ce a pledat naratorul ca povestea să fie relatată cu mare băgare de seamă?",
+        "correct_answer": "Naratorul consideră că ceea ce este lucrat cu îngrijire este plăcut.",
+        "options": [
+          "Naratorul consideră că ceea ce este lucrat cu îngrijire este plăcut.",
+          "Naratorul dorea să se prezinte drept meticulos.",
+          "Povestea a avut loc în trecut.",
+          "Naratorului i-au plăcut descrierile detaliate."
+        ]
+      },
+      {
+        "question": "De ce a subliniat naratorul trecutul exagerat al povestirii?",
+        "correct_answer": "Pentru a-i da poveștii statutul de legendă.",
+        "options": [
+          "Pentru a-i da poveștii statutul de legendă.",
+          "Pentru a critica impactul Marelui Război asupra povestirii.",
+          "Pentru a sublinia unicitatea experiențelor lui Hans.",
+          "Pentru a sublinia faptul că toate personajele din poveste sunt moarte de mult."
+        ]
+      },
+      {
+        "question": "Ce a evitat naratorul cu bună știință?",
+        "correct_answer": "Orice urmă de prezent.",
+        "options": [
+          "Orice urmă de prezent.",
+          "Scrierea despre evenimente contemporane.",
+          "Scrierea despre Marele Război.",
+          "Scrierea la timpul viitor."
+        ]
+      },
+      {
+        "question": "De ce a fost important ca povestea să fie plasată în trecut?",
+        "correct_answer": "Să evidențieze faptul că lumea era diferită înainte de Marele Război.",
+        "options": [
+          "Să evidențieze faptul că lumea era diferită înainte de Marele Război.",
+          "Pentru a clarifica faptul că a avut loc în timp de război.",
+          "Pentru a sublinia caracterul continuu al experiențelor lui Hans.",
+          "Pentru a face referire adecvată la evenimente istorice."
+        ]
+      },
+      {
+        "question": "Care este scopul principal al acestui text?",
+        "correct_answer": "Să pregătească terenul pentru o poveste detaliată despre Hans.",
+        "options": [
+          "Să pregătească terenul pentru o poveste detaliată despre Hans.",
+          "Să contempleze personajul lui Hans.",
+          "Să rezume dezbaterile privind trecerea timpului.",
+          "Să prezinte ordinea cronologică a evenimentelor din trecut."
+        ]
+      }
+    ]
+  },
+  {
+    "Experiment": "2",
+    "Condition": "1",
+    "ItemId": "8",
+    "Item": "Lit_Solaris",
+    "Pages": [
+      "Solaris - Capitolul al doilea: Solaristicienii\n\nDescoperirea lui Solaris avusese loc aproape cu o sută de ani înaintea nașterii mele. Planeta gravitează în jurul a doi sori: unul roșu, altul albastru. Timp de peste patru decenii, de ea nu s-a apropiat nici o navă. În acea epocă trecea drept sigură teoria lui Gamow-Shapley privind imposibilitatea apariției vieții pe planetele stelelor duble. Orbitele unor asemenea planete se schimbă neîncetat ca urmare a jocului gravitației care se produce în timpul rotației reciproce dintre cei doi sori.",
+      "Din pricina perturbațiilor produse prin necontenita distorsiune a orbitei planetare, germenii de viață, chiar dacă apar, sunt distruși de alternanța arșiței și a înghețului. Aceste modificări survin o dată la câteva milioane de ani, așadar la intervale extrem de scurte pentru fenomene de natură astronomică sau biologică (evoluția necesitând milioane, dacă nu chiar un miliard de ani).",
+      "Conform primelor calcule, Solaris urma, în decursul a cinci sute de milenii, să se apropie de soarele ei roșu la o distantă de o jumătate de unitate astronomică, iar după un milion de ani trebuia să se prăbușească în neantul său incandescent. În numai câțiva ani însă, cercetătorii s-au convins că orbita planetei suferă modificări cu totul neașteptate, de parcă ar fi fost stabilă, la fel de stabilă ca și orbitele planetelor sistemului nostru solar.",
+      "Observațiile au fost repetate, de data aceasta cu cea mai mare precizie; au fost reluate și calculele care au confirmat numai ceea ce era cunoscut: din punct de vedere mecanic, Solaris avea o orbită instabilă. Dintr-o planetă ca sute de alte planete descoperite an de an — trecute în marile statistici doar în câteva rânduri care indică elementele mișcării lor — Solaris a avansat la rangul unui corp ceresc ce merita o atenție specială.",
+      "La vreo patru ani după această descoperire, expediția lui Ottenskjold a dat ocol planetei, cercetând-o de pe astronava „Laokoon”. Această expediție a avut un caracter provizoriu, de recunoaștere numai, cu atât mai mult cu cât nu era prevăzută pentru descindere. Ea a fixat pe orbitele ecuatoriale și polare un mare număr de sateliți automați de observație, a căror sarcină principală era să măsoare potențialele gravifice.",
+      "În plus a fost studiată suprafața planetei acoperită aproape în întregime de ocean și de puținele platouri ce se ridicau deasupra lui. Aria lor totală n-o atingea pe aceea a Europei, deși Solaris avea un diametru cu douăzeci la sută mai mare decât Pământul. Aceste urme de sol stâncos și pustiu, împrăștiate neregulat, se grupează în principal pe emisfera sudică.",
+      "A fost analizată componența atmosferei, care s-a dovedit a fi lipsită de oxigen; au fost efectuate măsurători deosebit de precise privind densitatea planetei, albedoul și alte elemente astronomice. După cum era de așteptat, nicăieri n-au fost găsite urme de viață - nici pe uscat, nici în ocean.",
+      "În următorii zece ani Solaris, urmărit cu atenție de toate observatoarele respectivei regiuni, a manifestat o uimitoare tendință de conservare a orbitei sale neîndoielnic instabilă din punct de vedere gravitațional. Câtva timp chestiunea a părut scandaloasă, de bizarul rezultat al observațiilor fiind acuzați (din grijă pentru binele științei) când anumiți oameni, când mașinile de calcul de care se serveau aceștia.",
+      "Lipsa de fonduri a întârziat cu trei ani trimiterea unei expediții adevărate pe Solaris, adică până în clipa când Shannahan, completându-și echipajul, a obținut din partea institutului trei unități de tonaj C, clasa cosmodromică. Cu un an și jumătate înainte de sosirea expediției, care și-a luat startul din zona lui Alfa din Vărsător, o altă flotă de explorare a fixat pe o orbită în jurul lui Solaris o stație automată: sateloidul Luna 247.",
+      "Acest sateloid, după ce a suferit trei reconstrucții, efectuate la intervale de zeci de ani, funcționează și acum. Datele pe care le-a cules au confirmat finalmente observațiile expediției lui Ottenskjold privind caracterul activ al mișcărilor oceanului. O navă a lui Shannahan a rămas pe orbită înaltă, celelalte două, după pregătiri preliminare, au coborât pe o mică platformă stâncoasă, care ocupă circa șase sute de mile pătrate în regiunea polului sud al Solaris-ului.",
+      "Lucrările expediției s-au încheiat după 18 luni, desfășurându-se cu succes, exceptând un nefericit accident provocat de funcționarea greșită a aparatelor. Totuși, în sânul echipei științifice s-a ajuns la o evidentă împărțire în două tabere antagonice. Obiectul conflictului era oceanul. Pe baza analizelor efectuate, acesta a fost recunoscut drept un produs organic (nimeni nu îndrăznea pe atunci să-l considere ca fiind viu).",
+      "Dacă însă biologii vedeau în acea sferă lichidă o formă primitivă de viață - ceva în genul unei colonii uriașe sau ceva asemănător cu o gigantică și unică celulă degenerată în creșterea ei (denumită „formație pre-biologică”) și a cărei manta gelatinoasă, pe alocuri adâncă de câteva mile, ar fi cuprins întregul glob, astronomii și fizicienii afirmau că ea trebuie să fie o structură aflată într-un stadiu de organizare atât de înalt încât nu era exclus să întreacă în complexitate organismele pământene, de vreme ce putea influența în mod activ forma orbitei planetare.",
+      "O altă cauză, care să explice comportarea lui Solaris, n-a fost găsită și, în plus, planetofizicienii au descoperit o relație între anumite procese ale oceanului plasmatic și gravific măsurat local, care se modifica în funcție de „metabolismul” oceanic. Așadar, fizicienii, și nu biologii, au emis paradoxala expresie de „mașină plasmatică”, înțelegând prin aceasta un obiect care, deși, conform concepției noastre, poate fi considerat neînsuflețit, este totuși capabil să acționeze într-un scop vădit și la o scară — e bine s-o subliniem — astronomică.",
+      "În această dispută, care a atras în vâltoarea ei în numai câteva săptămâni cele mai autorizate personalități, doctrina lui Gamow-Shapley a început să se clatine pentru prima oară în decurs de opt decenii."
+    ],
+    "Questions": [
+      {
+        "question": "Cum era suprafața planetei?",
+        "correct_answer": "Avea puține puține platouri ce se ridicau deasupra oceanului.",
+        "options": [
+          "Avea puține puține platouri ce se ridicau deasupra oceanului.",
+          "Avea o singură insulă de mărimea Europei.",
+          "Era o zonă stâncoasă de aproximativ 600 de mile pătrate.",
+          "Era în mare parte deșertică."
+        ]
+      },
+      {
+        "question": "Care a fost caracterizarea inițială a oceanului de pe planeta Solaris făcută de biologi?",
+        "correct_answer": "Oceanul era o entitate fluidă, o formă primitivă de viață.",
+        "options": [
+          "Oceanul era o entitate fluidă, o formă primitivă de viață.",
+          "Oceanul era o structură evoluată organic care înconjura întregul glob.",
+          "Oceanul era un lichid în mișcare activă.",
+          "Oceanul conținea urme ale unor specii foarte evoluate, indicând o istorie evolutivă bogată."
+        ]
+      },
+      {
+        "question": "De ce a fost considerată imposibilă viața pe planeta Solaris?",
+        "correct_answer": "Din cauza orbitei planetei în jurul mai multor sori.",
+        "options": [
+          "Din cauza orbitei planetei în jurul mai multor sori.",
+          "Pentru că planeta orbitează în jurul unui soare albastru.",
+          "Deoarece atmosfera planetei e lipsită de oxigen.",
+          "Pentru că planeta nu are apă."
+        ]
+      },
+      {
+        "question": "Cum au contribuit datele sateloidului Luna 247 la înțelegerea științifică a comportamentului oceanului pe Solaris?",
+        "correct_answer": "Aceasta a arătat că mișcările oceanului erau interconectate cu gravitația lui Solaris.",
+        "options": [
+          "Aceasta a arătat că mișcările oceanului erau interconectate cu gravitația lui Solaris.",
+          "Acesta a confirmat că mișcările oceanului erau cauzate de anomalii gravitaționale.",
+          "Acesta a arătat că calculele anterioare privind mișcările oceanului erau incorecte.",
+          "Acesta a dezvăluit un ritm previzibil în mișcările oceanului."
+        ]
+      },
+      {
+        "question": "Care este ideea principală transmisă de acest text?",
+        "correct_answer": "Este dificil să dezvolți o teorie științifică general acceptată.",
+        "options": [
+          "Este dificil să dezvolți o teorie științifică general acceptată.",
+          "Înțelegerea ecosistemelor unice este vitală pentru conservarea mediului.",
+          "Cercetătorii se confruntă cu provocări în explorarea noilor frontiere din cauza finanțării limitate.",
+          "Universul este plin de viață."
+        ]
+      },
+      {
+        "question": "Ce tip de text este acesta?",
+        "correct_answer": "Științifico-fantastic.",
+        "options": [
+          "Științifico-fantastic.",
+          "Ficțiune istorică.",
+          "Știință pentru publicul larg.",
+          "Articol de cercetare."
+        ]
+      }
+    ]
+  },
+  {
+    "Experiment": "2",
+    "Condition": "1",
+    "ItemId": "9",
+    "Item": "Lit_BrokenApril",
+    "Pages": [
+      "Aprilie Spulberat - Capitolul al treilea\n\nNelăsând mâna soției dintr-a sa, Besian Vorps se dădu aproape de geam și încercă să se convingă că orășelul pe care-l părăsiseră cu o jumătate de oră în urmă, ultimul oraș la poalele masivului muntos din nord, dispăruse în cele din urmă din raza vederii. Acum parcurgeau un pripor lin, oarecum ciudat, nici câmp, nici munte, nici podiș.",
+      "Munții, propriu-zis, nu apăruseră încă, dar se simțea umbra lor amenințătoare și se părea că tocmai această umbră, deși respingea orice legătură între podiș și lumea munților, îl împiedica să fie clasificat drept câmpie. Era, deci, o regiune de frontieră, stearpă și aproape nelocuită.",
+      "Când și când stropi minusculi de ploaie brumau ferestrele trăsurii.\n„Stâncile Blestemate”, spuse el în șoaptă, șovăind, așa cum pronunți numele cuiva a cărui apariție ai așteptat-o îndelung. Simți cum cele două cuvinte îi provoacă femeii o tresărire vizibilă și reacția ei îl încântă.",
+      "Ea se apleacă spre el să vadă mai bine și Besian îi simți parfumul cefei.\n— Unde sunt ei?\nEl făcu un semn, apoi îi arătă cu mâna într-acolo, dar în direcția aceea ea nu zări nimic altceva decât o îmbulzeală de neguri.\n— Nu e nimic clar, îi explică el. Mai avem încă destul de mers.",
+      "Ea își puse iar mâna peste mâna lui și se lăsă pe spătarul canapelei. Smuciturile trăsurii făcură ca ziarul pe care-l cumpăraseră cu puțin înainte de plecarea din orășel și unde scria, pe prima pagină, despre ei, să alunece și să cadă, dar niciunul, nu se aplecă să-l ia de jos. Ea zâmbi cu gândul aiurea, amintindu-și titlul articolului dedicat călătoriei lor. „Un eveniment încântător: Scriitorul Besian Vorps și tânăra lui soție, Diana, au hotărât să-și petreacă luna de miere în masivul muntos din nord!”",
+      "Mai apoi articolul era nițeluș confuz. Nu se înțelegea bine dacă autorul său, un anume A.G. (să fi fost, oare, cunoștința lor comună Adrian Guma?) le elogia inițiativa sau dădea glas unei invidii voalate.",
+      "La început, cu două săptămâni înaintea căsătoriei, aflând de la el despre intenția de a întreprinde această călătorie, ea se arătase surprinsă. Să nu te miri câtuși de puțin, îi spuseseră prietenele. Te măriți cu un om neobișnuit, de la care vei auzi doar lucruri neobișnuite. La urma-urmei nu putem să-ți spunem decât: bravo ție!",
+      "Și, într-adevăr, se simțea fericită! În zilele dinaintea căsătoriei, în cercurile mondene și artistice ale Tiranei nu se vorbea decât despre viitorul lor voiaj. Cei mai mulți se entuziasmaseră: vei părăsi lumea reală pentru cea a legendelor, a eposului autentic, pe care doar rar îl mai poți găsi aievea în zilele noastre.",
+      "Urmau cuvintele despre zâne și vrăjitoare, despre rapsozi, ultimii aezi ai veacului, despre kanunul teribil și măreț ca nimic altceva pe lume. Alții ridicau din umeri încercând să-și arate clar opoziția față de o astfel de idee, opoziție legată înainte de toate de greutățile drumului, cu atât mai mult cu cât era vorba despre o călătorie de nuntă, deci o situație mai delicată, iar în munți frigul persista și kullele legendare erau construite din piatră.",
+      "Cei mai puțini fuseseră aceia care ascultau totul cu o ușoară ironie, vrând parcă să spună: mergeți, mergeți în Nord, printre năluci, asta are să vă satisfacă pe amândoi și mai ales pe Besian."
+    ],
+    "Questions": [
+      {
+        "question": "Ce a făcut Besian Vorps când orașul a dispărut din vedere?",
+        "correct_answer": "S-a apropiat de geam și a privit spre orașul care nu se mai vedea.",
+        "options": [
+          "S-a apropiat de geam și a privit spre orașul care nu se mai vedea.",
+          "Și-a închis ochii pentru a ascunde vederea și a strâns mâna soției sale.",
+          "A inspirat parfumul de pe ceafa soției sale în timp ce ea își apropia fața de el.",
+          "Și-a sărutat soția pe păr când ea și-a sprijinit capul pe umărul lui."
+        ]
+      },
+      {
+        "question": "Cum a fost anunțată în ziar călătoria lui Besian Vorps și a soției sale?",
+        "correct_answer": "Ca o călătorie la munte în luna de miere.",
+        "options": [
+          "Ca o călătorie la munte în luna de miere.",
+          "Ca o retragere a scriitorului Besian Vorps în masivul muntos din nord.",
+          "Într-un editorial al prietenului lor Adrian Guma.",
+          "Într-o notificare privată pe care Besian Vorps a trimis-o unui jurnalist din Rrafsh."
+        ]
+      },
+      {
+        "question": "Cum au reacționat prietenii miresei din Tirana la planurile ei de a merge într-o călătorie în masivul muntos din nord?",
+        "correct_answer": "Erau entuziaști și vorbeau despre legende și aventuri epice.",
+        "options": [
+          "Erau entuziaști și vorbeau despre legende și aventuri epice.",
+          "Erau geloși și îi povesteau mituri terifiante din munți.",
+          "Erau îngrijorați de lipsa condițiilor de trai din munți.",
+          "Erau încântați ca cuplul să savureze munții în plină înflorire de primăvară."
+        ]
+      },
+      {
+        "question": "Ce emoție a simțit mireasa în trăsură?",
+        "correct_answer": "Fericire.",
+        "options": [
+          "Fericire.",
+          "Surpriză.",
+          "Anxietate.",
+          "Frică."
+        ]
+      },
+      {
+        "question": "Care este semnificația termenului „Stâncile Blestemate\" în text?",
+        "correct_answer": "Termenul prefigurează întâmplări misterioase din regiune.",
+        "options": [
+          "Termenul prefigurează întâmplări misterioase din regiune.",
+          "Termenul anticipează că Besian vrea să-și sperie soția.",
+          "Termenul prefigurează certurile cuplului proaspăt căsătorit.",
+          "Termenul anticipează că călătoria în luna de miere va trece prin terenuri periculoase și înșelătoare."
+        ]
+      },
+      {
+        "question": "Care a fost scopul urmărit de Besian prin alegerea acelei destinații de călătorie?",
+        "correct_answer": "Besian își căuta inspirația în oamenii și peisajele din zona montană.",
+        "options": [
+          "Besian își căuta inspirația în oamenii și peisajele din zona montană.",
+          "Besian a vrut să le demonstreze prietenilor soției sale că munții sunt un loc frumos.",
+          "Besian dorea să scape de bârfele și de atenția jurnaliștilor din orașul său natal.",
+          "Besian era epuizat și avea nevoie de o pauză de la viața agitată a orașului."
+        ]
+      }
+    ]
+  },
+  {
+    "Experiment": "2",
+    "Condition": "1",
+    "ItemId": "10",
+    "Item": "Arg_PISACowsMilk",
+    "Pages": [
+      "Laptele de vacă - Introducere\n\nÎn anumite locuri, precum Statele Unite, a bea lapte de vacă este ceva firesc.\nImaginează-ți că trei tineri: Ana, Chris și Sam sunt la o cafenea în SUA. Proprietarul a lipit de curând un anunț în vitrină care spune: „Începând cu 5 aprilie nu vom mai servi lapte de vacă. Vă putem oferi un înlocuitor pe bază de soia.” \nAna, Chris și Sam sunt curioși în legătură cu această decizie. Așadar, Ana dă o căutare pe smartphone pentru „lapte de vacă”. Cei trei citesc primul rezultat și îl discută.",
+      "www.lactofarm.ro\nLACTO-FARM\nValoarea nutritivă a laptelului: Beneficii nenumărate!",
+      "Produsele lactate de la „Lacto-Farm” conțin nutrienți esențiali: calciu, proteine, vitamina D, vitamina B12, riboflavină, potasiu. Aceste vitamine și minerale situează produsele „Lacto-Farm” într-o parte importantă a unei diete sănătoase. Consumând zilnic produsele lactate de la „Lacto-Farm” îți asiguri vitaminele și mineralele de care are nevoie corpul tău.",
+      "Consumul de produse lactate de la „Lacto-Farm” conduce la scăderea masei corporale și ajută la menținerea unei greutăți normale. Laptele crește densitatea osoasă, îmbunătățește sănătatea cardiovasculară și ajută la prevenirea cancerului. Un pahar cu lapte este plin de vitamine, de minerale și de beneficii pentru sănătate.",
+      "Prof. dr. Bill Sears, specialist în pediatrie de la Universitatea din California, consideră că laptele conține o sumă de nutrienți importanți. Asociația Internațională pentru Produse Lactate (AIPL) sprijină această idee. De fapt, AIPL sugerează că mulți specialiști și organizații din domeniul medical sunt de acord pe această temă.",
+      "Laptele conține un pachet nutrițional complet format din nouă elemente esențiale. Reprezintă o sursă excelentă de calciu și de vitamina D și, în plus, este o bună sursă de vitamina A, de proteine și potasiu. Lactatele sunt recomandate de medici. Rolul lactatelor într-o dietă sănătoasă este susținut de nutriționiști și de comunitatea științifică. Iată câteva dintre organizațiile de marcă din domeniul medical care sprijină această idee: Fundația pentru Osteoporoză, Asociația Chirurgilor, Institutul Național de Sănătate Publică, Consiliul Științific al Asociației Medicale Americane. \nAsociația Internațională pentru Produse Lactate, 27 septembrie 2007",
+      "Ana, Chris și Sam discută despre decizia de a nu mai servi lapte de vacă în cafenea. Sam spune:\n— Poate că laptele de vacă a devenit prea scump.\nChris se uită la ecranul telefonului:\n— Poate, dar am dat și eu o căutare pe net pentru laptele de vacă. Vă trimit un link la un articol mai recent, care ar putea explica decizia patronului.\nAna și Sam deschid articolul trimis de Chris și citesc „Spune «Nu» laptelui de vacă!”",
+      "www.sanatatea-in-actualitate.ro/lapte\nSĂNĂTATEA ÎN ACTUALITATE\nSPUNE „NU” LAPTELUI DE VACĂ!\nde Dr. R. Garza, reporter de specialitate",
+      "Laptele de vacă reprezintă o parte importantă a vieții americanilor. Bebelușii consumă laptele de vacă la biberon. Copiii mănâncă cereale înmuiate în lapte. Chiar și adulții servesc un pahar cu lapte rece din când în când. Da, laptele de vacă reprezintă o parte însemnată în dieta umană pretutindeni în lume. Totuși, tot mai multe cercetări sugerează că laptele nu este miracolul de sănătate pe care îl promovează în mod constant reclamele americane.",
+      "Ministerul Agriculturii, Consiliul Produselor Lactate și Unitatea de Management pentru Lactate din SUA precum și alte organizații au promovat în mod susținut beneficiile laptelui timp de ani de zile. Astfel, adulții sunt încurajați să bea trei pahare de lapte pe zi. Cu toate acestea, studiile ultimului deceniu pun sub semnul întrebării capacitatea de susținere a oaselor precum și alte beneficii pentru sănătate atribuite laptelui. Rezultatele vă pot surprinde.",
+      "Unul dintre cele mai importante și recente studii asupra efectelor consumului de lapte s-a publicat în numărul din octombrie 2014 al Jurnalului Medical Britanic. Rezultatele studiului au condus la câteva concluzii de mare impact. Mai mult de 100000 de persoane din Suedia au fost subiecții studiului pe o perioadă de 20-30 de ani. Cercetătorii au descoperit că femeile care beau lapte suferă mai multe fracturi de oase decât acelea care nu consumă lapte. În plus, atât femeile cât și bărbații care beau lapte suferă într-o proporție mai mare de boli de inimă și de cancer. Aceste rezultate șocante sunt similare cu acelea din alte studii.",
+      "Comitetul pentru Medicină Responsabilă (CMR) comentează problemele medicale legate de consumul de lapte. Practic, laptele și produsele lactate „aduc puține beneficii sau nu au niciun efect pozitiv asupra sistemului osos”. CMR evidențiază și câteva probleme specifice asociate consumului de lapte: „Proteinele din lapte, zaharurile, grăsimile, grăsimile saturate din produsele lactate reprezintă un risc asupra sănătății copiilor și contribuie la producerea obezității, diabetului și a bolilor de inimă.”",
+      "Toate acestea sunt afirmații foarte dure și sunt necesare mai multe studii care să confirme rezultatele. Totuși sunt tot mai multe dovezi că laptele de vacă e mai puțin benefic pentru sănătate decât s-a crezut inițial. Dacă toate aceste afirmații devin fapte de necontestat e timpul să spui „nu” laptelui de vacă."
+    ],
+    "Questions": [
+      {
+        "question": "Care este o modalitate bună de a furniza corpului uman nutrienți cheie conform Asociației Internaționale a Alimentelor Lactate?",
+        "correct_answer": "Consumul zilnic de produse lactate.",
+        "options": [
+          "Consumul zilnic de produse lactate.",
+          "Aportul nutrițional suficient pentru a atinge cantitatea optimă de vitamine și minerale.",
+          "O dietă sănătoasă.",
+          "Depinde de greutatea, vârsta și riscurile de sănătate ale unei persoane."
+        ]
+      },
+      {
+        "question": "Potrivit Asociației Internaționale a Alimentelor Lactate, cu care afirmație sunt de acord mulți profesioniști și organizații din domeniul sănătății?",
+        "correct_answer": "Laptele este o sursă bogată de mai multe substanțe nutritive esențiale.",
+        "options": [
+          "Laptele este o sursă bogată de mai multe substanțe nutritive esențiale.",
+          "Laptele furnizează toate substanțele nutritive necesare unei diete sănătoase.",
+          "Consumul de lapte contribuie la sănătatea cardiovasculară.",
+          "Consumul de produse lactate reduce potențialul de rupere a unghiilor."
+        ]
+      },
+      {
+        "question": "Care este scopul principal al textului scris de Asociația Internațională a Alimentelor Lactate?",
+        "correct_answer": "Să promoveze produsele lactate Lacto-Farm.",
+        "options": [
+          "Să promoveze produsele lactate Lacto-Farm.",
+          "Să promoveze adoptarea unui regim alimentar sănătos.",
+          "Să demonstreze beneficiile pentru sănătate ale produselor lactate Lacto-Farm.",
+          "Să ofere informații despre procesul de producție a laptelui."
+        ]
+      },
+      {
+        "question": "În ce a constatat studiul cu privire la consumatorii de lapte publicat de Jurnalului Medical Britanic în 2014?",
+        "correct_answer": "Unele persoane au suferit mai multe fracturi osoase în funcție de sexul lor.",
+        "options": [
+          "Unele persoane au suferit mai multe fracturi osoase în funcție de sexul lor.",
+          "Subiecții erau mai puțin predispuși să sufere de boli de inimă în funcție de sexul lor.",
+          "Riscul de a dezvolta diabet era mai mare în funcție de vârstă.",
+          "Subiecții au avut rate mai mari de pierdere în greutate în funcție de vârstă."
+        ]
+      },
+      {
+        "question": "Ce se poate deduce despre popularitatea laptelui de vacă în Statele Unite?",
+        "correct_answer": "Laptele rămâne un aliment de bază în alimentația persoanelor din toate grupele de vârstă.",
+        "options": [
+          "Laptele rămâne un aliment de bază în alimentația persoanelor din toate grupele de vârstă.",
+          "Laptele este consumat în principal de către copii și nu de către adulți.",
+          "Popularitatea laptelui a scăzut din cauza îngrijorărilor legate de sănătate.",
+          "Laptele este consumat mai rar în regiunile urbane, dar nu și în zonele rurale din SUA."
+        ]
+      },
+      {
+        "question": "Cei doi autori nu sunt de acord cu privire la rolul laptelui într-o dietă obișnuită. Care este principalul punct asupra căruia nu sunt de acord?",
+        "correct_answer": "Efectele pe termen lung ale laptelui asupra sănătății.",
+        "options": [
+          "Efectele pe termen lung ale laptelui asupra sănătății.",
+          "Valoarea nutritivă a vitaminelor și mineralelor din lapte.",
+          "Prevalența istorică a laptelui de vacă în alimentația umană.",
+          "Care organizație este principala autoritate în domeniul laptelui."
+        ]
+      }
+    ]
+  },
+  {
+    "Experiment": "2",
+    "Condition": "1",
+    "ItemId": "11",
+    "Item": "Arg_PISARapaNui",
+    "Pages": [
+      "Rapa Nui - Introducere\n\nImaginează-ți că, săptămâna viitoare, se organizează o conferință la biblioteca locală. La acest eveniment participă o profesoară de la universitatea din apropiere. Ea își va prezenta munca de teren din Rapa Nui, o insulă din Oceanul Pacific, la peste 3200 km vest de Chile.",
+      "Vrei să studiezi istoria insulei Rapa Nui, astfel încât să ai o idee despre subiect înainte de a participa la conferință.\nPrima sursă pe care o vei citi este o postare pe blog scrisă de profesoară pe când era pe insulă.",
+      "www.blogulprofesoarei.ro/munca-de-teren/RapaNui\nBlogul profesoarei\nPostat pe 23 mai, 11:22",
+      "Mă uit pe fereastră de dimineață și văd peisajul pe care m-am deprins să-l îndrăgesc aici, pe Rapa Nui, care se mai numește și Insula Paștelui. Ierburile și arbuștii sunt verzi, cerul e albastru, iar bătrânii vulcani, acum stinși, se zăresc în depărtare.",
+      "Sunt un pic tristă știind că e ultima mea săptămână pe insulă. Mi-am încheiat activitatea pe teren și mă voi întoarce acasă. Astăzi, voi face o plimbare printre dealuri și îmi voi lua rămas bun de la statuile uriașe („moai”) pe care le-am studiat în ultimele nouă luni. Iată o imagine cu aceste statui masive.",
+      "Dacă ai urmărit blogul meu anul acesta, atunci ai aflat că populația de pe Rapa Nui a sculptat aceste moai cu sute de ani în urmă. Aceste statui impresionante au fost tăiate într-o singură carieră, în partea estică a insulei. Unele dintre ele cântăresc mii de kilograme și totuși locuitorii din Rapa Nui au reușit să le deplaseze în locuri aflate la mare distanță de carieră, fără macarale sau alte utilaje grele.",
+      "Timp de mulți ani, arheologii nu au găsit o explicație despre cum au putut fi deplasate statuile. A fost un mister până în anii 1990, când o echipă de arheologi și localnici din Rapa Nui au demonstrat că moai-i pot fi transportați și ridicați cu funii făcute din plante, cu ajutorul unor role și șenile de lemn construite din copacii masivi care în trecut creșteau în mare număr pe insulă. Misterul statuilor fusese dezlegat.",
+      "Dar a rămas un alt mister. Ce s-a întâmplat cu plantele și cu acei copaci uriași care au ajutat la deplasarea moai-lor? După cum spuneam, mă uit pe fereastră și zăresc ierburi, arbuști și unu-doi copăcei, nimic altceva care ar fi putut ajuta la deplasarea statuilor imense. E ca un joc de puzzle fascinant, unul pe care îl voi explora în următoarele postări și conferințe. Până atunci, poate dorești să investighezi misterul pe cont propriu. Sugerez să începi cu lectura unei cărți pe nume Colaps de Jared Diamond. Această recenzie pentru Colaps este un punct de plecare valoros.",
+      "www.recenziiacademice.ro/Colaps\nRecenzia volumului Colaps",
+      "Colaps, noua carte a lui Jared Diamond, reprezintă un avertisment clar cu privire la consecințele degradării mediului înconjurător. Autorul descrie în carte mai multe civilizații care au ajuns în colaps, din cauza alegerilor pe care le-au făcut și al impactului acestora asupra mediului. Rapa Nui este unul dintre exemplele cele mai tulburătoare din volum.",
+      "Potrivit autorului, Rapa Nui a început să fie locuită de polinezieni pe la 700 e.n. S-a dezvoltat astfel o civilizație înfloritoare de aproape 15000 de locuitori. Au sculptat statuile faimoase, moai-i, apoi au folosit resursele naturale la îndemână pentru a le deplasa în diferite locuri de pe insulă. Când au debarcat primii europeni pe insulă în 1722, statuile erau încă acolo, dar arborii dispăruseră.",
+      "Insula mai avea atunci doar câteva mii de locuitori, care se luptau să supraviețuiască. Diamond scrie că oamenii de pe Rapa Nui au defrișat terenul, pentru a practica agricultură și în alte scopuri; totodată, ei au exagerat cu vânarea speciilor de păsări marine și de uscat, care au populat cândva insula. Autorul speculează că împuținarea resurselor naturale a condus la războaie civile și la colapsul societății de pe Rapa Nui.",
+      "Lecția pe care ne-o dă această carte minunată, dar înfricoșătoare, este aceea că, în trecut, populațiile au ales să-și distrugă mediul, prin doborârea copacilor și vânătoare, până la extincția unor specii. În mod optimist, autorul arată că noi putem să nu facem aceleași greșeli astăzi. Cartea este bine scrisă și merită să fie citită de oricine este preocupat de problemele de mediu."
+    ],
+    "Questions": [
+      {
+        "question": "Când și-a început profesoara activitatea sa de teren?",
+        "correct_answer": "Acum nouă luni.",
+        "options": [
+          "Acum nouă luni.",
+          "Acum aproximativ un an.",
+          "În cursul anilor 1990.",
+          "La începutul lunii mai."
+        ]
+      },
+      {
+        "question": "Ce mister a rămas după ce s-a descoperit cum au fost mutate statuile?",
+        "correct_answer": "Motivul pentru care au dispărut copacii mari.",
+        "options": [
+          "Motivul pentru care au dispărut copacii mari.",
+          "Locul de unde proveneau arbuștii și copacii mici.",
+          "Care a fost modalitatea de transport pentru relocarea moai-lor.",
+          "Motivul pentru care s-a redus producția de culturi care susținea locuitorii."
+        ]
+      },
+      {
+        "question": "De ce a adăugat profesoara link-ul către recenzia cărții la articolul de pe blogul său?",
+        "correct_answer": "Ca să propună ipoteza că oamenii au schimbat mediul, ceea ce a cauzat epuizarea lemnului.",
+        "options": [
+          "Ca să propună ipoteza că oamenii au schimbat mediul, ceea ce a cauzat epuizarea lemnului.",
+          "Ca să sublinieze impactul schimbărilor de mediu asupra societăților polineziene.",
+          "Ca să menționeze întrebările deschise cu privire la declinul populației din Rapa Nui.",
+          "Ca să propună ipoteza că un eveniment meteorologic sever a distrus pădurea de pe insulă."
+        ]
+      },
+      {
+        "question": "Ce lipsea din Rapa Nui când au sosit europenii în 1722?",
+        "correct_answer": "Copacii.",
+        "options": [
+          "Copacii.",
+          "Moai.",
+          "Păsările.",
+          "Mineralele."
+        ]
+      },
+      {
+        "question": "Ce factor sugerează Jared Diamond ca fiind o potențială cauză a războaielor civile de pe Rapa Nui?",
+        "correct_answer": "Epuizarea resurselor naturale.",
+        "options": [
+          "Epuizarea resurselor naturale.",
+          "Colapsul societății Rapa Nui.",
+          "Sosirea europenilor.",
+          "Un conflict religios."
+        ]
+      },
+      {
+        "question": "Care este scopul principal al cărții lui Jared Diamond?",
+        "correct_answer": "Să investigheze rolului istoric al daunelor de mediu provocate de om în prăbușirea civilizațiilor.",
+        "options": [
+          "Să investigheze rolului istoric al daunelor de mediu provocate de om în prăbușirea civilizațiilor.",
+          "Să analizeze factorii politici și economici care au cauzat prăbușirea societății Rapa Nui.",
+          "Să analizeze impactul coloniștilor europeni asupra decăderii mai multor societăți istorice.",
+          "Să evidențieze rolul religiei și al spiritualității în modelarea destinului societății Rapa Nui."
+        ]
+      }
+    ]
+  },
+  {
+    "Experiment": "2",
+    "Condition": "1",
+    "ItemId": "12",
+    "Item": "PopSci_Caveman",
+    "Pages": [
+      "Omul cavernelor cu pielea închisă și ochii albaștri, dezvăluit\n\nADN-ul extras dintr-un molar de minte al unui vânător-culegător european le-a oferit oamenilor de știință o perspectivă fără precedent asupra oamenilor moderni înainte de apariția agriculturii. Bărbatul din mezolitic, care a trăit în Spania acum aproximativ 7.000 de ani, avea o combinație neobișnuită de ochi albaștri, păr negru sau castaniu și piele închisă la culoare, conform analizelor structurii sale genetice.",
+      "Probabil era intolerant la lactoză și digera mai greu alimentele bogate în amidon decât fermierii care și-au transformat dietele și stilurile de viață odată cu prima revoluție agricolă.",
+      "Invenția agriculturii a adus oamenii și animalele în contact mult mai strâns, iar oamenii probabil au dezvoltat sisteme imunitare mai robuste pentru a face față infecțiilor transmise de animale. Totuși, se poate ca oamenii de știință să fi supraestimat impactul pe care l-a avut agricultura asupra sistemului imunitar uman, deoarece testele ADN-ului vânătorului-culegător au arătat că acesta avea deja mutații care întăresc sistemul imunitar împotriva diferitelor infecții neplăcute. Unele dintre aceste mutații există și astăzi la europenii moderni.",
+      "„Înainte să începem această lucrare, îmi făcusem câteva idei despre ce am putea descoperi”, a spus Carles Lalueza-Fox, care a condus studiul la Institutul de Biologie Evolutivă din Barcelona. „Majoritatea acestor idei s-au dovedit a fi complet greșite.”",
+      "Echipa spaniolă și-a început munca după ce un grup de speologi a descoperit, în 2006, două schelete într-un sistem de peșteri complex și adânc situat în Munții Cantabrici, în nord-vestul Spaniei. Rămășițele umane, care aparțineau a doi bărbați de aproximativ 30 de ani, au fost extrem de bine conservate datorită mediului rece al peșterii.",
+      "Datarea cu carbon a plasat rămășițele în urmă cu aproximativ 7.000 de ani, înainte ca agricultura să fi ajuns în Europa din Orientul Mijlociu. Vechimea se potrivea cu artefactele antice descoperite la fața locului, inclusiv dinți de ren perforați, care erau șiruiți și agățați de hainele oamenilor.",
+      "Pe lângă impactul științific, artiștii ar putea fi nevoiți să își regândească reprezentările acestor oameni. „Vezi o mulțime de reconstituiri ale acestor oameni care vânează și culeg și care arată ca europenii moderni cu pielea deschisă la culoare. Nu vezi niciodată o reconstituire a unui vânător-culegător din mezolitic cu pielea închisă la culoare și ochii albaștri”, a spus Lalueza-Fox.",
+      "Echipa spaniolă a comparat apoi genomul vânătorului-culegător cu cel al europenilor moderni din diferite regiuni pentru a vedea cum ar putea fi înrudiți. Au descoperit că ADN-ul antic se potrivea cel mai bine cu structura genetică a oamenilor care trăiesc în nordul Europei, în special în Suedia și Finlanda."
+    ],
+    "Questions": [
+      {
+        "question": "Unde trăia omul din perioada mezolitică?",
+        "correct_answer": "Spania.",
+        "options": [
+          "Spania.",
+          "Oamenii de știință au restrâns căutarea la 7.000 de locații plauzibile.",
+          "Ferme din Europa.",
+          "Africa."
+        ]
+      },
+      {
+        "question": "Cine a descoperit cele două schelete din perioada mezolitică?",
+        "correct_answer": "Un grup de speologi.",
+        "options": [
+          "Un grup de speologi.",
+          "Oameni de știință spanioli.",
+          "Fermieri spanioli.",
+          "Un grup de alpiniști."
+        ]
+      },
+      {
+        "question": "Ce informații oferă datarea cu carbon în legătură cu vechimea scheletelor?",
+        "correct_answer": "Acestea provin din perioada anterioară introducerii agriculturii în Europa.",
+        "options": [
+          "Acestea provin din perioada anterioară introducerii agriculturii în Europa.",
+          "Acestea au aparținut unor bărbați care au sosit în Europa din Orientul Mijlociu.",
+          "Acestea au aparținut unor bărbați în vârstă de aproximativ 30 de ani.",
+          "Acestea erau din perioada Evului Mediu."
+        ]
+      },
+      {
+        "question": "Ce se poate deduce despre oamenii cavernelor din perioada mezolitică pe baza obiectelor descoperite în peșteră?",
+        "correct_answer": "Foloseau reni.",
+        "options": [
+          "Foloseau reni.",
+          "Nu purtau haine.",
+          "Cultura lor prețuia conservarea corpurilor în peșteri.",
+          "Vânau cu arme sofisticate."
+        ]
+      },
+      {
+        "question": "Ce presupuneau oamenii de știință despre sistemul imunitar al vânătorilor-culegători înainte de testele ADN din acest studiu?",
+        "correct_answer": "Inventarea agriculturii a avut un impact semnificativ asupra dezvoltării sistemului imunitar uman.",
+        "options": [
+          "Inventarea agriculturii a avut un impact semnificativ asupra dezvoltării sistemului imunitar uman.",
+          "Vânătorii-culegători din mezolitic aveau sisteme imunitare foarte robuste.",
+          "Europenii aveau sisteme imunitare mai puternice decât alte populații.",
+          "Era foarte asemănător cu sistemul imunitar al neanderthalilor."
+        ]
+      },
+      {
+        "question": "Cum influențează această descoperire modul în care artiștii ar trebui să portretizeze vânătorii-culegători din mezolitic?",
+        "correct_answer": "Să deseneze vânători-culegători din mezolitic cu pielea închisă și ochii albaștri.",
+        "options": [
+          "Să deseneze vânători-culegători din mezolitic cu pielea închisă și ochii albaștri.",
+          "Ar trebui să deseneze vânători-culegători din mezolitic cu pielea deschisă.",
+          "Ar trebui să folosească ca modele oamenii moderni din Suedia și Finlanda.",
+          "Ar trebui să prezinte femeile în mod mai proeminent atunci când descriu societățile din mezolitic."
+        ]
+      }
+    ]
+  }
+];

@@ -23,10 +23,10 @@ class TrialDataPreprocessor:
             assign(text=self.raw_data_df['text'].str.split()).explode('text')
         self.raw_data_df['word_nr'] = self.raw_data_df.groupby("item_id").cumcount()
         self.raw_data_df.to_csv(self.new_data_path / f'preprocessed_{self.raw_data_path.stem}.csv',
-                                index=False, float_format=None)
+                                index=False, float_format=None, encoding='utf-8-sig')
 
     def filtered_new_df(self) -> None:
         df_new = self.raw_data_df[['experiment_id', 'condition_id', 'item_id', 'text', 'word_nr', 'response_true']]
         df_new = df_new.rename(columns={'experiment_id': 'expr_id', 'condition_id': 'cond_id',
                                         'item_id': 'para_nr', 'text': 'word'})
-        df_new.to_csv(self.new_data_path / f'filtered_preprocessed_{self.raw_data_path.stem}.csv', index=False)
+        df_new.to_csv(self.new_data_path / f'filtered_preprocessed_{self.raw_data_path.stem}.csv', index=False, encoding='utf-8-sig')

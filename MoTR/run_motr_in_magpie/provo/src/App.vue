@@ -1,6 +1,3 @@
-<!-- Window is fixed, 102px, pointer cursor, gradual blurry effect on surrounding words. -->
-<!--  Comprehension questions appear afterwards in the same slide -->
-
 <template>
   <Experiment title="Mouse tracking for Reading" translate="no">
 
@@ -9,290 +6,523 @@
           minLength: $magpie.v.minLength(2)
         }
       }">
-        <!-- <WelcomeScreen /> -->
-        <div style="width: 40em; margin: auto;">
+      <div style="width: 40em; margin: auto;">
 
         <div style="background-color: lightgrey; padding: 10px;">
-            <b> Information About this Study </b>
+          <b> Information About this Study </b>
         </div>
         <p>
           We would like to ask you if you are willing to participate in our research project. Your participation is voluntary. Please read the text below carefully and ask the conducting person about anything you do not understand or would like to know.
-        <br><br>
-          <b>What is investigated and how?</b> You are being asked to take part in a research study being done by Ethan Wilcox, a researcher at the Swiss Federal Institute of Technology. This study will help us learn about how people read. It will take you around 20 minutes to complete.
-        <br><br>
-          <b>Who can participate?</b> You can participate only if you are an adult native speaker of English.
-        <br><br>
-         <b>What am I supposed to do as a participant?</b> If you choose to be in the study, you will use the computer mouse to read sentences in English and answer questions about them.
-        <br><br>
-          <b>What are my rights during participation?</b> Your participation in this study is voluntary. If you choose to participate, you may change your mind and leave the study at any time by closing the web page without specifying reasons and without any disadvantages.
-        <br><br>
-          <b>What risks and benefits can I expect?</b> There are no foreseeable risks for participating in this study.
-        <br><br>
-          <b>Will I be compensated for participating?</b> If you participate you will be compensated for your time following the amount specified on prolific.co.
-        <br><br>
-          <b>What data is collected from me and how is it used?</b> During this study, we will track the position of your mouse on screen. The data from this study may be presented at scientific conferences and published in scientific journals, as well as in online repositories. All data will remain anonymous. Members of the ETH Zurich Ethics Commission may access the original data for examination purposes. Strict confidentiality will be observed at any time.
-        <br><br>
-          <b> What are my rights to my personal data? </b> You can request information about the personal data collected from you at any time and without giving reasons. You can also request that it be rectified, handed over to you, barred for processing or erased. To do so, please contact the person indicated below.
-        <br><br>
-          <b>Who funds this study?</b> This study is funded by an ETH Postdoctoral Fellowship grant, awarded to Ethan Wilcox.
-        <br><br>
-          <b> How am I insured? </b> Although there are no foreseeable risks for participation, any adverse health effects that are directly caused by a study and can be demonstrated to be attributable to fault on the part of the project team or ETH Zurich are covered by ETH's liability insurance.
-        <br><br>
-          <b> Who reviewed this study?  </b> This study was examined by the ETH Zurich Ethics Commission as proposal EK 2023-N-03
-
-        <br><br>
-          <b> Complaints Office:</b> The secretariat of the ETH Zurich Ethics Committee is available to help you with complaints in connection with your participation. Contact: ethics@sl.ethz.ch or 0041 44 632 85 72.
-        <br><br>
-          <b> General Contact: </b> Ethan Gotlieb Wilcox, Department of Computer Science, ETH Zurich, OAS K.20, Binzmühlestrasse 13, 8050 Zürich, Switzerland, ethan.wilcox@inf.ethz.ch <br>
+          <br><br>
+          <b>What is investigated and how?</b> You are being asked to take part in a research study being done by Ethan Wilcox...
+          <br><br>
+          <b> General Contact: </b> Ethan Gotlieb Wilcox... <br>
         </p>
 
         <br>
         <div style="background-color: lightgrey; padding: 10px;">
-            <b> Consent Form </b>
+          <b> Consent Form </b>
         </div>
         <br>
         I, the participant, confirm by clicking the button below: <br>
-        <div style="padding-left: 30px"> • I have read and understood the study information. My questions have been answered completely and to my satisfaction. </div>
-        <div style="padding-left: 30px">• I comply with the inclusion and exclusion criteria for participation described above. I am aware of the requirements and restrictions to be observed during the study. </div>
+        <div style="padding-left: 30px"> • I have read and understood the study information... </div>
+        <div style="padding-left: 30px">• I comply with the inclusion and exclusion criteria... </div>
         <div style="padding-left: 30px">• I have had enough time to decide about my participation. </div>
-        <div style="padding-left: 30px">• I participate in this study voluntarily and consent that my personal data be used as described above.</div>
+        <div style="padding-left: 30px">• I participate in this study voluntarily...</div>
         <div style="padding-left: 30px">• I understand that I can stop participating at any moment.</div>
         <br>
 
-          <tr>
-          <td>Please enter your Prolific ID to continue:&nbsp</td><td><input name="TurkID" type="text" class="obligatory" v-model="$magpie.measurements.SubjectID"/></td>
-          </tr>
-          <tr>
+        <table>
+          <tbody>
+            <tr>
+              <td>Please enter your Prolific ID to continue:&nbsp;</td>
+              <td><input name="TurkID" type="text" class="obligatory" v-model="$magpie.measurements.SubjectID" /></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
 
-          </tr>
-          </div>
-          <div v-if="
-            $magpie.measurements.SubjectID&&
-            !$magpie.validateMeasurements.SubjectID.$invalid
-            ">
-          <br> By clicking on the button below you consent to participating in this study: <br><br>
-          <br />
-          <button 
-            @click="$magpie.addExpData({ SubjectId: $magpie.measurements.SubjectID}); $magpie.nextScreen()">
-            Proceed
-          </button>
-
-          </div>
-        </Screen>
+      <div v-if="$magpie.measurements.SubjectID && !$magpie.validateMeasurements.SubjectID.$invalid">
+        <br> By clicking on the button below you consent to participating in this study: <br><br>
+        <br />
+        <button @click="$magpie.addExpData({ SubjectId: $magpie.measurements.SubjectID}); $magpie.nextScreen()">
+          Proceed
+        </button>
+      </div>
+    </Screen>
 
 
     <InstructionScreen :title="'Instruction'">
-<!-- 
-      <p>Please use the "Fullscreen Mode" for the duration of the experiment:
-        <a href="javascript:void(0)" @click="turnOnFullScreen">Fullscreen Mode</a>
-      </p>
- -->
-      <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. In order to bring the text into focus move your mouse over it. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question at the bottom and click “next” to move on.</p>
+      <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. In order to bring the text into focus move your mouse over it.</p>
+      <p><strong>Important:</strong> At the beginning of each line, click the small blue box to start reading that line. At the end of the line, click the blue box to finish.</p>
+      <p>Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question at the bottom and click "next" to move on.</p>
     </InstructionScreen>
 
-    <template v-for="(trial, i) of trials">
-      <Screen :key="i" class="main_screen" :progress="i / trials.length">
+    <Screen v-for="(trial, i) of trials" :key="i" class="main_screen" :progress="i / trials.length" @next="currentIndex = i; currentPage = 0; currentQuestionIndex = 0; showQuestions = false">
         <Slide>
           <form>
-            <input type="hidden" class="item_id" :value="trial.item_id">
-            <input type="hidden" class="experiment_id" :value="trial.experiment_id">
-            <input type="hidden" class="condition_id" :value="trial.condition_id">
+            <input type="hidden" class="item_id" :value="trial.ItemId">
+            <input type="hidden" class="experiment_id" :value="trial.Experiment">
+            <input type="hidden" class="condition_id" :value="trial.Condition">
           </form>
           <div class="oval-cursor"></div>
           <template>
-            <div v-if="showFirstDiv" class="readingText" @mousemove="moveCursor" @mouseleave="changeBack">
-              <template v-for="(word, index) of trial.text.split(' ')">
-                <span :key="index" :data-index="index" >
-                  {{ word }}
-                </span>
-              </template>
+            <div v-if="!showQuestions" class="readingText" :id="'trial-' + i" @mousemove="moveCursor" @mouseleave="changeBack">
+              <span v-for="(word, index) of (trial.pages && trial.pages[currentPage] ? trial.pages[currentPage].replace(/\n+/g, ' ') : '').split(' ')" :key="index" :data-index="index" class="word-span">
+                {{ word }}
+              </span>
             </div>
-            <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;"> 
-              {{trial.text}}
+            <div v-if="!showQuestions" class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
+              <span v-for="(word, index) of (trial.pages && trial.pages[currentPage] ? trial.pages[currentPage].replace(/\n+/g, ' ') : '').split(' ')" :key="index" class="word-span">
+                {{ word }}
+              </span>
             </div>
           </template>
-          <button v-if="showFirstDiv" style= "bottom:40%; transform: translate(-50%, -50%)" @click="toggleDivs" :disabled="!isCursorMoving">
-          Done
-          </button>
-
-          <div v-else style = "position:absolute; bottom:15%; text-align: center; width: 100%; min-width: -webkit-fill-available;" >
-            <template>
-              <form>
-                <!-- comprehension questions and the response options -->
-                <div>{{ trial.question.replace(/ ?["]+/g, '') }}</div>
-                <template v-for='(word, index) of trial.response_options'>
-                  <input :id="'opt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response"/>{{ word }}<br/>
-                    <!-- <label :for="'opt_'+index"> {{ word }}&nbsp</label> -->
-                </template>
-              </form>
-            </template>
-          </div>
           
-          <button v-if="$magpie.measurements.response" style="transform: translate(-50%, -50%)" @click="toggleDivs(); $magpie.saveAndNextScreen()">
-            Next
-          </button>
+          <!-- Pagination Controls -->
+          <div v-if="!showQuestions" style="position: absolute; bottom: 30px; left: 0; width: 100%; display: flex; justify-content: flex-end; padding-right: 80px; box-sizing: border-box; pointer-events: none; z-index: 10;">
+            
+            <button v-if="currentPage < trial.totalPages - 1" @click="nextPage(trial, i)" 
+                    style="pointer-events: auto; position: relative; left: auto; transform: none; margin: 0; padding: 12px 24px; font-size: 15px; background-color: #2196F3; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: all 0.2s; width: 160px;">
+              Next →
+            </button>
+            
+            <button v-else @click="finishReading()" :disabled="!isCursorMoving" 
+                    style="pointer-events: auto; position: relative; left: auto; transform: none; margin: 0; padding: 12px 24px; font-size: 15px; background-color: #4CAF50; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: all 0.2s; width: 160px;"
+                    :style="!isCursorMoving ? 'opacity: 0.5; cursor: not-allowed;' : ''">
+              Done Reading
+            </button>
+
+          </div>
+
+          <!-- Questions Section -->
+          <template v-if="showQuestions">
+            
+            <div style="position:absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; width: 90%; max-width: 800px; z-index: 15;">
+              <div v-if="currentQuestionIndex < trial.questions.length">
+                <div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">Question {{ currentQuestionIndex + 1 }} / {{ trial.questions.length }}</div>
+                <div style="font-size: 18px; margin-bottom: 25px;">{{ trial.questions[currentQuestionIndex].question }}</div>
+                
+                <div style="display: flex; flex-direction: column; gap: 12px; max-width: 600px; margin: 0 auto;">
+                  <label v-for='(option, idx) of trial.questions[currentQuestionIndex].options' :key="idx" 
+                         style="display: flex; align-items: center; padding: 14px; border: 2px solid #ddd; border-radius: 8px; cursor: pointer; transition: all 0.2s;" 
+                         :style="trial.questions[currentQuestionIndex].userResponse === option ? 'background-color: #e3f2fd; border-color: #2196f3;' : ''"
+                         @click="trial.questions[currentQuestionIndex].userResponse = option">
+                    <input :id="'q'+currentQuestionIndex+'_opt_'+idx" type="radio" :value="option" 
+                           :name="'question_'+currentQuestionIndex" 
+                           v-model="trial.questions[currentQuestionIndex].userResponse" 
+                           style="margin-right: 12px;" />
+                    <span style="flex: 1; text-align: left;">{{ option }}</span>
+                  </label>
+                </div>
+              </div>
+            </div>
+
+            <div style="position: absolute; bottom: 30px; left: 0; width: 100%; display: flex; justify-content: flex-end; padding-right: 80px; box-sizing: border-box; pointer-events: none; z-index: 20;">
+                <div v-if="currentQuestionIndex < trial.questions.length">
+                  <button v-if="trial.questions[currentQuestionIndex].userResponse" 
+                          @click="submitAnswer(trial)" 
+                          style="pointer-events: auto; position: relative; left: auto; bottom: auto; transform: none; margin: 0; padding: 14px 40px; font-size: 16px; background-color: #4CAF50; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: all 0.2s;">
+                    {{ currentQuestionIndex < trial.questions.length - 1 ? 'Next Question' : 'Submit All Answers' }}
+                  </button>
+                </div>
+            </div>
+
+          </template>
         </Slide>
       </Screen>
-    </template>
-<Screen>
-  <p>1. Which input device are you using for this experiment?</p>
-    <MultipleChoiceInput
-        :response.sync= "$magpie.measurements.device"
-        orientation="horizontal"
-        :options="['Computer Mouse', 'Computer Trackpad', 'Other']" />
-  <br>
-  <br>
-  <p>2. Which hand are you using during this experiment?</p>
-    <MultipleChoiceInput
-        :response.sync= "$magpie.measurements.hand"
-        orientation="horizontal"
-        :options="['Left', 'Right', 'Both']" />
-  <button style= "bottom:30%; transform: translate(-50%, -50%)" @click="$magpie.saveAndNextScreen();">Submit</button>
-</Screen>
+
+    <Screen>
+      <p>1. Which input device are you using for this experiment?</p>
+      <MultipleChoiceInput :response.sync="$magpie.measurements.device" orientation="horizontal" :options="['Computer Mouse', 'Computer Trackpad', 'Other']" />
+      <br>
+      <br>
+      <p>2. Which hand are you using during this experiment?</p>
+      <MultipleChoiceInput :response.sync="$magpie.measurements.hand" orientation="horizontal" :options="['Left', 'Right', 'Both']" />
+      <button style="bottom:30%; transform: translate(-50%, -50%)" @click="$magpie.saveAndNextScreen();">Submit</button>
+    </Screen>
 
     <SubmitResultsScreen />
   </Experiment>
 </template>
 
 <script>
-// Load data from csv files as javascript arrays with objects
-import provo_list1 from '../trials/provo_items_list1.tsv';
-import provo_list2 from '../trials/provo_items_list2.tsv';
-import provo_list3 from '../trials/provo_items_list3.tsv';
-import provo_practice from '../trials/provo_items_practice.tsv';
+// Load data from csv files
+import ro_items from '../trials/ro_items.js';
 import _ from 'lodash';
 
 export default {
   name: 'App',
   data() {
-    const lists = [provo_list1, provo_list2, provo_list3];
-    const chosenItems = lists[Math.floor(Math.random() * lists.length)]; // randomly choose one of the lists
-    const shuffledItems = _.shuffle(chosenItems); 
-    const trials = _.concat(provo_practice, shuffledItems);
-    // Create a new column in localCoherences called 'response_options'
-    // that concatenates the word in response_true with the two words in response_distractors
-    const updatedTrials = trials.map(trial => {
+    try {
+      // Randomizare texte
+      const shuffledItems = _.shuffle(ro_items);
+      
+      // Procesare trials
+      const updatedTrials = shuffledItems.map(trial => {
+        
+        // Procesare întrebări - randomizare opțiuni pentru fiecare întrebare
+        const processedQuestions = trial.Questions.map(q => {
+          const shuffledOptions = _.shuffle(q.options);
+          return {
+            ...q,
+            options: shuffledOptions,
+            userResponse: null // Pentru a stoca răspunsul
+          };
+        });
+        
+        return {
+          ...trial,
+          pages: trial.Pages,
+          questions: processedQuestions,
+          totalPages: trial.Pages.length
+        }
+      });
+      
       return {
-        ...trial,
-        response_options: _.shuffle(`${trial.response_true}|${trial.response_distractors}`.replace(/ ?["]+/g, "").split("|")),
-      }
-    });
-    return {
-      isCursorMoving: false,
-      trials: updatedTrials,
-      currentIndex: null,
-      showFirstDiv: true,
-      // currentItem: null,
-      mousePosition: {
+        isCursorMoving: false,
+        trials: updatedTrials,
+        currentIndex: null,
+        currentLine: null,
+        currentPage: 0,
+        currentQuestionIndex: 0,
+        showQuestions: false,
+        isTrackingActive: false,
+        lineControls: [],
+        lockedY: null,
+        mousePosition: {
           x: 0,
           y: 0,
         },
-  }},
-  computed: {
+        savingInterval: null, // Pentru a putea opri intervalul
+      }
+    } catch (error) {
+      return {
+        isCursorMoving: false,
+        trials: [],
+        currentIndex: null,
+        currentLine: null,
+        currentPage: 0,
+        isTrackingActive: false,
+        lineControls: [],
+        lockedY: null,
+        showQuestions: false,
+        mousePosition: {
+          x: 0,
+          y: 0,
+        },
+        savingInterval: null,
+      }
+    }
   },
-  mounted() { 
-    setInterval(this.saveData, 50);
-    },
+  computed: {},
+  mounted() {
+    this.savingInterval = setInterval(this.saveData, 50);
+  },
+  // FIX: Curatam intervalul cand se distruge componenta pentru performanta
+  beforeDestroy() {
+    if (this.savingInterval) {
+      clearInterval(this.savingInterval);
+    }
+  },
+  updated() {
+    // Calculează line controls DOAR când citim textul (nu la întrebări)
+    if (!this.showQuestions && this.lineControls.length === 0) {
+      const readingText = document.querySelector('.readingText');
+      if (readingText && readingText.children.length > 0) {
+        this.$nextTick(() => {
+          setTimeout(() => {
+            this.calculateLineControls();
+          }, 200);
+        });
+      }
+    }
+  },
   methods: {
+    finishReading() {
+      // Șterge toate line-box-urile înainte de a trece la întrebări
+      const allBoxes = document.querySelectorAll('.line-box');
+      allBoxes.forEach(box => box.remove());
+      
+      this.showQuestions = true;
+      this.currentQuestionIndex = 0;
+      this.isCursorMoving = false;
+      this.isTrackingActive = false;
+      this.currentLine = null;
+      this.lineControls = [];
+    },
+    submitAnswer(trial) {
+      const currentQuestion = trial.questions[this.currentQuestionIndex];
+      
+      if (this.currentQuestionIndex < trial.questions.length - 1) {
+        // Mai sunt întrebări pentru acest text
+        this.currentQuestionIndex++;
+      } else {
+        // Toate întrebările pentru acest text au fost răspunse
+        
+        // Salvează toate răspunsurile în magpie
+        trial.questions.forEach((q, idx) => {
+          this.$magpie.measurements[`question_${idx + 1}`] = q.question;
+          this.$magpie.measurements[`answer_${idx + 1}`] = q.userResponse;
+          this.$magpie.measurements[`correct_answer_${idx + 1}`] = q.correct_answer;
+        });
+        
+        // Resetează starea pentru următorul text
+        this.showQuestions = false;
+        this.currentQuestionIndex = 0;
+        this.currentPage = 0;
+        
+        // Mergi la următorul trial (următorul text)
+        this.$magpie.saveAndNextScreen();
+      }
+    },
+    nextPage(trial, index) {
+      this.currentIndex = index;
+      if (this.currentPage < trial.totalPages - 1) {
+        this.currentPage++;
+        this.lineControls = [];
+        this.isTrackingActive = false;
+        this.currentLine = null;
+        this.$nextTick(() => {
+          setTimeout(() => {
+            this.calculateLineControls();
+          }, 200);
+        });
+      }
+    },
+
+    calculateLineControls() {
+      const readingText = document.querySelector('.readingText');
+      if (!readingText) {
+        return;
+      }
+
+      const wordSpans = readingText.querySelectorAll('.word-span');
+      if (wordSpans.length === 0) {
+        return;
+      }
+
+      const lines = [];
+      let currentTop = null;
+      let lineWords = [];
+
+      wordSpans.forEach((span, index) => {
+        const rect = span.getBoundingClientRect();
+        const parentRect = readingText.getBoundingClientRect();
+        const relativeTop = Math.round(rect.top - parentRect.top);
+
+        if (currentTop === null || Math.abs(relativeTop - currentTop) > 5) {
+          if (lineWords.length > 0) {
+            lines.push([...lineWords]);
+          }
+          currentTop = relativeTop;
+          lineWords = [index];
+        } else {
+          lineWords.push(index);
+        }
+      });
+
+      if (lineWords.length > 0) {
+        lines.push(lineWords);
+      }
+
+      this.lineControls = lines;
+      this.renderLineBoxes();
+    },
+    renderLineBoxes() {
+      // Nu afișa line boxes când sunt întrebările active
+      if (this.showQuestions) {
+        return;
+      }
+      
+      const readingText = document.querySelector('.readingText');
+      if (!readingText) {
+        return;
+      }
+
+      // Remove old boxes
+      const oldBoxes = readingText.querySelectorAll('.line-box');
+      oldBoxes.forEach(box => box.remove());
+
+      let boxesCreated = 0;
+      this.lineControls.forEach((lineWordIndices, lineIndex) => {
+        const firstWord = readingText.querySelector(`[data-index="${lineWordIndices[0]}"]`);
+        const lastWord = readingText.querySelector(`[data-index="${lineWordIndices[lineWordIndices.length - 1]}"]`);
+
+        if (!firstWord || !lastWord) return;
+
+        const parentRect = readingText.getBoundingClientRect();
+        const firstRect = firstWord.getBoundingClientRect();
+        const lastRect = lastWord.getBoundingClientRect();
+
+        // Start box
+        const startBox = document.createElement('div');
+        startBox.className = 'line-box start-box';
+        startBox.style.top = (firstRect.top - parentRect.top + (firstRect.height / 2) - 15) + 'px';
+        startBox.style.left = (firstRect.left - parentRect.left - 30) + 'px';
+        startBox.dataset.line = lineIndex;
+        startBox.onmouseenter = () => this.activateLine(lineIndex);
+        readingText.appendChild(startBox);
+
+        // End box
+        const endBox = document.createElement('div');
+        endBox.className = 'line-box end-box';
+        endBox.style.top = (lastRect.top - parentRect.top + (lastRect.height / 2) - 15) + 'px';
+        endBox.style.left = (lastRect.right - parentRect.left + 15) + 'px';
+        endBox.dataset.line = lineIndex;
+        endBox.onmouseenter = () => this.deactivateLine(lineIndex);
+        readingText.appendChild(endBox);
+        
+        boxesCreated++;
+      });
+    },
+    activateLine(lineIndex) {
+      this.currentLine = lineIndex;
+      this.isTrackingActive = true;
+
+      // Salvează Y-ul liniei curente pentru blocare
+      const readingText = document.querySelector('.readingText');
+      if (readingText && this.lineControls[lineIndex]) {
+        const firstWordIndex = this.lineControls[lineIndex][0];
+        const firstWord = readingText.querySelector(`[data-index="${firstWordIndex}"]`);
+        if (firstWord) {
+          const rect = firstWord.getBoundingClientRect();
+          this.lockedY = rect.top + (rect.height / 2);
+        }
+      }
+
+      // Visual feedback
+      document.querySelectorAll('.line-box').forEach(box => {
+        box.classList.remove('active');
+        if (parseInt(box.dataset.line) === lineIndex) {
+          box.classList.add('active');
+        }
+      });
+    },
+    deactivateLine(lineIndex) {
+      if (this.currentLine === lineIndex) {
+        this.isTrackingActive = false;
+        this.currentLine = null;
+        this.currentIndex = null;
+        this.lockedY = null; // Eliberează Y-ul blocat
+
+        // Remove visual feedback
+        document.querySelectorAll('.line-box').forEach(box => {
+          box.classList.remove('active');
+        });
+      }
+    },
     changeBack() {
-      this.$el.querySelector(".oval-cursor").classList.remove('grow');
-      this.$el.querySelector(".oval-cursor").classList.remove('blank');
+      if (this.$el.querySelector(".oval-cursor")) {
+        this.$el.querySelector(".oval-cursor").classList.remove('grow');
+        this.$el.querySelector(".oval-cursor").classList.remove('blank');
+      }
       this.currentIndex = null;
     },
     saveData() {
-        if (this.currentIndex !== null) {
-          const currentElement = this.$el.querySelector(`span[data-index="${this.currentIndex}"]`);
-          if (currentElement) {
-            const currentElementRect = currentElement.getBoundingClientRect();
-            $magpie.addTrialData({
-              Experiment: this.$el.querySelector(".experiment_id").value,
-              Condition: this.$el.querySelector(".condition_id").value,
-              ItemId: this.$el.querySelector(".item_id").value,
-              Index: this.currentIndex,
-              Word: currentElement.innerHTML,
-              mousePositionX: this.mousePosition.x,
-              mousePositionY: this.mousePosition.y,
-              wordPositionTop: currentElementRect.top,
-              wordPositionLeft: currentElementRect.left,
-              wordPositionBottom: currentElementRect.bottom,
-              wordPositionRight: currentElementRect.right
-              // wordPositionTop: currentElement.offsetTop,
-              // wordPositionLeft: currentElement.offsetLeft,
-              // wordPositionBottom: currentElement.offsetHeight + currentElement.offsetTop,
-              // wordPositionRight: currentElement.offsetWidth + currentElement.offsetLeft
-          });
-        } else {
+      if (!this.isTrackingActive) return;
+
+      const responseTime = Date.now();
+
+      if (this.currentIndex !== null) {
+        const currentElement = this.$el.querySelector(`span[data-index="${this.currentIndex}"]`);
+        if (currentElement) {
+          const currentElementRect = currentElement.getBoundingClientRect();
           $magpie.addTrialData({
-              Experiment: this.$el.querySelector(".experiment_id").value,
-              Condition: this.$el.querySelector(".condition_id").value,
-              ItemId: this.$el.querySelector(".item_id").value,
-              Index: this.currentIndex,
-              mousePositionX: this.mousePosition.x,
-              mousePositionY: this.mousePosition.y,
+            responseTime: responseTime,
+            Experiment: this.$el.querySelector(".experiment_id").value,
+            Condition: this.$el.querySelector(".condition_id").value,
+            ItemId: this.$el.querySelector(".item_id").value,
+            Index: this.currentIndex,
+            Line: this.currentLine,
+            Word: currentElement.innerHTML.replace(/[\r\n]+/g, ' ').trim(),
+            mousePositionX: this.mousePosition.x,
+            mousePositionY: this.mousePosition.y,
+            wordPositionTop: currentElementRect.top,
+            wordPositionLeft: currentElementRect.left,
+            wordPositionBottom: currentElementRect.bottom,
+            wordPositionRight: currentElementRect.right
           });
-          
         }
-      }},
+      } else {
+        $magpie.addTrialData({
+          responseTime: responseTime,
+          Experiment: this.$el.querySelector(".experiment_id").value,
+          Condition: this.$el.querySelector(".condition_id").value,
+          ItemId: this.$el.querySelector(".item_id").value,
+          Index: this.currentIndex,
+          Line: this.currentLine,
+          mousePositionX: this.mousePosition.x,
+          mousePositionY: this.mousePosition.y,
+        });
+
+      }
+    },
     moveCursor(e) {
+      if (!this.isTrackingActive) {
+        this.$el.querySelector(".oval-cursor").classList.remove('grow');
+        this.$el.querySelector(".oval-cursor").classList.add('blank');
+        return;
+      }
+
       this.isCursorMoving = true;
-      this.$el.querySelector(".oval-cursor").classList.add('grow');
+      const cursor = this.$el.querySelector(".oval-cursor");
+      cursor.classList.add('grow');
+
       let x = e.clientX;
-      let y = e.clientY;
-      const elementAtCursor= document.elementFromPoint(x, y).closest('span');
-      if (elementAtCursor){
-        this.$el.querySelector(".oval-cursor").classList.remove('blank');
+      let y = this.lockedY !== null ? this.lockedY : e.clientY; // Folosește Y blocat
+
+      const elementAtCursor = document.elementFromPoint(x, y).closest('span');
+      if (elementAtCursor) {
+        cursor.classList.remove('blank');
         this.currentIndex = elementAtCursor.getAttribute('data-index');
       } else {
-        this.$el.querySelector(".oval-cursor").classList.add('blank');
-        const elementAboveCursor = document.elementFromPoint(x, y-3).closest('span');
-        if (elementAboveCursor){
+        cursor.classList.add('blank');
+        // FIX: Am inlocuit "?." cu verificarea clasica
+        const rawEl = document.elementFromPoint(x, y - 3);
+        const elementAboveCursor = rawEl ? rawEl.closest('span') : null;
+        
+        if (elementAboveCursor) {
           this.currentIndex = elementAboveCursor.getAttribute('data-index');
         } else {
           this.currentIndex = -1;
         }
       }
-      
-      this.$el.querySelector(".oval-cursor").style.left = `${x+12}px`;
-      this.$el.querySelector(".oval-cursor").style.top = `${y-6}px`;
+
+      cursor.style.left = `${x + 12}px`;
+      cursor.style.top = `${y - 6}px`;
       this.mousePosition.x = e.clientX;
-      this.mousePosition.y = e.clientY;
-      // this.mousePosition.x = e.offsetX;
-      // this.mousePosition.y = e.offsetY;
+      this.mousePosition.y = y;
     },
-    toggleDivs() {
-    this.showFirstDiv = !this.showFirstDiv;
-    this.isCursorMoving = false;
-    },
-   //  async turnOnFullScreen() {
-//       if (!document.fullscreenElement) {
-//         try {
-//           await document.documentElement.requestFullscreen();
-//           return true;
-//         } catch (e) {
-//           return false;
-//         }
-//       }
-//       return true;
-//     },
-//     turnOffFullScreen() {
-//       document.exitFullscreen();
-//     },
     getScreenDimensions() {
       return {
         window_inner_width: window.innerWidth,
         window_inner_height: window.innerHeight
       };
     }
-  },
-};
+  }, // Aici se inchide obiectul methods
+}; // Aici se inchide export default
 </script>
 
-
 <style>
+  @font-face {
+    font-family: 'JetBrainsMono';
+    src: url('/JetBrainsMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
   .experiment {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 1340px !important;
+    height: 1008px !important;
+    border: 1px solid #ababab !important;
+    border-radius: 10px !important;
+    margin: 20px auto !important;
+    padding: 0 !important;
+    position: relative !important;
   }
   .main_screen {
     isolation: isolate;
@@ -302,7 +532,7 @@ export default {
     font-size: 18px;
     line-height: 40px;
   }
-  .debugResults{
+  .debugResults {
     width: 100%;
   }
   .readingText {
@@ -310,12 +540,39 @@ export default {
     position: absolute;
     color: white;
     text-align: left;
+    font-family: 'JetBrainsMono', monospace;
+    font-size: 23px;
+    line-height: 2cm;
     font-weight: 450;
     cursor: pointer;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    padding-left: 11%;
-    padding-right: 11%;
+    padding: 2cm;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    overflow: hidden;
+  }
+  .word-span {
+    margin-right: 0.3em;
+  }
+  .line-box {
+    position: absolute;
+    width: 12px;
+    height: 30px;
+    border: 2px solid #4A90E2;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    z-index: 5;
+  }
+  .line-box:hover {
+    background-color: rgba(74, 144, 226, 0.4);
+    box-shadow: 0 0 8px rgba(74, 144, 226, 0.6);
+  }
+  .line-box.active {
+    background-color: rgba(74, 144, 226, 0.3);
+    border-color: #2E6DB8;
+    border-width: 3px;
   }
   button {
     position: absolute;
@@ -333,7 +590,7 @@ export default {
     border-radius: 50%;
     pointer-events: none;
     transition: width 0.5s, height 0.5s;
-  } 
+  }
   .oval-cursor.grow.blank {
     width: 80px;
     height: 13px;
@@ -347,7 +604,7 @@ export default {
     background-blend-mode: screen;
     pointer-events: none;
     transition: width 0.5s, height 0.5s;
-    filter:blur(3px);
+    filter: blur(3px);
   }
   .oval-cursor.grow::before {
     content: "";
@@ -360,23 +617,31 @@ export default {
     background-color: white;
     mix-blend-mode: normal;
     border-radius: 50%;
-}
+  }
   .blurry-layer {
     position: absolute;
     pointer-events: none;
     color: black;
     text-align: left;
+    font-family: 'JetBrainsMono', monospace;
+    font-size: 23px;
+    line-height: 2cm;
     font-weight: 450;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    padding-left: 11%;
-    padding-right: 11%;
+    padding: 2cm;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    overflow: hidden;
   }
-
   * {
-    user-select: none; /* Standard syntax */
-    -webkit-user-select: none; /* Safari */
-    -moz-user-select: none; /* Firefox */
-    -ms-user-select: none; /* Internet Explorer/Edge */
-    }
+    user-select: none;
+    /* Standard syntax */
+    -webkit-user-select: none;
+    /* Safari */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+  }
 </style>

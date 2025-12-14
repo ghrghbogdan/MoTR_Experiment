@@ -1,0 +1,125 @@
+timestamp	trial_number	stimulus_number	page_number	screen_onset_timestamp	keypress_timestamp	key_pressed	question	answer_correct	message
+33608.88957977295	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** DATE:2025-09-18
+33614.55750465393	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** EXP_START_TIMESTAMP:1758195296
+33620.27359008789	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** SESSION_ID:1
+33625.89907646179	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** PARTICIPANT_ID:001
+33631.540298461914	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** DATASET_TYPE:test_sessions
+33636.7826461792	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	<NA>	*** SESSION_MODE:test
+74662.79315948486	<NA>	<NA>	instruction_screen_1	47576.47681236267	74662.7836227417	space	False	<NA>	stop showing: instruction_screen_1
+116751.94144248962	<NA>	<NA>	instruction_screen_2	74695.57571411133	116751.92928314209	space	False	<NA>	stop showing: instruction_screen_2
+118147.72391319275	<NA>	<NA>	instruction_screen_3	116785.97378730774	118147.71366119385	space	False	<NA>	stop showing: instruction_screen_3
+121193.95732879639	<NA>	<NA>	practice_start_screen	119811.47003173828	space	121193.9492225647	False	<NA>	stop showing: practice_start_screen
+124741.99533462524	1	7	1	121533.89406204224	124741.9273853302	space	False	<NA>	showing: Lit_NorthWind
+139142.0214176178	1	<NA>	familiarity_rating_screen_1	125077.0218372345	139141.94083213806	option_1	False	<NA>	rating screen: familiarity_rating_screen_1
+142839.341878891	1	<NA>	familiarity_rating_screen_2	139476.44138336182	142839.26105499268	option_4	False	<NA>	rating screen: familiarity_rating_screen_2
+145369.50039863586	1	<NA>	subject_difficulty_screen	143167.0217514038	145369.4236278534	option_2	False	<NA>	rating screen: subject_difficulty_screen
+146542.986869812	1	7	7111	146542.96708106995	146532.14478492737	down	True	False	preliminary answer: distractor_c_key
+146857.58018493652	1	7	7111	146857.5689792633	146846.83871269226	up	True	True	preliminary answer: target_key
+147291.05019569397	1	7	7111	147291.0339832306	147279.93988990784	left	True	False	preliminary answer: distractor_b_key
+147535.0263118744	1	7	7111	147535.01057624817	147526.0899066925	down	True	False	preliminary answer: distractor_c_key
+147788.13219070435	1	7	7111	147788.11407089233	147777.73809432983	right	True	False	preliminary answer: distractor_a_key
+148146.8677520752	1	7	7111	148146.85559272766	148137.46905326843	down	True	False	preliminary answer: distractor_c_key
+148644.93680000305	1	7	7111	148644.92273330688	148635.25080680847	up	True	True	preliminary answer: target_key
+148982.08498954773	1	7	7111	148982.06853866577	148973.8268852234	up	True	True	preliminary answer: target_key
+149234.07983779907	1	7	7111	149234.06314849854	149224.8570919037	left	True	False	preliminary answer: distractor_b_key
+149708.45770835876	1	7	7111	149708.44674110413	149697.52621650696	down	True	False	preliminary answer: distractor_c_key
+150141.7531967163	1	7	7111	150141.74222946167	150130.92827796936	right	True	False	preliminary answer: distractor_a_key
+150490.4944896698	1	7	7111	150490.48233032227	150480.25822639465	up	True	True	preliminary answer: target_key
+150761.53993606567	1	7	7111	150761.52348518372	150750.25415420532	left	True	False	preliminary answer: distractor_b_key
+151191.32232666016	1	7	7111	151191.31112098694	151181.90622329712	down	True	False	preliminary answer: distractor_c_key
+152188.28558921814	1	7	7111	152188.2655620575	152175.99391937256	up	True	True	preliminary answer: target_key
+152499.6907711029	1	7	7111	152188.2655620575	152499.68004226685	space	True	True	preliminary answer: final_confirmation
+152506.8657398224	1	7	7111	145735.15939712524	152499.68004226685	up	True	True	FINAL ANSWER: correct answer is 'up' (Călătorul purta o haină groasă.), participant's answer is True
+153545.7181930542	1	7	7131	153545.69816589355	153534.6531867981	down	True	False	preliminary answer: distractor_b_key
+154055.71627616882	1	7	7131	154055.69648742676	154043.6189174652	up	True	False	preliminary answer: distractor_c_key
+154695.42860984802	1	7	7131	154055.69648742676	154695.41478157043	space	True	False	preliminary answer: final_confirmation
+154702.8739452362	1	7	7131	152830.6040763855	154695.41478157043	up	True	False	FINAL ANSWER: correct answer is 'right' (O fabulă.), participant's answer is False
+163094.5885181427	2	13	1	155039.25728797913	163094.5210456848	space	False	<NA>	showing: Enc_WikiMoon
+167397.212266922	2	13	2	163451.16114616394	167397.1347808838	space	False	<NA>	showing: Enc_WikiMoon
+172088.92011642456	2	<NA>	familiarity_rating_screen_1	167731.1761379242	172088.83810043335	option_1	False	<NA>	rating screen: familiarity_rating_screen_1
+172801.2239933014	2	<NA>	familiarity_rating_screen_2	172418.05267333984	172801.1543750763	option_1	False	<NA>	rating screen: familiarity_rating_screen_2
+173972.00512886047	2	<NA>	subject_difficulty_screen	173128.00002098083	173971.92907333374	option_1	False	<NA>	rating screen: subject_difficulty_screen
+174355.68284988403	2	13	13121	174297.3473072052	174355.67235946655	space	True	False	preliminary answer: final_confirmation
+174450.2136707306	2	13	13121	174450.19626617432	174439.72182273865	down	True	True	preliminary answer: target_key
+174542.72270202637	2	13	13121	174450.19626617432	174542.71245002747	space	True	True	preliminary answer: final_confirmation
+174550.15683174133	2	13	13121	174297.3473072052	174542.71245002747	down	True	True	FINAL ANSWER: correct answer is 'down' (Luna are o perioadă de rotație egală cu timpul necesar pentru a orbita în jurul Pământului.), participant's answer is True
+174916.0578250885	2	13	13131	174883.72254371643	174916.04804992676	space	True	False	preliminary answer: final_confirmation
+174984.87663269043	2	13	13131	174984.86399650574	174975.26693344116	down	True	False	preliminary answer: distractor_a_key
+175108.7658405304	2	13	13131	174984.86399650574	175108.7555885315	space	True	False	preliminary answer: final_confirmation
+175116.28317832947	2	13	13131	174883.72254371643	175108.7555885315	down	True	False	FINAL ANSWER: correct answer is 'up' (Deoarece este singurul satelit al Pământului și exercită o forță gravitațională.), participant's answer is False
+175292.1748161316	<NA>	<NA>	transition_screen	175135.34331321716	space	175292.16623306274	False	<NA>	stop showing: transition_screen
+175479.12120819092	<NA>	<NA>	<NA>	175312.81208992004	175479.10714149475	space	False	<NA>	stop showing: validation_screen
+180545.7305908203	1	1	1	176816.1346912384	180545.55225372314	space	False	<NA>	showing: PopSci_MultiplEYE
+183166.0556793213	1	1	2	180881.11114501953	183165.98343849182	space	False	<NA>	showing: PopSci_MultiplEYE
+185879.44555282593	1	1	3	183500.06318092346	185879.38022613525	space	False	<NA>	showing: PopSci_MultiplEYE
+188426.5651702881	1	1	4	186219.1710472107	188426.49626731873	space	False	<NA>	showing: PopSci_MultiplEYE
+190870.14865875244	1	1	5	188761.41548156738	190870.0134754181	space	False	<NA>	showing: PopSci_MultiplEYE
+193384.13548469543	1	1	6	191202.42142677307	193384.03487205505	space	False	<NA>	showing: PopSci_MultiplEYE
+196259.65642929077	1	1	7	193717.46921539307	196259.55438613892	space	False	<NA>	showing: PopSci_MultiplEYE
+198749.10831451416	1	1	8	196603.19328308105	198749.0303516388	space	False	<NA>	showing: PopSci_MultiplEYE
+201238.74020576477	1	1	9	199083.15467834473	201238.6507987976	space	False	<NA>	showing: PopSci_MultiplEYE
+204642.22073554993	1	1	10	201576.48277282715	204642.14777946472	space	False	<NA>	showing: PopSci_MultiplEYE
+207535.68744659424	1	1	11	204978.65557670593	207535.6059074402	space	False	<NA>	showing: PopSci_MultiplEYE
+209231.43815994263	1	<NA>	familiarity_rating_screen_1	207872.19095230103	209231.3253879547	option_2	False	<NA>	rating screen: familiarity_rating_screen_1
+210353.31439971924	1	<NA>	familiarity_rating_screen_2	209561.61379814148	210353.21712493896	option_1	False	<NA>	rating screen: familiarity_rating_screen_2
+211728.6558151245	1	<NA>	subject_difficulty_screen	210686.1755847931	211728.58595848083	option_3	False	<NA>	rating screen: subject_difficulty_screen
+212292.32025146484	1	1	1111	212292.3069000244	212282.20748901367	down	True	False	preliminary answer: distractor_b_key
+212710.2484703064	1	1	1111	212292.3069000244	212710.23750305176	space	True	False	preliminary answer: final_confirmation
+212717.8864479065	1	1	1111	212057.0089817047	212710.23750305176	down	True	False	FINAL ANSWER: correct answer is 'up' (Este o rețea de cercetători finanțată de Uniunea Europeană.), participant's answer is False
+213475.00205039978	1	1	1112	213042.38104820251	213474.98536109924	space	True	False	preliminary answer: final_confirmation
+213959.477186203	1	1	1112	213959.46669578552	213946.99239730835	down	True	False	preliminary answer: distractor_a_key
+214114.4700050354	1	1	1112	213959.46669578552	214114.4504547119	space	True	False	preliminary answer: final_confirmation
+214121.51861190796	1	1	1112	213042.38104820251	214114.4504547119	down	True	False	FINAL ANSWER: correct answer is 'right' (Pentru a măsura punctul de fixare a privirii și mișcările oculare.), participant's answer is False
+214735.18872261047	1	1	1121	214735.17370224	214725.3065109253	left	True	False	preliminary answer: distractor_b_key
+214896.10290527344	1	1	1121	214735.17370224	214896.0907459259	space	True	False	preliminary answer: final_confirmation
+214902.8124809265	1	1	1121	214450.71291923523	214896.0907459259	left	True	False	FINAL ANSWER: correct answer is 'up' (Urmărirea oculară va fi utilizată pentru a deduce modul în care oamenii înțeleg un text în timp ce citesc.), participant's answer is False
+215452.45909690857	1	1	1122	215452.44908332825	215442.63529777527	left	True	False	preliminary answer: distractor_b_key
+215603.96575927734	1	1	1122	215452.44908332825	215603.94597053528	space	True	False	preliminary answer: final_confirmation
+215611.10186576843	1	1	1122	215230.9353351593	215603.94597053528	left	True	False	FINAL ANSWER: correct answer is 'up' (Colectarea datelor de urmărire oculară pentru facilitarea cercetării interdisciplinare asupra cititului.), participant's answer is False
+216158.0832004547	1	1	1131	216158.06198120117	216148.23079109192	left	True	False	preliminary answer: distractor_a_key
+216267.34709739685	1	1	1131	216158.06198120117	216267.3375606537	space	True	False	preliminary answer: final_confirmation
+216275.02536773682	1	1	1131	215939.26668167114	216267.3375606537	left	True	False	FINAL ANSWER: correct answer is 'down' (Asigurarea faptului că participanții citesc traduceri de calitate ale textelor în limba lor specifică.), participant's answer is False
+216863.12699317932	1	1	1132	216863.10958862305	216850.05569458008	left	True	False	preliminary answer: distractor_b_key
+216968.74737739563	1	1	1132	216863.10958862305	216968.73116493225	space	True	False	preliminary answer: final_confirmation
+216976.68647766113	1	1	1132	216600.38447380066	216968.73116493225	left	True	False	FINAL ANSWER: correct answer is 'down' (Obiectivul principal al proiectului și infrastructura de colaborare.), participant's answer is False
+218458.2691192627	2	2	<NA>	216985.20517349243	218458.242893219	space	False	<NA>	optional break duration: 1473.0377197265625
+219317.17133522034	<NA>	<NA>	<NA>	218479.34246063232	219317.16012954712	space	False	<NA>	stop showing: validation_screen
+223200.55055618286	2	2	1	220657.90939331055	223200.4520893097	space	False	<NA>	showing: Ins_HumanRights
+225744.27795410156	2	2	2	223533.63609313965	225744.21095848083	space	False	<NA>	showing: Ins_HumanRights
+229507.0343017578	2	2	3	226076.23982429504	229506.94108009338	space	False	<NA>	showing: Ins_HumanRights
+232101.90725326538	2	2	4	229840.6412601471	232101.84240341187	space	False	<NA>	showing: Ins_HumanRights
+238383.11290740967	2	2	5	232435.82320213318	238383.0406665802	space	False	<NA>	showing: Ins_HumanRights
+241027.1553993225	2	2	6	238726.87530517578	241027.07862854004	space	False	<NA>	showing: Ins_HumanRights
+243462.17441558838	2	2	7	241362.81490325928	243462.0807170868	space	False	<NA>	showing: Ins_HumanRights
+246051.0814189911	2	2	8	243797.16038703918	246050.95148086548	space	False	<NA>	showing: Ins_HumanRights
+251486.46140098572	2	<NA>	familiarity_rating_screen_1	246383.91256332397	251486.39488220215	option_2	False	<NA>	rating screen: familiarity_rating_screen_1
+253750.90622901917	2	<NA>	familiarity_rating_screen_2	251811.861038208	253750.8261203766	option_5	False	<NA>	rating screen: familiarity_rating_screen_2
+254763.00716400146	2	<NA>	subject_difficulty_screen	254082.94367790222	254762.93349266052	option_3	False	<NA>	rating screen: subject_difficulty_screen
+255135.09130477905	2	2	2111	255135.07437705994	255123.87871742249	down	True	True	preliminary answer: target_key
+255282.85312652588	2	2	2111	255282.83882141113	255273.62370491028	down	True	True	preliminary answer: target_key
+255443.1698322296	2	2	2111	255443.1483745575	255433.29524993896	down	True	True	preliminary answer: target_key
+255855.3237915039	2	2	2111	255443.1483745575	255855.31187057495	space	True	True	preliminary answer: final_confirmation
+255862.0743751526	2	2	2111	255096.12607955933	255855.31187057495	down	True	True	FINAL ANSWER: correct answer is 'down' (Recunoașterea demnității și a drepturilor egale ale fiecărei persoane.), participant's answer is True
+256409.339427948	2	2	2112	256409.32202339172	256398.67234230042	down	True	True	preliminary answer: target_key
+256616.96243286133	2	2	2112	256409.32202339172	256616.95218086243	space	True	True	preliminary answer: final_confirmation
+256624.94945526123	2	2	2112	256193.79210472107	256616.95218086243	down	True	True	FINAL ANSWER: correct answer is 'down' (Trăirea unei vieți cu libertatea cuvântului și a convingerilor, lipsită de teamă și lipsuri.), participant's answer is True
+257138.4768486023	2	2	2122	257138.4663581848	257128.97992134094	down	True	False	preliminary answer: distractor_b_key
+257285.58468818665	2	2	2122	257138.4663581848	257285.57419776917	space	True	False	preliminary answer: final_confirmation
+257293.17164421082	2	2	2122	256950.95229148865	257285.57419776917	down	True	False	FINAL ANSWER: correct answer is 'left' (Carta afirmă credința comună în drepturile omului în rândul statelor membre.), participant's answer is False
+257747.91073799133	2	2	2121	257747.90000915527	257738.09719085693	down	True	False	preliminary answer: distractor_c_key
+257875.31518936157	2	2	2121	257747.90000915527	257875.3044605255	space	True	False	preliminary answer: final_confirmation
+257882.77125358582	2	2	2121	257617.46525764465	257875.3044605255	down	True	False	FINAL ANSWER: correct answer is 'left' (Stabilirea standardelor pentru libertate, justiție și pace.), participant's answer is False
+258362.93268203735	2	2	2132	258207.07774162292	258362.92219161987	space	True	False	preliminary answer: final_confirmation
+258418.72382164001	2	2	2132	258418.70951652527	258407.03773498535	down	True	False	preliminary answer: distractor_c_key
+258608.25943946838	2	2	2132	258608.24942588806	258599.0331172943	down	True	False	preliminary answer: distractor_c_key
+258745.84197998047	2	2	2132	258608.24942588806	258745.8312511444	space	True	False	preliminary answer: final_confirmation
+258752.82192230225	2	2	2132	258207.07774162292	258745.8312511444	down	True	False	FINAL ANSWER: correct answer is 'right' (Acesta clarifică scopul și domeniul de aplicare al documentului.), participant's answer is False
+259218.00923347473	2	2	2131	259217.99850463867	259207.99922943115	down	True	False	preliminary answer: distractor_b_key
+259242.06471443176	2	2	2131	259217.99850463867	259242.05446243286	space	True	False	preliminary answer: final_confirmation
+259248.3377456665	2	2	2131	259080.9178352356	259242.05446243286	down	True	False	FINAL ANSWER: correct answer is 'up' (Recunoașterea demnității inerente și a drepturilor egale ale tuturor oamenilor.), participant's answer is False
+259615.8595085144	3	3	<NA>	259259.41252708435	259615.81373214722	space	False	<NA>	optional break duration: 356.4012050628662
+260048.81477355957	<NA>	<NA>	<NA>	259631.57105445862	260048.80666732788	space	False	<NA>	stop showing: validation_screen
+263544.12627220154	3	3	1	261390.9752368927	263544.0318584442	space	False	<NA>	showing: Ins_LearningMobility
+266111.1297607422	3	3	2	263887.2091770172	266111.0496520996	space	False	<NA>	showing: Ins_LearningMobility
+269415.9517288208	3	3	3	266447.8187561035	269415.8821105957	space	False	<NA>	showing: Ins_LearningMobility
+272547.7840900421	3	3	4	269748.35109710693	272547.68919944763	space	False	<NA>	showing: Ins_LearningMobility

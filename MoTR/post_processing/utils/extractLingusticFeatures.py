@@ -261,6 +261,12 @@ class FeatureExtractor:
         """
         self._make_directory()
         # Each participant only read one list out of three, so there are a lot of blank rows. We will delete them.
-        self.output_df.loc[self.output_df['response_chosen'] == '--', 'correctness':'FPReg'] = np.nan
-        filtered_df = self.output_df[self.output_df['response_chosen'] != '--']
-        filtered_df.to_csv(self.output_path / f'reader_{self.output_name_stem}_reading_measures.csv', index=False)
+        # Only filter if we actually have response data (response_chosen is not all '--')
+        if (self.output_df['response_chosen'] == '--').all():
+            # No response data, write all rows with fixations
+            filtered_df = self.output_df[self.output_df['first_duration'] > 0]
+        else:
+            # Has response data, filter as original
+            self.output_df.loc[self.output_df['response_chosen'] == '--', 'correctness':'FPReg'] = np.nan
+            filtered_df = self.output_df[self.output_df['response_chosen'] != '--']
+        filtered_df.to_csv(self.output_path / f'reader_{self.output_name_stem}_reading_measures.csv', index=False, encoding='utf-8-sig')
