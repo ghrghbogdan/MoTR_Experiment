@@ -132,14 +132,154 @@
         </Slide>
       </Screen>
 
-    <Screen>
-      <p>1. Which input device are you using for this experiment?</p>
-      <MultipleChoiceInput :response.sync="$magpie.measurements.device" orientation="horizontal" :options="['Computer Mouse', 'Computer Trackpad', 'Other']" />
-      <br>
-      <br>
-      <p>2. Which hand are you using during this experiment?</p>
-      <MultipleChoiceInput :response.sync="$magpie.measurements.hand" orientation="horizontal" :options="['Left', 'Right', 'Both']" />
-      <button style="bottom:30%; transform: translate(-50%, -50%)" @click="$magpie.saveAndNextScreen();">Submit</button>
+    <!-- Questionnaire Screen 1: Demographics -->
+    <Screen :title="'Chestionar - Partea 1'">
+      <div style="width: 50em; margin: auto; text-align: left;">
+        <h3 style="text-align: center; margin-bottom: 20px;">Date demografice</h3>
+        
+        <p><strong>1. Gen</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.gender" orientation="horizontal" 
+          :options="['bărbat', 'femeie', 'altele', 'preferă să nu spună']" />
+        <br>
+        
+        <p><strong>2. Vârsta</strong> <small>(în ani)</small></p>
+        <TextareaInput :response.sync="$magpie.measurements.age" />
+        <br>
+        
+        <p><strong>3. Ani de educație</strong> <small>(începând cu școala primară, excluzând grădinița)</small></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.years_education" orientation="horizontal" 
+          :options="['1-5', '6-10', '11-15', '16-20', '>20 de ani']" />
+        <br>
+        
+        <p><strong>4. Cel mai înalt nivel de educație absolvit</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.level_education" orientation="vertical" 
+          :options="['Învățământ primar', 'Învățământ secundar inferior', 'Învățământ secundar superior', 'Învățământ postliceal non-terțiar', 'Învățământ terțiar cu ciclu scurt', 'Diplomă de licență sau echivalentă', 'Masterat sau echivalent', 'Doctorat sau echivalent']" />
+        <br>
+        
+        <p><strong>5. Comparativ cu alte persoane din comunitatea dvs., cum vă apreciați statutul socio-economic?</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.socio_economic_status" orientation="horizontal" 
+          :options="['sub medie', 'medie', 'peste medie', 'prefer să nu spun']" />
+        
+        <br><br>
+        <button @click="$magpie.saveAndNextScreen();">Continuă →</button>
+      </div>
+    </Screen>
+
+    <!-- Questionnaire Screen 2: Language Background -->
+    <Screen :title="'Chestionar - Partea 2'">
+      <div style="width: 50em; margin: auto; text-align: left;">
+        <h3 style="text-align: center; margin-bottom: 20px;">Istoric lingvistic</h3>
+        
+        <p><strong>6. În copilărie, ați crescut vorbind una sau mai multe limbi în același timp?</strong></p>
+        <small>Fără a lua în considerare limbile învățate în școală sau la cursuri.</small>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.childhood_languages" orientation="horizontal" 
+          :options="['o singură limbă', 'două limbi', 'trei limbi']" />
+        <br>
+        
+        <p><strong>7. Care este prima limbă pe care ați învățat-o în copilărie?</strong></p>
+        <TextareaInput :response.sync="$magpie.measurements.native_language_1" />
+        <br>
+        
+        <p><strong>8. Cu ce altă limbă (alte limbi) ați crescut?</strong> <small>(dacă este cazul)</small></p>
+        <TextareaInput :response.sync="$magpie.measurements.native_language_other" />
+        <br>
+        
+        <p><strong>9. Ce limbă folosiți cel mai mult în prezent?</strong></p>
+        <TextareaInput :response.sync="$magpie.measurements.use_language" />
+        <br>
+        
+        <p><strong>10. Care este limba cu care vă simțiți cel mai bine în prezent?</strong></p>
+        <TextareaInput :response.sync="$magpie.measurements.dominant_language" />
+        <br>
+        
+        <p><strong>11. Vorbiți un dialect sau o variantă specifică?</strong></p>
+        <TextareaInput :response.sync="$magpie.measurements.dialect" />
+        
+        <br><br>
+        <button @click="$magpie.saveAndNextScreen();">Continuă →</button>
+      </div>
+    </Screen>
+
+    <!-- Questionnaire Screen 3: Reading Habits -->
+    <Screen :title="'Chestionar - Partea 3'">
+      <div style="width: 50em; margin: auto; text-align: left;">
+        <h3 style="text-align: center; margin-bottom: 20px;">Obiceiuri de lectură</h3>
+        <p><em>Într-o săptămână obișnuită, cât timp petreceți citind fiecare tip de material? (excluzând audiobook-urile)</em></p>
+        
+        <p><strong>12a. Materiale academice</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.academic_reading_time" orientation="horizontal" 
+          :options="['0 ore', 'mai puțin de 1 oră', '1-3 ore', '3-5 ore', 'mai mult de 5 ore']" />
+        
+        <p><strong>12b. Reviste</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.magazine_reading_time" orientation="horizontal" 
+          :options="['0 ore', 'mai puțin de 1 oră', '1-3 ore', '3-5 ore', 'mai mult de 5 ore']" />
+        
+        <p><strong>12c. Ziare</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.newspaper_reading_time" orientation="horizontal" 
+          :options="['0 ore', 'mai puțin de 1 oră', '1-3 ore', '3-5 ore', 'mai mult de 5 ore']" />
+        
+        <p><strong>12d. E-mail-uri</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.email_reading_time" orientation="horizontal" 
+          :options="['0 ore', 'mai puțin de 1 oră', '1-3 ore', '3-5 ore', 'mai mult de 5 ore']" />
+        
+        <p><strong>12e. Cărți de ficțiune</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.fiction_reading_time" orientation="horizontal" 
+          :options="['0 ore', 'mai puțin de 1 oră', '1-3 ore', '3-5 ore', 'mai mult de 5 ore']" />
+        
+        <p><strong>12f. Cărți de non-ficțiune</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.nonfiction_reading_time" orientation="horizontal" 
+          :options="['0 ore', 'mai puțin de 1 oră', '1-3 ore', '3-5 ore', 'mai mult de 5 ore']" />
+        
+        <p><strong>12g. Articole de pe internet (social media, forumuri, bloguri)</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.internet_reading_time" orientation="horizontal" 
+          :options="['0 ore', 'mai puțin de 1 oră', '1-3 ore', '3-5 ore', 'mai mult de 5 ore']" />
+        
+        <p><strong>13. Citiți în altă limbă?</strong> <small>(specificați limba/limbile)</small></p>
+        <TextareaInput :response.sync="$magpie.measurements.additional_read_language" />
+        
+        <br><br>
+        <button @click="$magpie.saveAndNextScreen();">Continuă →</button>
+      </div>
+    </Screen>
+
+    <!-- Questionnaire Screen 4: Experiment Conditions -->
+    <Screen :title="'Chestionar - Partea 4'">
+      <div style="width: 50em; margin: auto; text-align: left;">
+        <h3 style="text-align: center; margin-bottom: 20px;">Condiții în timpul experimentului</h3>
+        
+        <p><strong>14. Ați purtat ochelari sau lentile de contact în timpul experimentului?</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.eyewear" orientation="horizontal" 
+          :options="['ochelari', 'lentile', 'nu']" />
+        <br>
+        
+        <p><strong>15. Cât de obosit/ă sunteți în prezent?</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.tiredness" orientation="vertical" 
+          :options="['1 - extrem de alert/ă', '2 - foarte alert/ă', '3 - alert/ă', '4 - destul de alert/ă', '5 - nici alert/ă, nici somnoros/ă', '6 - unele semne de somnolență', '7 - somnoros/ă, dar fără efort de a rămâne alert/ă', '8 - somnoros/ă, cu oarecare efort de a rămâne alert/ă', '9 - foarte somnoros/ă, efort mare de a rămâne alert/ă']" />
+        <br>
+        
+        <p><strong>16. Ați consumat alcool ieri?</strong></p>
+        <small>Datele vor fi anonimizate și tratate confidențial.</small>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.alcohol_yesterday" orientation="horizontal" 
+          :options="['nu', 'da', 'prefer să nu răspund']" />
+        <br>
+        
+        <p><strong>17. Ați consumat alcool astăzi?</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.alcohol_today" orientation="horizontal" 
+          :options="['nu', 'da', 'prefer să nu răspund']" />
+        <br>
+        
+        <p><strong>18. Ce dispozitiv de intrare folosiți pentru acest experiment?</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.device" orientation="horizontal" 
+          :options="['Mouse', 'Trackpad', 'Altele']" />
+        <br>
+        
+        <p><strong>19. Ce mână folosiți în timpul experimentului?</strong></p>
+        <MultipleChoiceInput :response.sync="$magpie.measurements.hand" orientation="horizontal" 
+          :options="['Stânga', 'Dreapta', 'Ambele']" />
+        
+        <br><br>
+        <button @click="$magpie.saveAndNextScreen();">Trimite răspunsurile</button>
+      </div>
     </Screen>
 
     <SubmitResultsScreen />
