@@ -147,7 +147,7 @@
 </template>
 
 <script>
-// Load data from csv files
+
 import ro_items from '../trials/ro_items.js';
 import _ from 'lodash';
 
@@ -155,19 +155,17 @@ export default {
   name: 'App',
   data() {
     try {
-      // Randomizare texte
+      // shuffle texts
       const shuffledItems = _.shuffle(ro_items);
       
-      // Procesare trials
       const updatedTrials = shuffledItems.map(trial => {
         
-        // Procesare întrebări - randomizare opțiuni pentru fiecare întrebare
         const processedQuestions = trial.Questions.map(q => {
           const shuffledOptions = _.shuffle(q.options);
           return {
             ...q,
             options: shuffledOptions,
-            userResponse: null // Pentru a stoca răspunsul
+            userResponse: null
           };
         });
         
@@ -194,7 +192,7 @@ export default {
           x: 0,
           y: 0,
         },
-        savingInterval: null, // Pentru a putea opri intervalul
+        savingInterval: null,
       }
     } catch (error) {
       return {
@@ -219,14 +217,12 @@ export default {
   mounted() {
     this.savingInterval = setInterval(this.saveData, 50);
   },
-  // FIX: Curatam intervalul cand se distruge componenta pentru performanta
   beforeDestroy() {
     if (this.savingInterval) {
       clearInterval(this.savingInterval);
     }
   },
   updated() {
-    // Calculează line controls DOAR când citim textul (nu la întrebări)
     if (!this.showQuestions && this.lineControls.length === 0) {
       const readingText = document.querySelector('.readingText');
       if (readingText && readingText.children.length > 0) {
@@ -240,7 +236,6 @@ export default {
   },
   methods: {
     finishReading() {
-      // Șterge toate line-box-urile înainte de a trece la întrebări
       const allBoxes = document.querySelectorAll('.line-box');
       allBoxes.forEach(box => box.remove());
       
@@ -255,24 +250,19 @@ export default {
       const currentQuestion = trial.questions[this.currentQuestionIndex];
       
       if (this.currentQuestionIndex < trial.questions.length - 1) {
-        // Mai sunt întrebări pentru acest text
+
         this.currentQuestionIndex++;
       } else {
-        // Toate întrebările pentru acest text au fost răspunse
-        
-        // Salvează toate răspunsurile în magpie
         trial.questions.forEach((q, idx) => {
           this.$magpie.measurements[`question_${idx + 1}`] = q.question;
           this.$magpie.measurements[`answer_${idx + 1}`] = q.userResponse;
           this.$magpie.measurements[`correct_answer_${idx + 1}`] = q.correct_answer;
         });
-        
-        // Resetează starea pentru următorul text
+
         this.showQuestions = false;
         this.currentQuestionIndex = 0;
         this.currentPage = 0;
         
-        // Mergi la următorul trial (următorul text)
         this.$magpie.saveAndNextScreen();
       }
     },
@@ -330,7 +320,6 @@ export default {
       this.renderLineBoxes();
     },
     renderLineBoxes() {
-      // Nu afișa line boxes când sunt întrebările active
       if (this.showQuestions) {
         return;
       }
@@ -380,7 +369,6 @@ export default {
       this.currentLine = lineIndex;
       this.isTrackingActive = true;
 
-      // Salvează Y-ul liniei curente pentru blocare
       const readingText = document.querySelector('.readingText');
       if (readingText && this.lineControls[lineIndex]) {
         const firstWordIndex = this.lineControls[lineIndex][0];
@@ -391,7 +379,6 @@ export default {
         }
       }
 
-      // Visual feedback
       document.querySelectorAll('.line-box').forEach(box => {
         box.classList.remove('active');
         if (parseInt(box.dataset.line) === lineIndex) {
@@ -404,7 +391,7 @@ export default {
         this.isTrackingActive = false;
         this.currentLine = null;
         this.currentIndex = null;
-        this.lockedY = null; // Eliberează Y-ul blocat
+        this.lockedY = null; 
 
         // Remove visual feedback
         document.querySelectorAll('.line-box').forEach(box => {
@@ -470,7 +457,7 @@ export default {
       cursor.classList.add('grow');
 
       let x = e.clientX;
-      let y = this.lockedY !== null ? this.lockedY : e.clientY; // Folosește Y blocat
+      let y = this.lockedY !== null ? this.lockedY : e.clientY;
 
       const elementAtCursor = document.elementFromPoint(x, y).closest('span');
       if (elementAtCursor) {
@@ -478,7 +465,6 @@ export default {
         this.currentIndex = elementAtCursor.getAttribute('data-index');
       } else {
         cursor.classList.add('blank');
-        // FIX: Am inlocuit "?." cu verificarea clasica
         const rawEl = document.elementFromPoint(x, y - 3);
         const elementAboveCursor = rawEl ? rawEl.closest('span') : null;
         
@@ -500,8 +486,8 @@ export default {
         window_inner_height: window.innerHeight
       };
     }
-  }, // Aici se inchide obiectul methods
-}; // Aici se inchide export default
+  }, 
+}; 
 </script>
 
 <style>

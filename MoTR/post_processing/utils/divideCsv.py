@@ -50,12 +50,11 @@ class FileDivider:
         # This ensures the data is in the correct format for further processing.
         
         # Extract response from answer columns if available
-        # Răspunsurile sunt pe rânduri speciale unde Experiment e null dar question_1 e populated
         if 'answer_1' in self.raw_data_df.columns:
-            # Găsește rândurile cu răspunsuri (Experiment null + question_1 populated)
+            # Find answer rows (Experiment null + question_1 populated)
             answer_rows_mask = (self.raw_data_df['Experiment'].isna()) & (self.raw_data_df['question_1'].notna())
             
-            # Pentru fiecare rând cu răspunsuri, calculează corectitudinea
+            # Calculate correctness for each answer row
             def calculate_correctness(row):
                 correct_answers = []
                 for i in range(1, 7):
@@ -66,13 +65,13 @@ class FileDivider:
                         correct_answers.append('1' if is_correct else '0')
                 return ','.join(correct_answers) if correct_answers else ''
             
-            # Creează coloana response doar pe rândurile cu răspunsuri
+            # Create response column only on answer rows
             self.raw_data_df.loc[answer_rows_mask, 'response'] = self.raw_data_df[answer_rows_mask].apply(calculate_correctness, axis=1)
         
-        # Forward fill ItemId înainte de backward fill response
+        # Forward fill ItemId before backward fill response
         self.raw_data_df['ItemId'].fillna(method='ffill', inplace=True)
         
-        # Backward fill response pentru a propaga de la rândurile cu răspunsuri la toate rândurile ItemId-ului
+        # Backward fill response to propagate from answer rows to all ItemId rows
         if 'response' in self.raw_data_df.columns:
             self.raw_data_df['response'].fillna(method='bfill', inplace=True)
         

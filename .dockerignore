@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+
+# Data
+*.csv
+experiment_data/
+/data/
+
+# Build
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
