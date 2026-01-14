@@ -14,9 +14,8 @@
         <p>
           We would like to ask you if you are willing to participate in our research project. Your participation is voluntary. Please read the text below carefully and ask the conducting person about anything you do not understand or would like to know.
           <br><br>
-          <b>What is investigated and how?</b> You are being asked to take part in a research study being done by Ethan Wilcox...
-          <br><br>
-          <b> General Contact: </b> Ethan Gotlieb Wilcox... <br>
+          <b>What is investigated and how?</b> You are being asked to take part in a research study being done by Gheorghe Bogdan & Nisioi Sergiu.
+
         </p>
 
         <br>
@@ -54,7 +53,8 @@
 
     <InstructionScreen :title="'Instruction'">
       <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. In order to bring the text into focus move your mouse over it.</p>
-      <p><strong>Important:</strong> At the beginning of each line, click the small blue box to start reading that line. At the end of the line, click the blue box to finish.</p>
+      <p><strong>Important:</strong> At the beginning of each line, hover the small blue box to start reading that line. At the end of the line, hover the blue box to finish.</p>
+      <p><strong>Tip:</strong> If you need to re-read previous lines, hold down the mouse button and move freely across the text. When you release the button, reading will continue normally on the line where you stopped.</p>
       <p>Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question at the bottom and click "next" to move on.</p>
     </InstructionScreen>
 
