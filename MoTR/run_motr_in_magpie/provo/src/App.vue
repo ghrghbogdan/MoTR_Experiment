@@ -326,6 +326,7 @@ export default {
         currentQuestionIndex: 0,
         showQuestions: false,
         isTrackingActive: false,
+        isFreeReading: false,
         lineControls: [],
         lockedY: null,
         mousePosition: {
@@ -342,6 +343,7 @@ export default {
         currentLine: null,
         currentPage: 0,
         isTrackingActive: false,
+        isFreeReading: false,
         lineControls: [],
         lockedY: null,
         showQuestions: false,
@@ -356,11 +358,19 @@ export default {
   computed: {},
   mounted() {
     this.savingInterval = setInterval(this.saveData, 50);
+    
+    // Add global mouse event listeners for free reading mode
+    document.addEventListener('mousedown', this.handleMouseDown);
+    document.addEventListener('mouseup', this.handleMouseUp);
   },
   beforeDestroy() {
     if (this.savingInterval) {
       clearInterval(this.savingInterval);
     }
+    
+    // Remove event listeners
+    document.removeEventListener('mousedown', this.handleMouseDown);
+    document.removeEventListener('mouseup', this.handleMouseUp);
   },
   updated() {
     if (!this.showQuestions && this.lineControls.length === 0) {
@@ -375,6 +385,56 @@ export default {
     }
   },
   methods: {
+    handleMouseDown(e) {
+      const readingText = document.querySelector('.readingText');
+      if (!readingText || this.showQuestions) return;
+      
+      // Check if click is inside reading text area
+      const rect = readingText.getBoundingClientRect();
+      if (e.clientX >= rect.left && e.clientX <= rect.right && 
+          e.clientY >= rect.top && e.clientY <= rect.bottom) {
+        this.isFreeReading = true;
+        this.isTrackingActive = true;
+        this.lockedY = null;
+      }
+    },
+    handleMouseUp(e) {
+      if (!this.isFreeReading) return;
+      
+      this.isFreeReading = false;
+      
+      // Re-lock Y position based on current cursor position
+      const readingText = document.querySelector('.readingText');
+      if (readingText) {
+        const elementAtCursor = document.elementFromPoint(e.clientX, e.clientY);
+        const wordSpan = elementAtCursor ? elementAtCursor.closest('span[data-index]') : null;
+        
+        if (wordSpan) {
+          const wordIndex = parseInt(wordSpan.getAttribute('data-index'));
+          
+          // Find which line this word belongs to
+          for (let lineIndex = 0; lineIndex < this.lineControls.length; lineIndex++) {
+            if (this.lineControls[lineIndex].includes(wordIndex)) {
+              this.currentLine = lineIndex;
+              
+              // Set locked Y to this line
+              const rect = wordSpan.getBoundingClientRect();
+              this.lockedY = rect.top + (rect.height / 2);
+              
+              // Update active box visual
+              document.querySelectorAll('.line-box').forEach(box => {
+                box.classList.remove('active');
+                if (parseInt(box.dataset.line) === lineIndex) {
+                  box.classList.add('active');
+                }
+              });
+              
+              break;
+            }
+          }
+        }
+      }
+    },
     finishReading() {
       const allBoxes = document.querySelectorAll('.line-box');
       allBoxes.forEach(box => box.remove());
@@ -586,7 +646,7 @@ export default {
       }
     },
     moveCursor(e) {
-      if (!this.isTrackingActive) {
+      if (!this.isTrackingActive && !this.isFreeReading) {
         this.$el.querySelector(".oval-cursor").classList.remove('grow');
         this.$el.querySelector(".oval-cursor").classList.add('blank');
         return;
@@ -597,7 +657,7 @@ export default {
       cursor.classList.add('grow');
 
       let x = e.clientX;
-      let y = this.lockedY !== null ? this.lockedY : e.clientY;
+      let y = this.isFreeReading ? e.clientY : (this.lockedY !== null ? this.lockedY : e.clientY);
 
       const elementAtCursor = document.elementFromPoint(x, y).closest('span');
       if (elementAtCursor) {
@@ -685,19 +745,19 @@ export default {
     position: absolute;
     width: 12px;
     height: 30px;
-    border: 2px solid #4A90E2;
+    border: 2px solid #d1e3fa;
     border-radius: 3px;
     cursor: pointer;
     transition: all 0.2s ease;
     z-index: 5;
   }
   .line-box:hover {
-    background-color: rgba(74, 144, 226, 0.4);
-    box-shadow: 0 0 8px rgba(74, 144, 226, 0.6);
+    background-color: rgba(255, 255, 255, 0.6);
+    box-shadow: 0 0 8px rgba(206, 228, 255, 0.2);
   }
   .line-box.active {
-    background-color: rgba(74, 144, 226, 0.3);
-    border-color: #2E6DB8;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-color: #bad7fc;
     border-width: 3px;
   }
   button {
