@@ -72,7 +72,7 @@
                 {{ word }}
               </span>
             </div>
-            <div v-if="!showQuestions" class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
+            <div v-if="!showQuestions" class="blurry-layer" style="opacity: 0.5; filter: blur(8px); transition: all 0.3s linear 0s;">
               <span v-for="(word, index) of (trial.pages && trial.pages[currentPage] ? trial.pages[currentPage].replace(/\n+/g, ' ') : '').split(' ')" :key="index" class="word-span">
                 {{ word }}
               </span>
