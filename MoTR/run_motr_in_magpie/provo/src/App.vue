@@ -56,6 +56,7 @@
       <p><strong>Important:</strong> At the beginning of each line, hover the small blue box to start reading that line. At the end of the line, hover the blue box to finish.</p>
       <p><strong>Tip:</strong> If you need to re-read previous lines, hold down the mouse button and move freely across the text. When you release the button, reading will continue normally on the line where you stopped.</p>
       <p>Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question at the bottom and click "next" to move on.</p>
+      <p>On the next page you will start the training text, then you will proceed to the main texts.</p>
     </InstructionScreen>
 
     <template v-for="(trial, i) of trials">
