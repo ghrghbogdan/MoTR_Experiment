@@ -58,7 +58,22 @@
       <p>Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question at the bottom and click "next" to move on.</p>
     </InstructionScreen>
 
-    <Screen v-for="(trial, i) of trials" :key="i" class="main_screen" :progress="i / trials.length" @next="currentIndex = i; currentPage = 0; currentQuestionIndex = 0; showQuestions = false">
+    <template v-for="(trial, i) of trials">
+      <Screen v-if="i > 0 && i < trials.length" 
+              :key="'break-' + i"
+              :progress="i / trials.length">
+        <div style="text-align: center; padding: 60px 40px;">
+          <p style="font-size: 18px; margin-bottom: 30px;">
+            Take a break.
+          </p>
+          <button @click="$magpie.nextScreen()" 
+                  style="padding: 12px 30px; font-size: 16px; background-color: #4CAF50; color: white; border: none; border-radius: 4px; cursor: pointer; position: static; transform: none; left: auto;">
+            Next
+          </button>
+        </div>
+      </Screen>
+
+      <Screen :key="'trial-' + i" class="main_screen" :progress="i / trials.length" @next="currentIndex = i; currentPage = 0; currentQuestionIndex = 0; showQuestions = false">
         <Slide>
           <form>
             <input type="hidden" class="item_id" :value="trial.ItemId">
@@ -131,6 +146,7 @@
           </template>
         </Slide>
       </Screen>
+    </template>
 
     <!-- Questionnaire Screen 1: Demographics -->
     <Screen :title="'Chestionar - Partea 1'">
@@ -295,10 +311,17 @@ export default {
   name: 'App',
   data() {
     try {
-      // shuffle texts
-      const shuffledItems = _.shuffle(ro_items);
+      // Separate training item (ItemId: "0") from other items
+      const trainingItem = ro_items.find(item => item.ItemId === "0");
+      const experimentItems = ro_items.filter(item => item.ItemId !== "0");
       
-      const updatedTrials = shuffledItems.map(trial => {
+      // Shuffle only the experiment items
+      const shuffledExperimentItems = _.shuffle(experimentItems);
+      
+      // Put training item first, then shuffled experiment items
+      const orderedItems = trainingItem ? [trainingItem, ...shuffledExperimentItems] : shuffledExperimentItems;
+      
+      const updatedTrials = orderedItems.map(trial => {
         
         const processedQuestions = trial.Questions.map(q => {
           const shuffledOptions = _.shuffle(q.options);
@@ -519,6 +542,7 @@ export default {
       this.lineControls = lines;
       this.renderLineBoxes();
     },
+    
     renderLineBoxes() {
       if (this.showQuestions) {
         return;
@@ -621,6 +645,7 @@ export default {
             Condition: this.$el.querySelector(".condition_id").value,
             ItemId: this.$el.querySelector(".item_id").value,
             Index: this.currentIndex,
+            PageNumber: this.currentPage,
             Line: this.currentLine,
             Word: currentElement.innerHTML.replace(/[\r\n]+/g, ' ').trim(),
             mousePositionX: this.mousePosition.x,
@@ -638,6 +663,7 @@ export default {
           Condition: this.$el.querySelector(".condition_id").value,
           ItemId: this.$el.querySelector(".item_id").value,
           Index: this.currentIndex,
+          PageNumber: this.currentPage,
           Line: this.currentLine,
           mousePositionX: this.mousePosition.x,
           mousePositionY: this.mousePosition.y,
