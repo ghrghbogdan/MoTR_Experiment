@@ -17,13 +17,6 @@ class FileDivider:
         self.raw_data_df = pd.read_csv(self.raw_data_path, dtype={"Index": str, "ItemId": str,
                                                                   "Condition": str, "Experiment": str,
                                                                   "mousePositionX": str, "mousePositionY": str})
-        
-        # Handle both SubjectId and submission_id column names
-        if 'SubjectId' in self.raw_data_df.columns:
-            # Forward fill SubjectId first (it's only in the first row per participant)
-            self.raw_data_df['SubjectId'].ffill(inplace=True)
-            if 'submission_id' not in self.raw_data_df.columns:
-                self.raw_data_df['submission_id'] = self.raw_data_df['SubjectId']
 
     # Check if the directory for the divided files exists, if not, make one
     def _make_directory_for_divided_data(self) -> None:
@@ -34,47 +27,16 @@ class FileDivider:
         self._make_directory_for_divided_data()
         # Fill any NaN values in the 'response' column and preprocess other columns.
         self._fill_nan_response_column()
-        # Ensure submission_id column exists
-        if 'submission_id' not in self.raw_data_df.columns:
-            if 'SubjectId' in self.raw_data_df.columns:
-                self.raw_data_df['submission_id'] = self.raw_data_df['SubjectId']
-            else:
-                raise ValueError("Neither 'submission_id' nor 'SubjectId' column found in data")
         # Group the data by 'submission_id' and create separate files for each group/participant.
         grouped_data = self.raw_data_df.groupby('submission_id')
         for submission_id, group in grouped_data:
-            group.to_csv(self.new_data_path / f'reader_{submission_id}.csv', index=False, float_format=None, encoding='utf-8-sig')
+            group.to_csv(self.new_data_path / f'reader_{submission_id}.csv', index=False, float_format=None)
 
     def _fill_nan_response_column(self) -> None:
         # Fill NaN values in different columns and perform necessary type conversions.
         # This ensures the data is in the correct format for further processing.
-        
-        # Extract response from answer columns if available
-        if 'answer_1' in self.raw_data_df.columns:
-            # Find answer rows (Experiment null + question_1 populated)
-            answer_rows_mask = (self.raw_data_df['Experiment'].isna()) & (self.raw_data_df['question_1'].notna())
-            
-            # Calculate correctness for each answer row
-            def calculate_correctness(row):
-                correct_answers = []
-                for i in range(1, 7):
-                    ans_col = f'answer_{i}'
-                    correct_col = f'correct_answer_{i}'
-                    if pd.notna(row.get(ans_col)) and pd.notna(row.get(correct_col)):
-                        is_correct = str(row[ans_col]).strip() == str(row[correct_col]).strip()
-                        correct_answers.append('1' if is_correct else '0')
-                return ','.join(correct_answers) if correct_answers else ''
-            
-            # Create response column only on answer rows
-            self.raw_data_df.loc[answer_rows_mask, 'response'] = self.raw_data_df[answer_rows_mask].apply(calculate_correctness, axis=1)
-        
-        # Forward fill ItemId before backward fill response
+        self.raw_data_df['response'].fillna(method='bfill', inplace=True)
         self.raw_data_df['ItemId'].fillna(method='ffill', inplace=True)
-        
-        # Backward fill response to propagate from answer rows to all ItemId rows
-        if 'response' in self.raw_data_df.columns:
-            self.raw_data_df['response'].fillna(method='bfill', inplace=True)
-        
         self.raw_data_df.dropna(subset=['ItemId'], inplace=True)
         self.raw_data_df['ItemId'] = self.raw_data_df['ItemId'].astype(float)
         self.raw_data_df['ItemId'] = self.raw_data_df['ItemId'].astype(int)
@@ -142,5 +104,11 @@ class FileDivider:
                 # Additional adjustments for rows with mousePositionX < 0 after initial corrections
                 df.loc[blank_mouse_positions, 'mousePositionX'] += 739
                 df.loc[blank_mouse_positions, 'mousePositionY'] += 67
-            df.to_csv(f'{corrected_divided_path}/{file_path.stem}.csv', index=False, encoding='utf-8-sig')
+            df.to_csv(f'{corrected_divided_path}/{file_path.stem}.csv', index=False)
         print(f"All files in '{self.new_data_path}' have been processed and corrected files are saved in '{corrected_divided_path}'.")
+
+
+
+
+
+

@@ -16,7 +16,6 @@ import logging
 from pathlib import Path
 from argparse import ArgumentParser, ArgumentTypeError
 
-from utils.divideCsv import FileDivider
 from utils.mergeAssociations import associationMerger
 from utils.preprocessTrialData import TrialDataPreprocessor
 from utils.extractLingusticFeatures import FeatureExtractor
@@ -25,24 +24,18 @@ def get_cli() -> ArgumentParser:
     """Command line interface that allows the user to post process their MoTR data."""
     parser = ArgumentParser("Postprocess",
                             description="Post process the raw MoTR reading data")
-    # input file or folder
-    parser.add_argument('--in_file',
-                        type=str,
-                        help="The csv file containing MoTR reading data from multiple participants.")
-    parser.add_argument('--in_folder',
-                        type=str,
-                        help="The fold containing csv files for MoTR reading data from multiple participants.")
+    # trial file
     parser.add_argument('--trial_file',
                         type=str,
-                        help="The file containing trial infos in their original form, e.g. items in the form of sentences, comprehension questions, etc.")
+                        help="The file containing trial infos in their original form, e.g. items in the form of sentences.")
     parser.add_argument('--processed_trial_file',
                         type=str,
-                        help="The file containing preprocessed trial infos, e.g. items divided into tokens, comprehension questions, etc.")
-    # processed data folder
+                        help="The file containing preprocessed trial infos, e.g. items divided into tokens.")
+    # processed data folders
     parser.add_argument('--divided_dir',
                         type=str,
                         default="./divided",
-                        help="The path to store the divided files for each participants.")
+                        help="The path containing the divided files (one per ItemId+Page).")
     parser.add_argument('--processed_trial_dir',
                         type=str,
                         default="./processed_trial",
@@ -50,19 +43,19 @@ def get_cli() -> ArgumentParser:
     parser.add_argument('--association_dir',
                         type=str,
                         default="./associations",
-                        help="The path to store the associations for each participants.")
+                        help="The path to store the associations.")
     parser.add_argument('--rt_dir',
                         type=str,
                         default="./reading_measures",
-                        help="The path to store the reading measures for each participants.")
+                        help="The path to store the reading measures.")
     parser.add_argument('--low_thres',
                         type=int,
                         default=160,
-                        help="The lower threshold defining a association.")
+                        help="The lower threshold defining an association.")
     parser.add_argument('--up_thres',
                         type=int,
                         default=4000,
-                        help="The upper threshold defining a association.")
+                        help="The upper threshold defining an association.")
     return parser
 
 # Set up logging configuration
@@ -77,26 +70,7 @@ def main():
     # Log the provided arguments
     logging.debug(f'Provided arguments: {args}')
 
-    # Step 1: divide the raw data file to separate files for different participants by calling FileDivider
-
-    # Check if either 'in_file' or 'in_folder' arguments are provided
-    if not args.in_file and not args.in_folder:
-        raise ArgumentTypeError("One of 'in_file' or 'in_folder' arguments should be provided.")
-    # Process input files if 'in_folder' argument is provided
-    if args.in_folder:
-        input_files = Path(args.in_folder).glob('*.csv')
-        for raw_file in input_files:
-            file_divider = FileDivider(raw_file, Path(args.divided_dir))
-            file_divider.divide_raw_file()
-            file_divider.correct_motr_data()
-    else:
-        # Process single input file if 'in_file' argument is provided
-        raw_file = Path(args.in_file)
-        file_divider = FileDivider(raw_file, Path(args.divided_dir))
-        file_divider.divide_raw_file()
-        file_divider.correct_motr_data()
-
-    # Step 2: preprocess the trial data file by splitting sentences into words and extract useful info from these files
+    # Step 1: preprocess the trial data file by splitting sentences into words
 
     if not args.trial_file and not args.processed_trial_file:
         raise ArgumentTypeError("One of 'trial_file' or 'processed_trial_file' arguments should be provided.")
@@ -110,21 +84,17 @@ def main():
         trial_preprocessor.filtered_new_df()
         input_trial_path = Path(f'{args.processed_trial_dir}/filtered_preprocessed_{Path(args.trial_file).stem}.csv')
 
-    # Step 3: for each divided raw data file, merge the associations, filter noises
+    # Step 2: for each divided raw data file, merge the associations, filter noises
 
-    ## If we use the divided uncorrected files from the previous step
-    # input_data_paths = Path(args.divided_dir).glob('*.csv')
-    ## If we use the corrected divided files from the previous step
-    input_data_paths = Path(f'corrected_{Path(args.divided_dir).name}').glob('*.csv')
+    input_data_paths = Path(args.divided_dir).glob('*.csv')
     output_association_path = Path(args.association_dir)
     for input_path in input_data_paths:
         print('I am identifying associations for :', input_path)
         obj_merger = associationMerger(input_path, output_association_path, args.low_thres, args.up_thres)
         obj_merger.sort_associations_by_itemid()
-        # obj_merger.write_out_all_merged_associations()
         obj_merger.write_out_denoise_merged_associations()
 
-    # Step 4: for each merged association file, combine associations to get linguistic features.
+    # Step 3: for each merged association file, combine associations to get linguistic features.
 
     input_association_paths = output_association_path.glob('*_clean.csv')
     output_rt_path = Path(args.rt_dir)
@@ -134,7 +104,6 @@ def main():
                                             input_association_path,
                                             output_rt_path, args.low_thres)
         if not obj_feature_extractor.input_df_f.empty:
-            obj_feature_extractor.check_comprehension_answer()
             obj_feature_extractor.get_first_duration()
             obj_feature_extractor.get_total_duration()
             obj_feature_extractor.get_gaze_duration()

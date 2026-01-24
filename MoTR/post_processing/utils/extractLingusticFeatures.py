@@ -16,7 +16,11 @@ class FeatureExtractor:
         self.input_df_f['index'] = range(len(self.input_df_f))
 
         self.output_path = output_data_path
-        self.output_df = pd.read_csv(self.input_path_trial, na_values=['NA'])
+        # Read trial file with tab separator if it's .tsv
+        if str(self.input_path_trial).endswith('.tsv'):
+            self.output_df = pd.read_csv(self.input_path_trial, sep='\t', na_values=['NA'])
+        else:
+            self.output_df = pd.read_csv(self.input_path_trial, na_values=['NA'])
         self.output_name_stem = self.input_path_associations.stem.split('_')[1]
         self.threshold = association_threshold
 
@@ -260,13 +264,4 @@ class FeatureExtractor:
         Write all the above reading measures out to a csv file.
         """
         self._make_directory()
-        # Each participant only read one list out of three, so there are a lot of blank rows. We will delete them.
-        # Only filter if we actually have response data (response_chosen is not all '--')
-        if (self.output_df['response_chosen'] == '--').all():
-            # No response data, write all rows with fixations
-            filtered_df = self.output_df[self.output_df['first_duration'] > 0]
-        else:
-            # Has response data, filter as original
-            self.output_df.loc[self.output_df['response_chosen'] == '--', 'correctness':'FPReg'] = np.nan
-            filtered_df = self.output_df[self.output_df['response_chosen'] != '--']
-        filtered_df.to_csv(self.output_path / f'reader_{self.output_name_stem}_reading_measures.csv', index=False, encoding='utf-8-sig')
+        self.output_df.to_csv(self.output_path / f'reader_{self.output_name_stem}_reading_measures.csv', index=False)

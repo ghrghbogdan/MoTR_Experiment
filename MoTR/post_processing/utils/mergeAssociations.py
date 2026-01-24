@@ -28,13 +28,13 @@ class associationMerger:
         experiment_end_time	experiment_start_time, mousePositionX, mousePositionY, response, responseTime,
         wordPositionBottom, wordPositionLeft, wordPositionRight, wordPositionTop
         """
-        with open(self.in_data_path, 'r', encoding='utf-8-sig') as csvfile:
+        with open(self.in_data_path, 'r') as csvfile:
             csvreader = csv.DictReader(csvfile)
-            mouse_data = [{'sbm_id': str(row['submission_id']),
-                           'expr_id': int(row['Experiment']), 'cond_id': int(row['Condition']),
-                           'para_nr': int(row['ItemId']),
-                           'word_nr': int(row['Index']), 'word': str(row['Word']), 't': int(row['responseTime']),
-                           'x': int(row['mousePositionX']), 'y': int(row['mousePositionY']),
+            mouse_data = [{'sbm_id': str(row.get('submission_id', row.get('SubjectId', ''))),
+                           'expr_id': int(float(row['Experiment'])), 'cond_id': int(float(row['Condition'])),
+                           'para_nr': int(float(row['ItemId'])),
+                           'word_nr': int(float(row['Index'])), 'word': str(row['Word']), 't': int(float(row['responseTime'])),
+                           'x': int(float(row['mousePositionX'])), 'y': int(float(row['mousePositionY'])),
                            # 'wb': str(row['wordPositionBottom']), 'wt': str(row['wordPositionTop']),
                            # 'wl': str(row['wordPositionLeft']), 'wr': str(row['wordPositionRight']),
                            'response': str(row.get('response', ''))} for row in csvreader]
@@ -81,7 +81,7 @@ class associationMerger:
 
     def write_out_all_merged_associations(self) -> None:
         self.__make_directory_for_merged_associations()
-        with open(f'{self.out_data_path}/{self.out_data_merged_name}', 'w', newline='', encoding='utf-8-sig') as out_csvfile:
+        with open(f'{self.out_data_path}/{self.out_data_merged_name}', 'w', newline='') as out_csvfile:
             if self.associations:
                 # to avoid errors given by mess data, we can manually type fieldnames here later.
                 writer = csv.DictWriter(out_csvfile, fieldnames=self.associations[0][0].keys())
@@ -103,7 +103,7 @@ class associationMerger:
         self.__make_directory_for_merged_associations()
         self._clear_noises_before_reading()
 
-        with open(f'{self.out_data_path}/{self.out_data_merged_denoise_name}', 'w', newline='', encoding='utf-8-sig') as out_csvfile:
+        with open(f'{self.out_data_path}/{self.out_data_merged_denoise_name}', 'w', newline='') as out_csvfile:
 
             # to avoid errors given by mess data, we manually type fieldnames here later.
             fieldnames = ['sbm_id', 'expr_id', 'cond_id', 'para_nr', 'word_nr', 'word', 'duration', 'start_t', 'end_t',
@@ -115,6 +115,4 @@ class associationMerger:
             for item in self.associations:
                 for association_on_word in item:
                     if self.threshold_lower < association_on_word['duration'] < self.threshold_upper and association_on_word['word_nr'] != -1:
-                        # Clean newlines from word field to prevent CSV corruption
-                        association_on_word['word'] = association_on_word['word'].replace('\n', ' ').replace('\r', ' ')
                         writer.writerow(association_on_word)
