@@ -53,6 +53,8 @@ experiments/provo/data/provo_f160/
 # === EXCLUDE: Fișiere mari ===
 experiments/provo/data/provo_eyetracking.csv
 *.nb.html
+*.pkl
+*.csv
 
 # === EXCLUDE: Alte foldere inutile ===
 bayesian_models*/
@@ -68,3 +70,8 @@ BSPR_f150/
 provo_divided_by_reader_all/
 provo_rawdata/
 archives/
+BERT+REG/
+results/
+eyelink/
+020_RO_RO_1_ET1/
+experiments/
