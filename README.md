@@ -1,4 +1,4 @@
-# MoTR: Mouse-Tracking for Reading (LREC 2026)
+# MoTR: Mouse-Tracking for Reading
 
 This repository contains the implementation of **MoTR**, a framework designed to bridge the biomechanical gap between manual cursor movements and eye-tracking (ET) signals. The goal is to provide a scalable, low-cost proxy for cognitive reading research.
 
