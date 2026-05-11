@@ -1,77 +1,81 @@
-# === OS ===
+# 1. Ignoră fișierele de date
+*.csv
+*.tsv
+*.json
+*.asc
+*.edf
+*.log
+*.txt
+*.db
+*.sqlite
+*.RData
+*.Rhistory
+
+# 2. Ignoră fișierele cu modele
+*.pt
+*.pth
+*.bin
+*.h5
+*.safetensors
+*.pkl
+*.model
+*.joblib
+
+# 3. Ignoră poze, documente și fișiere media
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+*.pdf
+*.mp4
+*.md5
+*.nb.html
+
+# 4. Ignoră toate folderele cu excepția celor dorite (MoTR, MoTRReadingMeasures, ETReadingMeasures, REG)
+/020_RO_RO_1_ET1/
+/BERT+REG/
+/doc/
+/experiments/
+/eyelink/
+/graph/
+/LOG/
+/output/
+/question_analysis/
+/RawETData/
+/RawETData2/
+/RawMoTRData/
+/results/
+/ro_experiment_data/
+/archives/
+/bayesian_models*/
+/provo_temp/
+/Workflow/
+/metadata/
+/fixations/
+/raw_data/
+/temp/
+/review_response/
+/provo_cleaned_raw_fixation_not_merged/
+/BSPR_f150/
+/provo_divided_by_reader_all/
+/provo_rawdata/
+
+# 5. Ignoră fișiere OS, IDE, NPM, Python
 .DS_Store
 Thumbs.db
-
-# === Node.js / NPM ===
-node_modules/
-.npm/
-package-lock.json
-yarn.lock
-*.log
-
-# === Build ===
-dist/
-build/
-
-# === IDE ===
 .idea/
 .vscode/
 *.swp
 *.swo
-
-# === Python ===
+node_modules/
+.npm/
 __pycache__/
 *.pyc
 *.pyo
 venv/
 env/
-
-# === R ===
-.RData
-.Rhistory
-*.Rproj
+.venv/
 .Rproj.user/
-
-# === GitHub Actions ===
-.github/
-
-# === EXCLUDE: Experiments care NU sunt Provo ===
-experiments/attachment/
-MoTR/run_motr_in_magpie/attachment/
-MoTR/run_motr_in_magpie/demo/
-MoTR/run_motr_in_magpie/demo-Clara/
-
-# === EXCLUDE: Date procesate (regenerabile) ===
-experiments/provo/data/provo_f160/
-*/divided/
-*/corrected_divided/
-*/associations/
-*/reading_measures/
-*/processed_trial/
-*/preprocessed_trialData/
-
-# === EXCLUDE: Fișiere mari ===
-experiments/provo/data/provo_eyetracking.csv
-*.nb.html
-*.pkl
-*.csv
-
-# === EXCLUDE: Alte foldere inutile ===
-bayesian_models*/
-provo_temp/
-Workflow/
-metadata/
-fixations/
-raw_data/
-temp/
-review_response/
-provo_cleaned_raw_fixation_not_merged/
-BSPR_f150/
-provo_divided_by_reader_all/
-provo_rawdata/
-archives/
-BERT+REG/
-results/
-eyelink/
-020_RO_RO_1_ET1/
-experiments/
+build/
+dist/
