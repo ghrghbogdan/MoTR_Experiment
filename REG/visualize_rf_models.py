@@ -18,7 +18,7 @@ BERT_MODEL_NAME = "bert-base-multilingual-cased"
 BATCH_SIZE = 64
 PATH_MOTR_DATA = '/home/ASUS/MoTR/MoTRReadingMeasures/'
 PATH_ET_DATA = '/home/ASUS/MoTR/ETReadingMeasures/'
-MODEL_SAVE_DIR = '/home/ASUS/MoTR/RIDGEREG/saved_models/'
+MODEL_SAVE_DIR = '/home/ASUS/MoTR/REG/saved_models/'
 
 TARGET_PARA_NR = 8
 MIN_DURATION_MS = 50.0

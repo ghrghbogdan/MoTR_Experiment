@@ -41,7 +41,7 @@ def extract_question_data(df):
     # Propagă ItemId, Experiment, Condition înainte (forward fill)
     for col in ['ItemId', 'Experiment', 'Condition']:
         if col in df.columns:
-            df[col] = df[col].fillna(method='ffill')
+            df[col] = df[col].ffill()
     
     # Selectează doar rândurile care au date de întrebări
     question_rows = df[df[question_cols[0]].notna()].copy()

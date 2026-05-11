@@ -24,7 +24,8 @@ class DataSplitter:
             df['ItemId'].notna() & 
             df['PageNumber'].notna() & 
             df['Index'].notna() & 
-            df['Word'].notna()
+            df['Word'].notna() &
+            df['Index'] != 0
         ].copy()
         
         print(f"Rows after filtering: {len(df_filtered)}")

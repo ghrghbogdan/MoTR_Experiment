@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import joblib
 
-MODEL_SAVE_DIR = '/home/ASUS/MoTR/RIDGEREG/saved_models/'
+MODEL_SAVE_DIR = '/home/ASUS/MoTR/REG/saved_models/'
 os.makedirs(MODEL_SAVE_DIR, exist_ok=True)
 
 PATH_MOTR_FOLDER = '/home/ASUS/MoTR/MoTRReadingMeasures/'
@@ -143,7 +143,7 @@ def compare_all():
                    model_name="rf_et_to_motr_cross_ms")
 
     plt.suptitle("Universal Psycholinguistic Validation: MoTR vs Eye-Tracking", fontsize=16)
-    plt.savefig("comparison_matrix.png")
+    plt.savefig("comparison_matrix.svg", format='svg')
 
 if __name__ == "__main__":
     compare_all()

@@ -1,5 +1,37 @@
 export default [
   {
+    "Experiment": "0",
+    "Condition": "0",
+    "ItemId": "0",
+    "Item": "Training_Luna",
+    "Pages": [
+      "Luna\n\nhttps://ro.wikipedia.org/wiki/Luna\n\nDe la Wikipedia, enciclopedia liberă\n\nLuna este singurul satelit natural al Pământului. Ea orbitează în jurul Pământului la o distanță medie de 384.400 km (238.900 mile; 1,28 secunde lumină), sau aproximativ de 30 de ori diametrul Pământului.",
+      "Luna este întotdeauna orientată spre Pământ cu fața sa vizibilă pentru că perioada sa de rotație este egală cu perioada sa de revoluție, un fenomen rezultat din rotația sincronă cu Pământul. Această perioadă este, în raport cu Soarele, de 29,5 zile și este vizibilă ca ciclul fazelor lunare. Pentru Pământ, Luna a fost, în afară de Soare, cel mai influent obiect ceresc, în special datorită influenței sale gravitaționale, fiind principalul factor care determină mareele Pământului."
+    ],
+    "Questions": [
+      {
+        "question": "Care este distanța medie de la Pământ la Lună?",
+        "correct_answer": "384.400 km",
+        "options": [
+          "384.400 km",
+          "238.900 km",
+          "30.000 km",
+          "1.280.000 km"
+        ]
+      },
+      {
+        "question": "De ce este Luna întotdeauna orientată spre Pământ cu aceeași față?",
+        "correct_answer": "Pentru că perioada sa de rotație este egală cu perioada sa de revoluție",
+        "options": [
+          "Pentru că perioada sa de rotație este egală cu perioada sa de revoluție",
+          "Pentru că este foarte aproape de Pământ",
+          "Pentru că Soarele o menține în aceeași poziție",
+          "Pentru că mareele o mențin în această poziție"
+        ]
+      }
+    ]
+  },
+  {
     "Experiment": "2",
     "Condition": "1",
     "ItemId": "1",
@@ -9,7 +41,7 @@ export default [
       "Aceste activități includ întâlniri ale grupurilor de lucru, școli de formare pentru a împărtăși abilități cu cercetătorii mai tineri și vizite științifice de cercetare. Titlul proiectului Acțiunii COST MultiplEYE este: Facilitarea colectării datelor de urmărire oculară în mai multe limbi pentru cercetarea procesării limbajului de către om și a procesării automate. Acest lucru înseamnă că Acțiunea COST MultiplEYE urmărește să încurajeze o rețea interdisciplinară de grupuri de cercetare care lucrează la colectarea datelor de urmărire oculară în timpul citirii în mai multe limbi.",
       "Obiectivul este de a sprijini dezvoltarea unui corpus multilingv extins de urmărire oculară și de a permite cercetătorilor să colecteze date prin împărtășirea cunoștințelor între diverse domenii, inclusiv lingvistică, psihologie, logopedie și informatică. Aceste date pot fi apoi utilizate pentru a studia procesarea limbajului uman dintr-o perspectivă psiholingvistică, precum și pentru a îmbunătăți și evalua procesarea computațională a limbajului dintr-o perspectivă de învățare automată.",
       "Ce este urmărirea oculară?\nUrmărirea oculară este procesul de măsurare a punctului de privire – locul unde te uiți – și a mișcărilor ochilor între punctele fixe de privire. Dispozitivul utilizat pentru a măsura pozițiile și mișcările ochilor se numește eye-tracker. Acesta constă într-o cameră cu infraroșu, folosind o frecvență de lumină care nu deranjează sau rănește ochiul uman.",
-      "Cu ajutorul algoritmilor de recunoaștere a imaginii, eye-tracker-ul poate estima punctele de privire cu mare precizie, cunoscând poziția capului și a ochilor, distanța față de ecranul la care se uită participantul și poziția dispozitivului. Urmărirea oculară este o tehnologie utilă pentru multe aplicații. De exemplu, poate ajuta la detectarea oboselii în timpul condusului sau poate sprijini aplicațiile pentru screening și instruire în domeniul medical. Urmărirea oculară este folosită, de asemenea, în gaming, marketing și interacțiunea om-calculator.",
+      "Cu ajutorul algoritmilor de recunoaștere a imaginii, eye-tracker-ul poate estima punctele de privire cu mare precizie, cunoscând poziția capului și a ochilor, distanța față de ecranul la care se uită participantul și poziția dispozitivului. Urmărirea oculară este o tehnologie utilă pentru multe aplicații. De exemplu, poate ajuta la detectarea oboselii în timpul condusului sau poate sprijini aplicațiile pentru screening și instruire în domeniul medical. Urmărirea oculară este folosită, de asemenea, în gaming, marketing și interacțiunea om- calculator.",
       "De ce urmărirea oculară în timpul citirii prezintă interes pentru proiectul nostru?\nÎn timp ce citești aceste cuvinte, eye-tracker-ul urmărește mișcările ochilor tăi pe text. Acest lucru oferă informații despre cât timp petreci uitându-te la un text sau, mai specific, cât timp ai petrecut pe fiecare cuvânt, ce cuvinte ai sărit, asupra căror cuvinte te-ai oprit și dacă a trebuit să revii și să recitești părți ale textului pentru a-l înțelege mai bine.",
       "Pe măsură ce creierul tău procesează conținutul textului, mișcările ochilor reflectă multe dintre procesele lingvistice și cognitive care au loc aproape în timp real. Astfel, datele înregistrate sunt o adevărată comoară de informații despre cum construim sensul și structurile gramaticale ale unui text. Ele arată cu care părți ale textului întâmpinăm dificultăți și care sunt ușor de citit. Este responsabilitatea cercetătorilor să explice ulterior ce factori lingvistici au cauzat diferitele tipuri de mișcări ale ochilor.",
       "Motivația din spatele MultiplEYE este că datele de urmărire oculară sunt încă puține, mai ales pentru limbile cu un număr mai mic de vorbitori. O astfel de colectare extinsă a datelor reprezintă o provocare în ceea ce privește dezvoltarea și convenirea asupra designului experimental, complexității și tipurilor de texte care urmează să fie citite de către participanți. Alte decizii care par mai puțin relevante, dar sunt de fapt foarte importante, includ tipul și dimensiunea fontului în care este prezentat textul, ordinea textelor, procedura experimentului și modul în care vor fi procesate datele.",
@@ -568,7 +600,7 @@ export default [
       "www.sanatatea-in-actualitate.ro/lapte\nSĂNĂTATEA ÎN ACTUALITATE\nSPUNE „NU” LAPTELUI DE VACĂ!\nde Dr. R. Garza, reporter de specialitate",
       "Laptele de vacă reprezintă o parte importantă a vieții americanilor. Bebelușii consumă laptele de vacă la biberon. Copiii mănâncă cereale înmuiate în lapte. Chiar și adulții servesc un pahar cu lapte rece din când în când. Da, laptele de vacă reprezintă o parte însemnată în dieta umană pretutindeni în lume. Totuși, tot mai multe cercetări sugerează că laptele nu este miracolul de sănătate pe care îl promovează în mod constant reclamele americane.",
       "Ministerul Agriculturii, Consiliul Produselor Lactate și Unitatea de Management pentru Lactate din SUA precum și alte organizații au promovat în mod susținut beneficiile laptelui timp de ani de zile. Astfel, adulții sunt încurajați să bea trei pahare de lapte pe zi. Cu toate acestea, studiile ultimului deceniu pun sub semnul întrebării capacitatea de susținere a oaselor precum și alte beneficii pentru sănătate atribuite laptelui. Rezultatele vă pot surprinde.",
-      "Unul dintre cele mai importante și recente studii asupra efectelor consumului de lapte s-a publicat în numărul din octombrie 2014 al Jurnalului Medical Britanic. Rezultatele studiului au condus la câteva concluzii de mare impact. Mai mult de 100000 de persoane din Suedia au fost subiecții studiului pe o perioadă de 20-30 de ani. Cercetătorii au descoperit că femeile care beau lapte suferă mai multe fracturi de oase decât acelea care nu consumă lapte. În plus, atât femeile cât și bărbații care beau lapte suferă într-o proporție mai mare de boli de inimă și de cancer. Aceste rezultate șocante sunt similare cu acelea din alte studii.",
+      "Unul dintre cele mai importante și recente studii asupra efectelor consumului de lapte s-a publicat în numărul din octombrie 2014 al Jurnalului Medical Britanic. Rezultatele studiului au condus la câteva concluzii de mare impact. Mai mult de 100000 de persoane din Suedia au fost subiecții studiului pe o perioadă de 20- 30 de ani. Cercetătorii au descoperit că femeile care beau lapte suferă mai multe fracturi de oase decât acelea care nu consumă lapte. În plus, atât femeile cât și bărbații care beau lapte suferă într-o proporție mai mare de boli de inimă și de cancer. Aceste rezultate șocante sunt similare cu acelea din alte studii.",
       "Comitetul pentru Medicină Responsabilă (CMR) comentează problemele medicale legate de consumul de lapte. Practic, laptele și produsele lactate „aduc puține beneficii sau nu au niciun efect pozitiv asupra sistemului osos”. CMR evidențiază și câteva probleme specifice asociate consumului de lapte: „Proteinele din lapte, zaharurile, grăsimile, grăsimile saturate din produsele lactate reprezintă un risc asupra sănătății copiilor și contribuie la producerea obezității, diabetului și a bolilor de inimă.”",
       "Toate acestea sunt afirmații foarte dure și sunt necesare mai multe studii care să confirme rezultatele. Totuși sunt tot mai multe dovezi că laptele de vacă e mai puțin benefic pentru sănătate decât s-a crezut inițial. Dacă toate aceste afirmații devin fapte de necontestat e timpul să spui „nu” laptelui de vacă."
     ],
@@ -730,7 +762,7 @@ export default [
       "„Înainte să începem această lucrare, îmi făcusem câteva idei despre ce am putea descoperi”, a spus Carles Lalueza-Fox, care a condus studiul la Institutul de Biologie Evolutivă din Barcelona. „Majoritatea acestor idei s-au dovedit a fi complet greșite.”",
       "Echipa spaniolă și-a început munca după ce un grup de speologi a descoperit, în 2006, două schelete într-un sistem de peșteri complex și adânc situat în Munții Cantabrici, în nord-vestul Spaniei. Rămășițele umane, care aparțineau a doi bărbați de aproximativ 30 de ani, au fost extrem de bine conservate datorită mediului rece al peșterii.",
       "Datarea cu carbon a plasat rămășițele în urmă cu aproximativ 7.000 de ani, înainte ca agricultura să fi ajuns în Europa din Orientul Mijlociu. Vechimea se potrivea cu artefactele antice descoperite la fața locului, inclusiv dinți de ren perforați, care erau șiruiți și agățați de hainele oamenilor.",
-      "Pe lângă impactul științific, artiștii ar putea fi nevoiți să își regândească reprezentările acestor oameni. „Vezi o mulțime de reconstituiri ale acestor oameni care vânează și culeg și care arată ca europenii moderni cu pielea deschisă la culoare. Nu vezi niciodată o reconstituire a unui vânător-culegător din mezolitic cu pielea închisă la culoare și ochii albaștri”, a spus Lalueza-Fox.",
+      "Pe lângă impactul științific, artiștii ar putea fi nevoiți să își regândească reprezentările acestor oameni. „Vezi o mulțime de reconstituiri ale acestor oameni care vânează și culeg și care arată ca europenii moderni cu pielea deschisă la culoare. Nu vezi niciodată o reconstituire a unui vânător-culegător din mezolitic cu pielea închisă la culoare și ochii albaștri”, a spus Lalueza- Fox.",
       "Echipa spaniolă a comparat apoi genomul vânătorului-culegător cu cel al europenilor moderni din diferite regiuni pentru a vedea cum ar putea fi înrudiți. Au descoperit că ADN-ul antic se potrivea cel mai bine cu structura genetică a oamenilor care trăiesc în nordul Europei, în special în Suedia și Finlanda."
     ],
     "Questions": [

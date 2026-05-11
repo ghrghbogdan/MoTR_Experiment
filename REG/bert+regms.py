@@ -17,13 +17,13 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import joblib
 
-MODEL_SAVE_DIR = '/home/ASUS/MoTR/RIDGEREG/saved_models/'
+MODEL_SAVE_DIR = './saved_models/'
 os.makedirs(MODEL_SAVE_DIR, exist_ok=True)
 
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-PATH_MOTR_FOLDER = '/home/ASUS/MoTR/MoTRReadingMeasures/'
-PATH_ET_FOLDER = '/home/ASUS/MoTR/ETReadingMeasures/'
+PATH_MOTR_FOLDER = './MoTR/MoTRReadingMeasures/'
+PATH_ET_FOLDER = './MoTR/ETReadingMeasures/'
 
 COL_MOTR_DUR = 'total_duration'
 COL_ET_DUR = 'total_duration'
@@ -184,7 +184,7 @@ def compare_fusion_all():
                    model_name="rf_fusion_et_to_motr_cross_ms")
 
     plt.suptitle("FUSION MODEL (Ling + BERT): Universal Validation", fontsize=16)
-    plt.savefig("fusion_comparison_matrix.png")
+    plt.savefig("fusion_comparison_matrix.svg", format='svg')
 
 if __name__ == "__main__":
     compare_fusion_all()

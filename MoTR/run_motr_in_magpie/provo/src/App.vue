@@ -34,7 +34,7 @@
         <table>
           <tbody>
             <tr>
-              <td>Please enter your Prolific ID to continue:&nbsp;</td>
+              <td>Please enter your ID to continue:&nbsp;</td>
               <td><input name="TurkID" type="text" class="obligatory" v-model="$magpie.measurements.SubjectID" /></td>
             </tr>
           </tbody>
@@ -478,11 +478,16 @@ export default {
         this.currentQuestionIndex++;
       } else {
         trial.questions.forEach((q, idx) => {
+          
+          this.$magpie.measurements.ItemId = trial.ItemId;
+          this.$magpie.measurements.Experiment = trial.Experiment;
+          this.$magpie.measurements.Condition = trial.Condition;
+          
           this.$magpie.measurements[`question_${idx + 1}`] = q.question;
           this.$magpie.measurements[`answer_${idx + 1}`] = q.userResponse;
           this.$magpie.measurements[`correct_answer_${idx + 1}`] = q.correct_answer;
         });
-
+      
         this.showQuestions = false;
         this.currentQuestionIndex = 0;
         this.currentPage = 0;
